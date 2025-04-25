@@ -22,7 +22,7 @@ jobs:
 
     - name: Run the Python script to remove duplicates
       run: |
-        python3 workflows/remove_duplicates.py
+        python3 filters/remove_duplicates.py
 
     - name: Check if there are changes to commit
       run: |
