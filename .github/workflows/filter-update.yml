@@ -1,5 +1,8 @@
 name: Build Unified Filter List
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 3 * * *'  # Täglich um 3 Uhr früh
