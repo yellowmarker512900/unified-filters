@@ -1,0 +1,38 @@
+name: Filter List Processing
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  process-filter-list:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install Python
+      run: sudo apt-get install python3
+
+    - name: Remove duplicate filters
+      run: |
+        python3 -c "
+with open('filters/unified.txt', 'r') as f:
+    filters = f.readlines()
+filters_set = set(filters)
+with open('filters/unified.txt', 'w') as f:
+    f.writelines(filters_set)
+        "
+
+    - name: Commit updated filter list
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add filters/unified.txt
+        git commit -m "Removed duplicate filters"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
