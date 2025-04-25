@@ -30,19 +30,13 @@ jobs:
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt"
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt"
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/BrowseWebsitesWithoutLoggingIn.txt"
-            "https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt"
-            "https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt&commit=97fdeadf21544069b105db03a6d8aed6aa3ab9e5"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/spam-tlds-ublock.txt"
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt"
             "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antimalware.txt"
-            "https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt"
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt"
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt"
+            https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.mini.txt
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt"
             "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antitypo.txt"
-            "https://raw.githubusercontent.com/yellowmarker512900/FL/refs/heads/main/fl.txt"
-            "https://fanboy.co.nz/fanboy-cookiemonster.txt"
-            "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/brave-clean-up.txt"
+            "https://fanboy.co.nz/fanboy-cookiemonster.txt
           )
 
           for url in "${urls[@]}"; do
