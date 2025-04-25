@@ -1,0 +1,52 @@
+name: Update Filter List
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # täglich um 2 Uhr
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download and combine filter lists
+        run: |
+          mkdir -p combined
+          cd combined
+
+          curl -L -o part1.txt "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt"
+          curl -L -o part2.txt "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt"
+          curl -L -o part3.txt "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/block_third_party_fonts.txt"
+          curl -L -o part4.txt "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt"
+          curl -L -o part5.txt "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt"
+          curl -L -o part6.txt "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt"
+          curl -L -o part7.txt "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/BrowseWebsitesWithoutLoggingIn.txt"
+          curl -L -o part8.txt "https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt"
+          curl -L -o part9.txt "https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt&commit=97fdeadf21544069b105db03a6d8aed6aa3ab9e5"
+          curl -L -o part10.txt "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/spam-tlds-ublock.txt"
+          curl -L -o part11.txt "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt"
+          curl -L -o part12.txt "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antimalware.txt"
+          curl -L -o part13.txt "https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt"
+          curl -L -o part14.txt "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt"
+          curl -L -o part15.txt "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt"
+          curl -L -o part16.txt "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt"
+          curl -L -o part17.txt "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antitypo.txt"
+          curl -L -o part18.txt "https://raw.githubusercontent.com/yellowmarker512900/FL/refs/heads/main/fl.txt"
+          curl -L -o part19.txt "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt"
+          curl -L -o part20.txt "https://fanboy.co.nz/fanboy-cookiemonster.txt"
+          curl -L -o part21.txt "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/brave-clean-up.txt"
+
+          cat part*.txt > ../filterlist.txt
+
+      - name: Commit updated filter list
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          mv filterlist.txt .
+          git add filterlist.txt
+          git commit -m "Update combined filter list"
+          git push
