@@ -1,9 +1,9 @@
 name: Filter List Processing
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 4 * * *'  # Täglich um 4 Uhr UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,18 +16,22 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Install Python
-      run: sudo apt-get install python3
+    - name: Install Python (optional, falls nicht installiert)
+      run: |
+        python3 --version || sudo apt-get install python3
 
     - name: Run the Python script to remove duplicates
       run: |
         python3 workflows/remove_duplicates.py
+
+    - name: Check if there are changes to commit
+      run: |
+        git diff --exit-code filters/unified.txt || echo "Changes detected"
 
     - name: Commit updated filter list
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
         git add filters/unified.txt
-        git commit -m "Removed duplicate filters"
+        git commit -m "Removed duplicate filters" || echo "No changes to commit"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
-
