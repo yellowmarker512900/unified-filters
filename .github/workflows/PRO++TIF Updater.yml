@@ -20,7 +20,7 @@ jobs:
           mkdir -p filters
           cd filters
 
-          echo "[Adblock Plus 2.0]" > essentials_raw.txt
+          echo "[Adblock Plus 2.0]" > pro++tif_raw.txt
           echo "! Title: PRO++TIF Filterlist" >> pro++tif_raw.txt
           echo "! Author: anonym" >> pro++tif_raw.txt
           echo "! Description: Multi PRO++ and Threat Intelligence Feeds Full Combo" >> pro++tif_raw.txt
