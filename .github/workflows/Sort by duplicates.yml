@@ -4,8 +4,6 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: '0 3 * * *'  # Täglich um 3 Uhr früh
   workflow_dispatch:
 
 jobs:
