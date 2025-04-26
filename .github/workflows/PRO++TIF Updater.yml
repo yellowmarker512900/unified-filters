@@ -23,7 +23,7 @@ jobs:
           echo "[Adblock Plus 2.0]" > essentials_raw.txt
           echo "! Title: PRO++TIF Filterlist" >> pro++tif_raw.txt
           echo "! Author: anonym" >> pro++tif_raw.txt
-          echo "! Description: Essentials from yokoffing, hagezi, dandelionsprout" >> pro++tif_raw.txt
+          echo "! Description: Multi PRO++ and Threat Intelligence Feeds Full Combo" >> pro++tif_raw.txt
           echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> pro++tif_raw.txt
           echo "" >> pro++tif_raw.txt
 
@@ -44,7 +44,7 @@ jobs:
           # Metadaten + die sortierte saubere Liste kombinieren
           head -n 5 pro++tif_raw.txt > pro++tif.txt
           echo "" >> pro++tif.txt
-          cat pro++tif.txt >> pro++tif.txt
+          cat pro++tif_sorted.txt >> pro++tif.txt
 
       - name: Commit & Push
         run: |
