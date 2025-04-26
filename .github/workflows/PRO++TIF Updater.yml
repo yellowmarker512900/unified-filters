@@ -1,0 +1,55 @@
+name: Build Pro++TIF Filter List
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Täglich um 3 Uhr früh
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Combine and Clean Filterlists
+        run: |
+          mkdir -p filters
+          cd filters
+
+          echo "[Adblock Plus 2.0]" > essentials_raw.txt
+          echo "! Title: PRO++TIF Filterlist" >> pro++tif_raw.txt
+          echo "! Author: anonym" >> pro++tif_raw.txt
+          echo "! Description: Essentials from yokoffing, hagezi, dandelionsprout" >> pro++tif_raw.txt
+          echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> pro++tif_raw.txt
+          echo "" >> pro++tif_raw.txt
+
+          urls=(
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt"
+          )
+
+          for url in "${urls[@]}"; do
+            filename=$(basename "$url")
+            echo -e "\n\n! =============== Source: $filename ===============" >> pro++tif_raw.txt
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> pro++tif_raw.txt
+          done
+
+          # Jetzt: nur die Regeln extrahieren, sortieren und Duplikate entfernen
+          grep -v '^!' pro++tif_raw.txt | sort -u > pro++tif_sorted.txt
+
+          # Metadaten + die sortierte saubere Liste kombinieren
+          head -n 5 pro++tif_raw.txt > pro++tif.txt
+          echo "" >> pro++tif.txt
+          cat pro++tif.txt >> pro++tif.txt
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add filters/pro++tif.txt
+          git commit -m "Update PRO++TIF filter list"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
