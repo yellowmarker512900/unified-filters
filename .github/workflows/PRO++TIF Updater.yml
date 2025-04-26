@@ -45,19 +45,19 @@ jobs:
           head -n 5 pro++tif_raw.txt > pro++tif.txt
           echo "" >> pro++tif.txt
           cat pro++tif_sorted.txt >> pro++tif.txt
-
+          
 - name: Check for changes
   run: |
-    git add filters/pro++tif.txt
-    if git diff --cached --quiet; then
+    if git diff --quiet; then
       echo "No changes detected, skipping commit."
       exit 0
     fi
 
 - name: Commit & Push
+  if: success()  # Nur wenn sich etwas geändert hat
   run: |
     git config --global user.name "github-actions"
     git config --global user.email "actions@github.com"
+    git add filters/pro++tif.txt
     git commit -m "Update PRO++TIF filter list"
     git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
-
