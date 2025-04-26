@@ -1,0 +1,77 @@
+name: Build Mobile Ultimate Filter List
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Täglich um 3 Uhr früh
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Combine and Clean Filterlists
+        run: |
+          mkdir -p filters
+          cd filters
+
+          echo "[Adblock Plus 2.0]" > mobile_ultimate_raw.txt
+          echo "! Title: Mobile PRO++Mini TIF Medium Ultimate Filterlist" >> mobile_ultimate_raw.txt
+          echo "! Author: anonym" >> mobile_ultimate_raw.txt
+          echo "! Description: Mobile-focused full protection list for iPad and mobile use" >> mobile_ultimate_raw.txt
+          echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> mobile_ultimate_raw.txt
+          echo "" >> mobile_ultimate_raw.txt
+
+          urls=(
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.mini.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt"
+            "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt"
+            "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-ag-online.txt"
+            "https://easylist.to/easylist/easyprivacy.txt"
+            "https://easylist.to/easylist/easylist.txt"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt"
+            "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt"
+          )
+
+          for url in "${urls[@]}"; do
+            filename=$(basename "$url")
+            echo -e "\n\n! =============== Source: $filename ===============" >> mobile_ultimate_raw.txt
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> mobile_ultimate_raw.txt
+          done
+
+          # Regeln extrahieren, sortieren und Duplikate entfernen
+          grep -v '^!' mobile_ultimate_raw.txt | sort -u > mobile_ultimate_sorted.txt
+
+          # Metadaten + sortierte Liste kombinieren
+          head -n 5 mobile_ultimate_raw.txt > mobile_ultimate.txt
+          echo "" >> mobile_ultimate.txt
+          cat mobile_ultimate_sorted.txt >> mobile_ultimate.txt
+          
+      - name: Check for changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected, skipping commit."
+            exit 0
+          fi
+      
+      - name: Commit & Push
+        if: success()
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add filters/mobile_ultimate.txt
+          git commit -m "Update Mobile PRO++Mini TIF Medium Ultimate filter list"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
