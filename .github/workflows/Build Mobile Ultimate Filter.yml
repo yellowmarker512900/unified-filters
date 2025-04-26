@@ -21,10 +21,12 @@ jobs:
           cd filters
 
           echo "[Adblock Plus 2.0]" > mobile_ultimate_raw.txt
-          echo "! Title: Mobile PRO++Mini TIF Medium Ultimate Filterlist" >> mobile_ultimate_raw.txt
-          echo "! Author: anonym" >> mobile_ultimate_raw.txt
-          echo "! Description: Mobile-focused full protection list for iPad and mobile use" >> mobile_ultimate_raw.txt
+          echo "! Title: Mobile Ultimate Filterlist" >> mobile_ultimate_raw.txt
+          echo "! Author: anonym (yellowmarker512900)" >> mobile_ultimate_raw.txt
+          echo "! Description: Unified mobile filterlist combining Pro++Mini, TIF Medium, Native Apple/Xiaomi, EasyList, EasyPrivacy, Quick-Fixes, Badware Protection and more." >> mobile_ultimate_raw.txt
           echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> mobile_ultimate_raw.txt
+          echo "! Homepage: https://github.com/yellowmarker512900/unified-filters" >> mobile_ultimate_raw.txt
+          echo "! License: Same as all upstreams (non-commercial usage)" >> mobile_ultimate_raw.txt
           echo "" >> mobile_ultimate_raw.txt
 
           urls=(
