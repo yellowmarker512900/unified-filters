@@ -15,12 +15,17 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Combine Filterlists
+      - name: Combine and Clean Filterlists
         run: |
           mkdir -p filters
           cd filters
 
-          echo "! Essentials Filterlist – Stand: $(date -u)" > essentials.txt
+          echo "[Adblock Plus 2.0]" > essentials_raw.txt
+          echo "! Title: Essential Filterlist" >> essentials_raw.txt
+          echo "! Author: anonym" >> essentials_raw.txt
+          echo "! Description: Essentials from yokoffing, hagezi, dandelionsprout" >> essentials_raw.txt
+          echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> essentials_raw.txt
+          echo "" >> essentials_raw.txt
 
           urls=(
             "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt"
@@ -43,9 +48,18 @@ jobs:
           )
 
           for url in "${urls[@]}"; do
-            echo -e "\n! Source: $url" >> essentials.txt
-            curl -s "$url" | grep -vE '^(!|\s*$)' >> essentials.txt
+            filename=$(basename "$url")
+            echo -e "\n\n! =============== Source: $filename ===============" >> essentials_raw.txt
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> essentials_raw.txt
           done
+
+          # Jetzt: nur die Regeln extrahieren, sortieren und Duplikate entfernen
+          grep -v '^!' essentials_raw.txt | sort -u > essentials_sorted.txt
+
+          # Metadaten + die sortierte saubere Liste kombinieren
+          head -n 5 essentials_raw.txt > essentials.txt
+          echo "" >> essentials.txt
+          cat essentials_sorted.txt >> essentials.txt
 
       - name: Commit & Push
         run: |
