@@ -1,4 +1,4 @@
-sname: Build Essentials Filter List
+name: Build Essentials Filter List
 
 permissions:
   contents: write
