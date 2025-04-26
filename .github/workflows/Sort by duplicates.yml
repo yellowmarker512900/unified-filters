@@ -1,0 +1,47 @@
+name: Sort Duplicates
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:  # Manuell starten
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Build and Clean Filterlists
+        run: |
+          mkdir -p filters temp
+          rm -f temp/* filters/*
+
+          urls=(
+            "https://raw.githubusercontent.com/yellowmarker512900/unified-filters/refs/heads/main/filters/pro%2B%2Btif.txt"
+            "https://raw.githubusercontent.com/yellowmarker512900/unified-filters/refs/heads/main/filters/essentials.txt"
+          )
+
+          for url in "${urls[@]}"; do
+            echo "Hole $url"
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> temp/combined_raw.txt
+          done
+
+          # Doppelte Regeln erkennen
+          sort temp/combined_raw.txt | uniq -d > filters/duplicates.txt
+
+          # Saubere Liste erstellen
+          sort temp/combined_raw.txt | uniq > filters/clean_combined.txt
+
+          # Kurze Bestätigung
+          echo "Listen gebaut: clean_combined.txt & duplicates.txt"
+      
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add filters/clean_combined.txt filters/duplicates.txt
+          git commit -m "Update Clean Combined and Duplicates"
+          git push
