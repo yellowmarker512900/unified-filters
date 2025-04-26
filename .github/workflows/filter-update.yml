@@ -1,4 +1,4 @@
-name: Build Unified Filter List
+sname: Build Essentials Filter List
 
 permissions:
   contents: write
@@ -20,7 +20,7 @@ jobs:
           mkdir -p filters
           cd filters
 
-          echo "! Unified Filterlist – Stand: $(date -u)" > essentials.txt
+          echo "! Essentials Filterlist – Stand: $(date -u)" > essentials.txt
 
           urls=(
             "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt"
@@ -38,11 +38,13 @@ jobs:
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt"
             "https://fanboy.co.nz/fanboy-cookiemonster.txt"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt"
           )
 
           for url in "${urls[@]}"; do
-            echo -e "\n! Source: $url" >> unified.txt
-            curl -s "$url" | grep -vE '^(!|\s*$)' >> unified.txt
+            echo -e "\n! Source: $url" >> essentials.txt
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> essentials.txt
           done
 
       - name: Commit & Push
@@ -50,5 +52,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add filters/essentials.txt
-          git commit -m "Update unified filter list"
+          git commit -m "Update Essentials filter list"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
