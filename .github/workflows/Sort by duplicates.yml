@@ -49,7 +49,10 @@ jobs:
           total=$(wc -l < combined_raw.txt)
           unique=$(wc -l < ../filters/clean_combined.txt)
           duplicates=$(wc -l < ../filters/duplicates.txt)
-
+          
+          # Inhalt der Duplikate-Datei zwischenspeichern
+          dup_content=$(cat ../filters/duplicates.txt)
+          
           # Report in die Duplicates-Datei schreiben
           {
             echo "! ===== Duplicate Report ====="
@@ -58,7 +61,7 @@ jobs:
             echo "! Anzahl der gefundenen Duplikate: $duplicates"
             echo "! =================================="
             echo ""
-            cat ../filters/duplicates.txt
+            echo "$dup_content"
           } > ../filters/duplicates.txt
 
       - name: Check for changes
