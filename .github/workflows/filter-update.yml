@@ -20,14 +20,13 @@ jobs:
           mkdir -p filters
           cd filters
 
-          echo "! Unified Filterlist – Stand: $(date -u)" > unified.txt
+          echo "! Unified Filterlist – Stand: $(date -u)" > essentials.txt
 
           urls=(
             "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt"
             "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt"
             "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/block_third_party_fonts.txt"
             "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt"
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt"
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt"
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/BrowseWebsitesWithoutLoggingIn.txt"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/spam-tlds-ublock.txt"
@@ -38,6 +37,7 @@ jobs:
             "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antitypo.txt"
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt"
             "https://fanboy.co.nz/fanboy-cookiemonster.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt"
           )
 
           for url in "${urls[@]}"; do
@@ -49,6 +49,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add filters/unified.txt
+          git add filters/essentials.txt
           git commit -m "Update unified filter list"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
