@@ -45,6 +45,7 @@ jobs:
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt"
           )
 
           for url in "${urls[@]}"; do
