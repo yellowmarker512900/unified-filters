@@ -1,3 +1,9 @@
+! ===== Duplicate Report =====
+! Gesamtzahl aller gesammelten Regeln: 558451
+! Einzigartige Regeln nach Bereinigung: 509934
+! Anzahl der gefundenen Duplikate: 34734
+! ==================================
+
 #
 .fiverr.com/js_event_tracking/v1/track_email_open/$image
 ://www.wattpad.com/et?$image
