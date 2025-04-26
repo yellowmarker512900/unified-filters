@@ -26,12 +26,12 @@ jobs:
 
     - name: Check if there are changes to commit
       run: |
-        git diff --exit-code filters/unified.txt || echo "Changes detected"
+        git diff --exit-code filters/essentials.txt || echo "Changes detected"
 
     - name: Commit updated filter list
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
-        git add filters/unified.txt
+        git add filters/essentials.txt
         git commit -m "Removed duplicate filters" || echo "No changes to commit"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
