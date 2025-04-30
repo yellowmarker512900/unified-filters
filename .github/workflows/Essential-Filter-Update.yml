@@ -38,7 +38,6 @@ jobs:
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt"
             "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antimalware.txt"
             "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.mini.txt"
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt"
             "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antitypo.txt"
             "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt"
             "https://fanboy.co.nz/fanboy-cookiemonster.txt"
