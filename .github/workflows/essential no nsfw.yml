@@ -1,4 +1,4 @@
-name: Build Essentials Filter List
+name: Build Essentials no nsfw Filter List
 
 permissions:
   contents: write
@@ -20,12 +20,12 @@ jobs:
           mkdir -p filters
           cd filters
 
-          echo "[Adblock Plus 2.0]" > essentials_raw.txt
-          echo "! Title: Essential Filterlist" >> essentials_raw.txt
-          echo "! Author: anonym" >> essentials_raw.txt
-          echo "! Description: Essentials from yokoffing, hagezi, dandelionsprout" >> essentials_raw.txt
-          echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> essentials_raw.txt
-          echo "" >> essentials_raw.txt
+          echo "[Adblock Plus 2.0]" > essentialsnonsfw_raw.txt
+          echo "! Title: Essential nonsfw Filterlist" >> essentialsnonsfw_raw.txt
+          echo "! Author: anonym" >> essentialsnonsfw_raw.txt
+          echo "! Description: Essentials from yokoffing, hagezi, dandelionsprout" >> essentialsnonsfw_raw.txt
+          echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> essentialsnonsfw_raw.txt
+          echo "" >> essentialsnonsfw_raw.txt
 
           urls=(
             "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt"
@@ -51,22 +51,22 @@ jobs:
 
           for url in "${urls[@]}"; do
             filename=$(basename "$url")
-            echo -e "\n\n! =============== Source: $filename ===============" >> essentials_raw.txt
-            curl -s "$url" | grep -vE '^(!|\s*$)' >> essentials_raw.txt
+            echo -e "\n\n! =============== Source: $filename ===============" >> essentialsnonsfw_raw.txt
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> essentialsnonsfw_raw.txt
           done
 
           # Jetzt: nur die Regeln extrahieren, sortieren und Duplikate entfernen
-          grep -v '^!' essentials_raw.txt | sort -u > essentials_sorted.txt
+          grep -v '^!' essentialsnonsfw_raw.txt | sort -u > essentialsnonsfw_sorted.txt
 
           # Metadaten + die sortierte saubere Liste kombinieren
-          head -n 5 essentials_raw.txt > essentials.txt
-          echo "" >> essentials.txt
-          cat essentials_sorted.txt >> essentials.txt
+          head -n 5 essentialsnonsfw_raw.txt > essentialsnonsfw.txt
+          echo "" >> essentialsnonsfw.txt
+          cat essentialsnonsfw_sorted.txt >> essentialsnonsfw.txt
 
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add filters/essentials.txt
+          git add filters/essentialsnonsfw.txt
           git commit -m "Update Essentials filter list"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
