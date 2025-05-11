@@ -1,0 +1,66 @@
+name: Build Mobile ProMini TIFMini Filter List
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Täglich um 3 Uhr früh
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Combine and Clean Filterlists
+        run: |
+          mkdir -p filters
+          cd filters
+
+          echo "[Adblock Plus 2.0]" > mobile_promini_tifmini_raw.txt
+          echo "! Title: Mobile ProMini TIFMini Filterlist" >> mobile_promini_tifmini_raw.txt
+          echo "! Author: anonym (yellowmarker512900)" >> mobile_promini_tifmini_raw.txt
+          echo "! Description: Lightweight mobile-focused filter combining Hagezi Pro Mini and TIF Mini" >> mobile_promini_tifmini_raw.txt
+          echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> mobile_promini_tifmini_raw.txt
+          echo "! Homepage: https://github.com/yellowmarker512900/unified-filters" >> mobile_promini_tifmini_raw.txt
+          echo "! License: Same as all upstreams (non-commercial usage)" >> mobile_promini_tifmini_raw.txt
+          echo "" >> mobile_promini_tifmini_raw.txt
+
+          urls=(
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt"
+          )
+
+          for url in "${urls[@]}"; do
+            filename=$(basename "$url")
+            echo -e "\n\n! =============== Source: $filename ===============" >> mobile_promini_tifmini_raw.txt
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> mobile_promini_tifmini_raw.txt
+          done
+
+          # Regeln extrahieren, sortieren und Duplikate entfernen
+          grep -v '^!' mobile_promini_tifmini_raw.txt | sort -u > mobile_promini_tifmini_sorted.txt
+
+          # Metadaten + sortierte Liste kombinieren
+          head -n 6 mobile_promini_tifmini_raw.txt > mobile_promini_tifmini.txt
+          echo "" >> mobile_promini_tifmini.txt
+          cat mobile_promini_tifmini_sorted.txt >> mobile_promini_tifmini.txt
+          
+      - name: Check for changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected, skipping commit."
+            exit 0
+          fi
+      
+      - name: Commit & Push
+        if: success()
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add filters/mobile_promini_tifmini.txt
+          git commit -m "Update Mobile ProMini TIFMini filter list"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
