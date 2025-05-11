@@ -2,7 +2,7 @@
 ! Title: Mobile ProMini TIFMini Filterlist
 ! Author: anonym (yellowmarker512900)
 ! Description: Lightweight mobile-focused filter combining Hagezi Pro Mini and TIF Mini
-! Version: 2025-05-11 08:20:29 UTC
+! Version: 2025-05-11 12:50:32 UTC
 ! Homepage: https://github.com/yellowmarker512900/unified-filters
 
 
@@ -4255,7 +4255,6 @@
 ||aaxads.com^
 ||ab-automobile.de^
 ||ab-mknodepub.marketo.com^
-||ab.apple.com.akadns.net^
 ||ab.blogs.es^
 ||ab023-deb30.api.pushwoosh.com^
 ||aba.ae^
@@ -4839,7 +4838,6 @@
 ||aceup.club^
 ||acexedge.com^
 ||aceyonca.com^
-||acfeedbackws.icloud.com^
 ||acglgoa.com^
 ||acgrenobld.weebly.com^
 ||ach-confirmation.firebaseapp.com^
@@ -13465,7 +13463,6 @@
 ||applelounge.com^
 ||applemalayasia.asia^
 ||applemaster.se^
-||applemediaservices.com^
 ||applemusic-jp.com^
 ||applepharmacy.online^
 ||applepiedimarypie.com^
@@ -23587,7 +23584,6 @@
 ||camerettepromo.com^
 ||cameroonphonebook.com^
 ||camerotica.cfd^
-||camfx-analytics-events.apple.com^
 ||camghosts.com^
 ||camicazi.weeblysite.com^
 ||camiheritage.com^
@@ -24802,8 +24798,6 @@
 ||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||cdn-trez--docs.webflow.io^
 ||cdn-webstats.com^
-||cdn-xp-ingest-ab.v.aaplimg.com^
-||cdn-xp-ingest.edge.apple^
 ||cdn.234doo.com^
 ||cdn.adjust.com^
 ||cdn.admitad.com^
@@ -31639,12 +31633,6 @@
 ||csspiffle.com^
 ||csstatic.com^
 ||csstd.com^
-||cstat-lb.apple.com.akadns.net^
-||cstat-origin.apple.com^
-||cstat.apple.com.edgesuite.net^
-||cstat.apple.com^
-||cstat.cdn-apple.com^
-||cstat.g.aaplimg.com^
 ||cstatic.weborama.fr^
 ||cstm.baidu.com^
 ||cstor.nn2.ru^
@@ -33240,14 +33228,12 @@
 ||data4.aniview.com^
 ||database.sempulurpratamapapua.net^
 ||databasegalore.com^
-||databeacon.apple.com^
 ||databerries.com^
 ||databoat.zenkube.com^
 ||databrain.com^
 ||databreakers.com^
 ||datacaciques.com^
 ||datacenterr.wpenginepowered.com^
-||datacollection.apple.com^
 ||datacollection.beymen.com^
 ||datacollector-dra.dt.dbankcloud.cn^
 ||datacollector-drcn.dt.dbankcloud.cn^
@@ -34918,14 +34904,9 @@
 ||diadasmaes-desconto.fun^
 ||diadasmaesdescontos.online^
 ||diademsolutions.com^
-||diagassets-lb.apple.com.akadns.net^
-||diagassets.apple.com^
-||diagassets.g.aaplimg.com^
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
 ||diagnosisscript.com^
-||diagnostics.apple.com.akadns.net^
-||diagnostics.apple.com^
 ||diagnostics.thermo.com^
 ||diagnostika.com.ar^
 ||diagramjawlineunhappy.com^
@@ -42640,7 +42621,6 @@
 ||fbreview1008237587872.web.app^
 ||fbrfifkepayy.com^
 ||fbs.com^
-||fbs.smoot.apple.com^
 ||fbscontenttest.com^
 ||fbserviceassistenza.firebaseapp.com^
 ||fbserviceassistenza.web.app^
@@ -42812,9 +42792,7 @@
 ||feedback.miui.com^
 ||feedbackcontacts.world^
 ||feedbackstorage.blob.core.chinacloudapi.cn^
-||feedbackws.fe.apple-dns.cn^
 ||feedbackws.fe2.apple-dns.net^
-||feedbackws.icloud.com.cn^
 ||feedbackws.icloud.com^
 ||feedcat.net^
 ||feedgrabbr.com^
@@ -54208,7 +54186,6 @@
 ||iadcontent-lb.apple.com.akadns.net^
 ||iadcontent.apple.com^
 ||iadmat.nosdn.127.net^
-||iadmoo.apple.com^
 ||iadmusicmat.music.126.net^
 ||iadmusicmatvideo.music.126.net^
 ||iads.staticscdn.net^
@@ -54635,15 +54612,6 @@
 ||idhelpbusiness23948512354123.firebaseapp.com^
 ||idhelpbusiness23948512354123.web.app^
 ||idhtm.bb.com.br^
-||idiagnostics-devices-mdn.apple.com^
-||idiagnostics-devices-qa.apple.com^
-||idiagnostics-devices-reno.apple.com^
-||idiagnostics-ft.apple.com^
-||idiagnostics-mdn1.apple.com^
-||idiagnostics-qa.apple.com^
-||idiagnostics-reno.apple.com^
-||idiagnostics.apple.com.akadns.net^
-||idiagnostics.apple.com^
 ||idigitalservices.online^
 ||idio.co^
 ||idirect-com.weebly.com^
@@ -56509,7 +56477,6 @@
 ||internacionalnow.webcindario.com^
 ||internacionalvet.com^
 ||internal.queticollc.com^
-||internalcheck.apple.com^
 ||internallipiass.weebly.com^
 ||international-flexible-virtual-offices-space.site^
 ||international-flexible-virtual-offices-space.store^
@@ -56902,10 +56869,6 @@
 ||iphone10gs.com^
 ||iphonedefender.com^
 ||iphonedevtools.com^
-||iphonesubmissions-old.apple.com^
-||iphonesubmissions.apple.com.akadns.net^
-||iphonesubmissions.apple.com^
-||iphonesubmissions.v.aaplimg.com^
 ||iphoneupdate.com^
 ||iphuwoorabedauz.net^
 ||ipic.su^
@@ -62020,7 +61983,6 @@
 ||laugoust.com^
 ||lauhoosh.net^
 ||launch-pads.pages.dev^
-||launch.apple.com^
 ||launch1.co^
 ||launchapp-aperture.finance^
 ||launchbit.com^
@@ -67474,7 +67436,6 @@
 ||marketing.compuware.com^
 ||marketing.dropbox.com^
 ||marketing.r.niwepa.com^
-||marketing.services.apple^
 ||marketingassets.staples.com.edgekey.net^
 ||marketingcareer.jp^
 ||marketingcloudfx.com^
@@ -68581,7 +68542,6 @@
 ||mdtwo.top^
 ||mduff.cloud^
 ||mdy48tn97.com^
-||me.apple-dns.net^
 ||me.jmitchelldayton.com^
 ||me08mo.com^
 ||me44machael.wixstudio.com^
@@ -72473,7 +72433,6 @@
 ||msbe.cc^
 ||msbistorage.com^
 ||msbkprod.infoimageinc.com^
-||msc-dct-prod.msc.apple.com^
 ||mscdirect.demdex.net^
 ||mscdirect.sc.omtrdc.net^
 ||mscdirect.tt.omtrdc.net^
@@ -75352,7 +75311,6 @@
 ||news-losaji.com^
 ||news-map.beeinteractivemedia.com^
 ||news-muheji.com^
-||news-notification-events.apple.com^
 ||news-pewuce.com^
 ||news-sitogi.com^
 ||news-sphere.com^
@@ -77230,7 +77188,6 @@
 ||odflmarketing.112.2o7.net^
 ||odflodflmarketingprod.112.2o7.net^
 ||odgnaf.top^
-||odin-signals.apple.com^
 ||odin188d.cfd^
 ||odiven.com^
 ||odlhbbkmh.bkt.clouddn.com^
@@ -81886,7 +81843,6 @@
 ||performance-bonus-c2206.firebaseapp.com^
 ||performance-bonus-c2206.web.app^
 ||performance-logger.minted.com^
-||performance-partners.apple.com^
 ||performance.squarespace.com^
 ||performancefirst.jp^
 ||performancehorizon.com^
@@ -82344,7 +82300,6 @@
 ||phoneringtones.info^
 ||phonesay.app^
 ||phonespying.com^
-||phonesubmissions.apple.com^
 ||phonetracking.net^
 ||phongthaisamsung.com^
 ||phongthuyanlac.com^
@@ -85161,7 +85116,6 @@
 ||prod-collecticon.outlookmobile.com^
 ||prod-dcs-eventlog.decagames.com^
 ||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
-||prod-event-relay-api.v.aaplimg.com^
 ||prod-event-relay-books-api.v.aaplimg.com^
 ||prod-event-relay-notes-api.v.aaplimg.com^
 ||prod-event-relay-sports-api.v.aaplimg.com^
@@ -85170,7 +85124,6 @@
 ||prod-eventhub-analytics.servicebus.windows.net^
 ||prod-ingress-telemetry-4c22fc0d5ec1dd2e.elb.us-east-1.amazonaws.com^
 ||prod-knoxlog.secb2b.com^
-||prod-news-notification-events.v.aaplimg.com^
 ||prod-origin.truendo.com^
 ||prod-pod4-dvc-telemetry-podlbalb-859465392.us-east-1.elb.amazonaws.com^
 ||prod-pod5-dvc-telemetry-podlbalb-1565820981.us-west-2.elb.amazonaws.com^
@@ -86728,7 +86681,6 @@
 ||q8play.win^
 ||q9acc.cn^
 ||qa-events-schema.viacom.tech^
-||qa-iad.apple.com^
 ||qa-post-package.com^
 ||qa-se-d6o-shrsvc-2644-addh3router.az.ssdgws.co.uk^
 ||qaaohk.calpaktravel.com^
@@ -87646,8 +87598,6 @@
 ||radar-home.com^
 ||radar.cedexis.com^
 ||radar.imgsmail.ru^
-||radarsubmissions.apple.com.akadns.net^
-||radarsubmissions.apple.com^
 ||raddog.club^
 ||radianomix.info^
 ||radiansttwes.top^
@@ -92943,8 +92893,6 @@
 ||sdkecjd.weebly.com^
 ||sdkfjxjertertry.com^
 ||sdkgw.us1.twilio.com^
-||sdkintg-iad.apple.com^
-||sdkintgiad.apple.com^
 ||sdkl.info^
 ||sdklog.tvstore.opera.com^
 ||sdkoptedge.chinanetcenter.com^
@@ -93052,10 +93000,8 @@
 ||search5-search-hl.ixigua.com^
 ||search5-search.ixigua.com^
 ||searchad-phinf.pstatic.net^
-||searchads.apple.com.edgesuite.net^
 ||searchads.apple.com^
 ||searchads.google.com^
-||searchads.lb-apple.com.akadns.net^
 ||searchbutler.com^
 ||searchdatestoday.com^
 ||searchdimension.com^
@@ -97770,7 +97716,6 @@
 ||smoggysongs.com^
 ||smollpush.com^
 ||smonitor.com.br^
-||smoot-feedback.v.aaplimg.com^
 ||smooth-marriage.com^
 ||smopy.com^
 ||smore91.net^
@@ -100811,7 +100756,6 @@
 ||stewartpayroll.com^
 ||stezhok.com^
 ||stf.terra.com.br^
-||stg-iad.apple.com^
 ||stg.truvidplayer.com^
 ||stgcdn.com^
 ||stgenergy.com^
@@ -114153,8 +114097,6 @@
 ||ux.regretshansom.shop^
 ||uxcurrentlyteye.weebly.com^
 ||uxfcjhvkw62wxjhsn72wutht-udtjywrjtyj8wyeg.teemill.com^
-||uxintg-iad.apple.com^
-||uxintgiad.apple.com^
 ||uxip.meizu.com^
 ||uxopy.bond^
 ||uxosol.biz^
@@ -121312,12 +121254,8 @@
 ||xoxmos.store^
 ||xoxnetwork.com^
 ||xoxo2000.com^
-||xp-cdn.apple.com^
 ||xp-goods.store^
-||xp.apple.com.edgekey.net^
-||xp.apple.com^
 ||xp.atlassian.com^
-||xp.itunes-apple.com.akadns.net^
 ||xp0.936.mytemp.website^
 ||xp2023-pix.s3.amazonaws.com^
 ||xpaydex.com^
