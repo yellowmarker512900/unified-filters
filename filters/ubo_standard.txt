@@ -2,7 +2,7 @@
 ! Title: UBO Standard Filter List
 ! Author: anonym (yellowmarker512900)
 ! Description: Unified filterlist for Brave/Firefox with UBO built-ins, EasyList, AdGuard, Fanboy etc. (ohne Pro++/TIF)
-! Version: 2025-05-11 14:19:59 UTC
+! Version: 2025-05-11 14:24:52 UTC
 ! Homepage: https://github.com/yellowmarker512900/unified-filters
 ! License: Same as all upstreams (non-commercial usage)
 
