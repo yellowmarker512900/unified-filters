@@ -1,0 +1,59 @@
+name: Build Essentials iOS Filter List
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Täglich um 6 Uhr UTC (7 Uhr in Deutschland)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Combine and Clean Filterlists
+        run: |
+          mkdir -p filters
+          cd filters
+
+          echo "[Adblock Plus 2.0]" > essential_ios_raw.txt
+          echo "! Title: Essentials iOS Filterlist" >> essential_ios_raw.txt
+          echo "! Author: anonym" >> essential_ios_raw.txt
+          echo "! Description: Minimal Essentials für YouTube + Streaming auf iOS/iPad" >> essential_ios_raw.txt
+          echo "! Version: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> essential_ios_raw.txt
+          echo "" >> essential_ios_raw.txt
+
+          urls=(
+            "https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/privacy_essentials.txt"
+            "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt"
+            "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/BrowseWebsitesWithoutLoggingIn.txt"
+            "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antimalware.txt"
+            "https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt"
+            "https://fanboy.co.nz/fanboy-cookiemonster.txt"
+          )
+
+          for url in "${urls[@]}"; do
+            filename=$(basename "$url")
+            echo -e "\n\n! =============== Source: $filename ===============" >> essential_ios_raw.txt
+            curl -s "$url" | grep -vE '^(!|\s*$)' >> essential_ios_raw.txt
+          done
+
+          # Regeln extrahieren, sortieren, Duplikate entfernen
+          grep -v '^!' essential_ios_raw.txt | sort -u > essential_ios_sorted.txt
+
+          # Metadaten + sortierte Regeln
+          head -n 6 essential_ios_raw.txt > essential_ios.txt
+          echo "" >> essential_ios.txt
+          cat essential_ios_sorted.txt >> essential_ios.txt
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add filters/essential_ios.txt
+          git commit -m "Update Essential iOS filter list"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
