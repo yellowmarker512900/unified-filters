@@ -2,7 +2,7 @@
 ! Title: Essential Filterlist
 ! Author: anonym
 ! Description: Essentials from yokoffing, hagezi, dandelionsprout
-! Version: 2025-05-11 07:49:49 UTC
+! Version: 2025-05-11 07:50:08 UTC
 
 
 ###-CookieConsentContainer
