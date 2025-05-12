@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Täglich um 3 Uhr früh
+    - cron: '0 3 * * 2'  # Täglich um 3 Uhr früh
   workflow_dispatch:
 
 jobs:
@@ -28,8 +28,8 @@ jobs:
           echo "" >> pro++tif_raw.txt
 
           urls=(
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt"
-            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt"
+            "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt"
           )
 
           for url in "${urls[@]}"; do
