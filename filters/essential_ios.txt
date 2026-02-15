@@ -2,7 +2,7 @@
 ! Title: Essentials iOS Filterlist
 ! Author: anonym
 ! Description: Minimal Essentials für YouTube + Streaming auf iOS/iPad
-! Version: 2026-02-08 03:51:15 UTC
+! Version: 2026-02-15 03:38:44 UTC
 
 
 
@@ -18129,7 +18129,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /zigcookie.js
 /zoner-cookies.js
 019mobile.co.il###cookie-except-banner
-0mas000.com,3-be.se,aardeboerconsument.nl,acib.es,adler-wolfspark.de,almaqua.com,archon.im,atass.org,beno-zilina.sk,bet-duberseuil.com,bielypotok.com,biometricvox.com,bretislavka.cz,budos.fr,but-konto.de,cekantour.sk,ceoma.org,cero.cz,clg.cz,condohotele.eu,creativeworks.com.mx,cs3marketing.com,delogica.com,derkundschafter.de,digim.pl,dsd-dostal.cz,eisbratislava.org,enredadios.com,epoplast.sk,escolasagrera.cat,eworks.sk,femsinspace.com,fiebach-minninger.com,flordeesgueva.es,fmpack.com,funtechadventures.com,gamacisa.com,gemeinde-nordharz.de,grandhotelgarden.com,growzer.com,grupoicsolutions.com,helsingborg.se,hop-shop.hr,hotelcalina.com,hotelstatt.se,hotelstraznice.cz,ihka.be,imrvere.com,intertechnic.sk,iwareprint.pl,lasalita.org,lerroux.com,lineten.com,lofbergs.fi,macla.eu,mapalomo.com,metaling-jajce.com,odbpaderno.it,orientalysbeaute.com,pallejabcn.com,parimeo.de,perfectagro.pl,productosdieteticos.es,profile.es,proske-sanitaer.de,psicologia-estrategica.com,rbbeautycenter.com,reprogir.cat,sagobygden.se,schweintaal.sk,sgfinanciera.com,signframing.nl,soloducha.es,sortirahaguenau.fr,sosfinance.cz,tendermedia.es,thelondontunnels.com,thequantuminsider.com,totalmar.com,veclaicene.lv,vins-loupiac.com,visitaluksne.lv##.modal-cacsp-position
+0mas000.com,3-be.se,aardeboerconsument.nl,acib.es,adler-wolfspark.de,almaqua.com,archon.im,atass.org,beno-zilina.sk,bet-duberseuil.com,bielypotok.com,biometricvox.com,bretislavka.cz,budos.fr,but-konto.de,cekantour.sk,ceoma.org,cero.cz,clg.cz,condohotele.eu,covesa.global,creativeworks.com.mx,cs3marketing.com,delogica.com,derkundschafter.de,digim.pl,dsd-dostal.cz,eisbratislava.org,enredadios.com,epoplast.sk,escolasagrera.cat,eworks.sk,femsinspace.com,fiebach-minninger.com,flordeesgueva.es,fmpack.com,funtechadventures.com,gamacisa.com,gemeinde-nordharz.de,grandhotelgarden.com,growzer.com,grupoicsolutions.com,helsingborg.se,hop-shop.hr,hotelcalina.com,hotelstatt.se,hotelstraznice.cz,ihka.be,imrvere.com,intertechnic.sk,iwareprint.pl,lasalita.org,lerroux.com,lineten.com,lofbergs.fi,macla.eu,mapalomo.com,metaling-jajce.com,odbpaderno.it,orientalysbeaute.com,pallejabcn.com,parimeo.de,perfectagro.pl,productosdieteticos.es,profile.es,proske-sanitaer.de,psicologia-estrategica.com,rbbeautycenter.com,reprogir.cat,sagobygden.se,schweintaal.sk,sgfinanciera.com,signframing.nl,soloducha.es,sortirahaguenau.fr,sosfinance.cz,tendermedia.es,thelondontunnels.com,thequantuminsider.com,totalmar.com,veclaicene.lv,vins-loupiac.com,visitaluksne.lv##.modal-cacsp-position
 1000.menu###cookiescript_injected_wrapper
 10015.io##.dSErOH
 1001games.com,1001hry.cz,1001jeux.fr,1001jocuri.ro,1001jogos.com.br,1001jogos.pt,1001pelit.com,1001spiele.de,20min.ch,3sat.de,aerztezeitung.de,airnewzealand.co.nz,arkadium.com,automobiles.honda.com,avisendanmark.dk,billa.at,blaklader.at,blaklader.be,blaklader.ca,blaklader.com,blaklader.cz,blaklader.de,blaklader.dk,blaklader.ee,blaklader.es,blaklader.fi,blaklader.fr,blaklader.ie,blaklader.it,blaklader.nl,blaklader.no,blaklader.pl,blaklader.se,blaklader.uk,blick.ch,boomerang-tv.pl,cbslocal.com,chvnoticias.cl,cmore.fi,cnn.com,coca-cola.co.za,computerbase.de,cosplaycentral.com,costco.com,credit-suisse.com,de.hgtv.com,developer.confluent.io,dhl.de,dicebreaker.com,digitalfoundry.net,dmax.de,downdetector.com,drafthouse.com,e-ladestation.aldi-sued.de,elkspel.nl,elle.se,eurogamer.cz,eurogamer.pl,eurogamer.pt,foodandwine.com,forexlive.com,funnygames.be,funnygames.it,funnygames.nl,gamescom.global,gamesindustry.biz,gamespot.com,geizhals.at,geizhals.de,giochixl.it,gioco.it,glamourmagazine.co.uk,gmx.com,grajteraz.pl,groceries.asda.com,guloggratis.dk,heute.at,howstuffworks.com,igrixl.ru,ilsole24ore.com,isladejuegos.com,jatekokxl.hu,jelly.deals,jetztspielen.ws,juegosjuegos.ws,karriere.at,kizi.com,konami.com,larousse.fr,logitech.com,mail.com,mensjournal.com,mesta.net,milwaukeetool.eu,mtvuutiset.fi,nachrichten.at,natgeotv.com,nationalgeographic.de,nutmeg.com,observatornews.ro,oe24.at,okazii.ro,olympics.com,omnipod.com,paixnidiaxl.gr,panasonic.com,patagonia.com,posti.fi,pricerunner.com,pricerunner.dk,pricerunner.se,proximus.be,pushsquare.com,randalls.com,redbull.com,redbullracing.com,reisetopia.de,rockpapershotgun.com,rtlplay.be,rtlxl.nl,ryobitools.eu,saal-digital.at,saal-digital.bg,saal-digital.ch,saal-digital.com,saal-digital.cz,saal-digital.de,saal-digital.dk,saal-digital.ee,saal-digital.es,saal-digital.eu,saal-digital.fi,saal-digital.fr,saal-digital.gr,saal-digital.hu,saal-digital.lt,saal-digital.lv,saal-digital.nl,saal-digital.pl,saal-digital.pt,saal-digital.ro,saal-digital.se,saal-digital.si,saal-digital.sk,salesforce.com,sony.pl,southpark.de,spel.nl,spelletjes.nl,spelo.se,spillespill.no,spilxl.dk,sport.pl,starwarscelebration.com,stern.de,storia.ro,tagesanzeiger.ch,technics.com,ted.com,thehaul.com,thejournal.ie,thepopverse.com,thetrainline.com,tio.ch,tokfm.pl,travelandleisure.com,travelbook.de,tunein.com,tvn24.pl,uber-platz.de,unity.com,uphold.com,vg247.com,videoland.com,vol.at,watson.ch,webuyanycar.com,wetter.at,wowbiz.ro,zdf.de,zoom.us#@##onetrust-consent-sdk
@@ -18153,7 +18153,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 1800runaway.org,aceprensa.com,ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cofense.com,detonated.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,loro.co.il,lsisoftware.pl,lucerna-chem.ch,luukku.com,lwab.se,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,mitreprinting.co.uk,ourdutyofcare.org.uk,polutowani.pl,realvnc.com,ritchy.com,rwi.se,shotam.info,smackcoders.com,takeoff.org.mt,terracreta.gr,terveyskauneus.fi,tvpop.com.br,tzumi.com,vrxdb.com,webdesignspecialistamsterdam.nl,whatcounts.com##.dialog-lightbox-message
 18virginsex.com,5corners.ru,7-price.com,7mind.de,abb.com,abcproxy.com,agrituber.it,agroportal.ua,akeshofsslott.se,akstel.ru,alahome.hu,alexab2b.com,alfa-network.eu,altervista.org,altoadige-tirolo.com,alutech-group.com,anglianwater.co.uk,applefirmwares.com,apteka911.ua,artgranit.md,asko-home.ru,atomstroy.net,auto.co.il,autoreisen.com,avans.nl,avecodebondt.nl,babiesrus.co.za,bancontact.com,bancontactpayconiq.com,batterika.ru,bc-nark.ru,bcci.tv,beauty-wellart-oase.de,bestsellers.hu,bevachip.hu,bino.lv,bitpunk.de,blueflamingo.cz,boele.nl,boosteroid.com,bosporshop.ru,brands4africa.co.za,brownmac.com,bug.hr,buildtoconnect.com,calista-opt.ru,callcredit.co.uk,canariatravel.cz,capujemedrogeriu.sk,castleton.edu,catbirdnyc.com,cct.hu,certh.gr,charuel.ru,chefsforchefs.co.uk,cibeg.com,citizen.com.ph,citizenwatch.com.tw,ckglobtour.cz,clubtshe.com,coasul.com.br,conferencemanager.dk,corvalliscustom.com,cosgroup.com.ua,coubassistant.com,crazydomains.co.uk,creatie.ai,credem.it,customessaymeister.com,danielsen.eu,daparto.de,darkflash.com,dbpublishing.pl,ddos-guard.net,dealburn.fr,debonthvanhulten.nl,dedeman.ro,delet.jhi.pl,dermashop.hu,derwaldhof.com,dgtpartners.cz,digiakademie.cz,dirk.nl,dolomitenstadt.at,dominospizza.ee,domkipogorzelica.com,dorahacks.io,drega.de,dschool.ru,dubotechniek.nl,dw.com,dynamicasrl.com,eachother.org.uk,eastwoodfinancial.co.uk,eatstoats.com,ecco-shoes.by,edu-sense.com,edukatico.org,eegmp3.com,egmus.vip,ehecatl.com.mx,ekogrunty.ru,elcidiomas.com,eldoled.com,enver.nl,environment.ee,environment.lt,environment.lv,eponuda.com,escala.be,estaldo.com,ethex.org.uk,etimad.sa,euroweldgroup.lt,evaapp.ai,everpharma.ru,fahrschule-schoeps.de,fairfair.at,farecompare.com,farlightgames.com,ffr.fr,filescan.io,finansowysupermarket.pl,findeks.com,firstshop.hu,fitfoodway.ro,flygbussarna.se,focuscamera.hu,folkart.com.tr,forever21.com,foxenergy.pl,fs.com,fuchswacker.de,fum.info.pl,g-ygol.ru,gdr.pl,gemteks.com,gen-i.si,gensbouw.nl,genuinewriting.com,genussregion.tirol,gestoriaverdugo.es,ggkm.ru,girlstyle.com,glashuette-original.com,globtour.sk,gmhost.hosting,gooddollar.org,goossentepas.nl,gophonebox.com,greve.nl,gruzim-vse.com,gtlk.ru,gyorgyteabolt.hu,hafnertraktoren.com,halvacard.ru,happywithyoga.com,hashrating.com,hemostop.ro,hempelyacht.com,here.com,hesselbyslott.se,hinet.net,hino.ru,hitmotors.ru,hmi-basen.dk,hotelterminus.bg,houseofjamie.com,hreyfing.is,hud.ac.uk,humboldt-foundation.de,humdes.com,hwilson.net,hzpp.hr,ichastaliklari.org,ichwillmeinmotorradloswerden.de,idemitsu.com,ikwilvanmijnautoaf.nl,ikwilvanmijnscooteraf.nl,imp.ac.at,infopoint-europa.de,infrest.de,innovabr.com.br,inpgi.it,intellishore.dk,intexty.com,investcapital.com.mt,iplt20.com,iqweb.io,island-green.ru,italiadomani.gov.it,itape.com,itresume.ru,jahodovevino.sk,japanmotors.pl,jazzwelt.sk,jeffery-west.co.uk,joautok.hu,jv.ru,kaktus.ua,kanal-o.ru,karatekyokushin.hu,katolikus.hu,kayseriseker.com.tr,kessel.nl,key-test.ru,kitchentime.dk,kitchentime.no,kitchentime.se,kiwipress.hu,koffievergelijk.nl,koketsfavoriter.se,kondorwessels-amsterdam.nl,kongreskrio.pl,kora.fr,koreanair.com,korzinka.uz,kroondekoning.nl,kurskdrama.ru,kwh-seniorenbetreuung.de,kws.nl,landmarkpark.co.uk,lastberget.com,lastepoch.com,lava-drops.com,lcbo.com,lechpils.pl,leonorgreyl.com,les.gov.mt,licitanet.com.br,lileya.com.ua,liptonicetea.com,llider.ru,ludwig.guru,m64.info,machinestock.com,magdeburger.com.tr,magnaparte.com,magwai.ru,makujakauppa.fi,mandarinoriental.com,massanzug-online.at,massanzug-online.ch,massanzug-online.de,matratzen-concord.de,mazowieckie.com.pl,mci.gov.sg,mclaren.com,mcnallycontractors.com,medianauka.pl,mediobancapremier.com,meetingselection.se,megamallbucuresti.ro,megatop.by,melford.co.uk,metallbau-mueller.de,midacbatteries.com,missingvideo.com,mjoomen.nl,mkkedr.ru,mmgastro.pl,mobitec.be,modecom.com,model-kartei.de,modhoster.com,mofa.gov.sa,mojavoda.sk,morgenwonen.nl,mp3poolonline.com,mpi.govt.nz,mpl.be,mpr-shop.ru,mts.by,muskathlon.com,mydraw.com,myfin.by,mysky.com.ph,mysteriumvpn.com,narbutas.fr,narbutas.ru,nasbyslott.se,nationalcircus.org.uk,natwest.com,nbb-netzgesellschaft.de,neon-service.pl,news247.gr,nikon-asia.com,nobis.it,nodum.io,nooksguide.com,nornickel.com,novaindex.com,novyny.live,npl.co.uk,nudo.com.tr,obligacjeskarbowe.pl,occrp.org,oceandegrace.com,octotree.io,oggusto.com,okbssp.ru,okko.ua,oldgoesyoung.com,olinecontact.ru,onzeveilingonline.nl,opc.de,opendata.mkrf.ru,oscillo.ru,otouczelnie.pl,oxin-growers.nl,packforce.fi,paraf.com.tr,parafgenc.com.tr,parat.com,paulymeubles.be,payconiq.be,pc.domains,pch-dienstengroep.nl,pdfreaderpro.com,pepperl-fuchs.com,petrovax.ru,peugeotstore.lt,pilsnerurquell.com,planetasport.rs,polstor.pl,postoffice.co.uk,pracowniapozarzadowa.pl,pretty.presslogic.com,primeconstruction.pl,prodir.com,promenada.ro,promenadanovisad.rs,propiteer.com,prs-international.nl,purnatur.eu,quale-vita.com,quantum-inspire.com,quelpneu.com,railcom.nl,rb.is,rbs.co.uk,rcv123.org,redditinc.com,regione.puglia.it,repertuarim.com,revanchedelafemme.de,rientiestuinmachines.nl,ringoo.ua,rmh.ru,roalddahl.com,rosersbergsslott.se,rostec.ru,rottinghuis.nl,rowenta.com,rozochka.ru,russwood.co.uk,rutoken.ru,safaco.pl,safedns.com,samsunghealthcare.com,sbh-ausbau.de,schwarz-horn.de,scotchwhisky.com,sddhelp.ru,secapital.lu,sekom.com.tr,sense.org.uk,sgt-oelsnitz.de,sheldrickwildlifetrust.org,shojin.co.uk,shop.derfunke.at,sibsoc.ru,silhouettedesignstore.com,silverlake.com,silverstonetek.com,sintez.online,siticard.ru,skiline.cc,skoroprint.com,skytteholm.se,sleek-mag.com,smitsneuchatel.nl,softhints.com,software.charliemonroe.net,soinc.com.tw,sovremennik.ru,sovrhistory.ru,spaceinspace.ru,spartanien.de,specialdeal.at,spexi.com,sports-esta.com,squirt.org,ssessments.com,stamendekoning.nl,stammzellen-verstehen.de,starcar.de,statusbrew.com,strive4.bg,student.is,suedtirol-tirol.com,sulu.io,super.fm,svitroslyn.ua,sw.dk,swing-cut.de,swinoujscie-apartamenty.com,swissfundplatform.ch,sylimarol.pl,syntevo.com,syntrabrussel.be,szerszamoutlet.hu,targipiw.lublin.pl,tatuzinho.com.br,tdlorien.ru,team-mediaportal.com,techleap.nl,techmart.bg,teenmegaworld.net,tenko.ua,thegap.at,theoddshop.nl,tidart.com,tk-alpha.ru,tminn.com,togetherall.com,top-electronics.com,top4mobile.ro,toysrus.co.za,trailfinders.com,treasurytoday.com,tri-shop24.de,trickyoldteacher.com,trodat.sk,trosastadshotell.se,tt-72.ru,tubidy.news,tuneupmedia.com,tw-calc.net,twitchstrike.com,typhoon.coffee,tyrol4you.com,ufkesapeldoorn.nl,ufs-online.ru,ukastrum.ru,ulfsundaslott.se,unimax.com.tw,union.hu,universalna.com,unternehmensbericht.boehringer-ingelheim.de,urbanlifehk.com,usynovite.ru,utilities.nl,vanagtmaal.nl,vanderpoelterneuzen.nl,vandevenbv.nl,vasbe.com,vcz.hr,veluwezoomverkerk.nl,vialis.nl,vigszinhaz.hu,visitorscoverage.com,visserensmitbouw.nl,volkergroundengineering.co.uk,volkerhighways.co.uk,volkerlaser.co.uk,volkerrail.co.uk,volkerstevin.co.uk,volkerwessels.co.uk,vrsrail.nl,vrt.be,vsf.nl,vwinfra.nl,vwt-belgium.be,vwvastgoed.nl,wannawork.com,wantbaby.info,warmbat.nl,weareplaystation.fr,wellnesswarehouse.com,wessels-zeist.nl,wesselsrijssen.nl,westo.nl,wgmarienehe.de,wmt.top,wome.com.tr,woodupp.fr,wpnew.ru,wykop.pl,x-lam.it,xn--80ahmohdapg.xn--80asehdb,xo-securite.com,yachtclubgames.com,yavitrina.ru,ytddownloader.com,zahnarzt-dr-hoff.de,zettains.ru,zielonykamien.pl,zoomarket.by,zorgid.eu,zrin-otkup.com,zuhalmuzik.com##.cookie
 1950americandiner.it##.np-cookies__screen
-1ak-group.com,3dnews.ru,560theanswer.com,abcdinamo.com,abconcerts.be,adbro.com,adrianlimani.com,ascoltareradio.com,authorized.by,bcc.nl,bg-radio.org,bioespecie.com,bitstamp.net,cecotec.es,ceskaradiaonline.cz,chacoonline.com.ar,comunicacionsmt.gob.ar,congeo.nl,crypto.news,diarioalfil.com.ar,diariosumario.com.ar,dnb.nl,doaj.org,duhuliye.com,ecouterradioenligne.com,egyptradio.net,eldiadehigueras.com.ar,embedany.com,emisora.cl,emisora.org.es,emisoras.com.gt,emisoras.com.mx,emisoras.com.py,faberlic.com,factyl.com,forcepoint.com,freepdfconvert.com,ftm.eu,ftm.nl,gamewith.net,gault-millau.nl,gaultmillau.be,gaultmillau.lu,geeksforgeeks.org,group.softbank,haltech.com,heinz.st,hesburger.fi,hesburger.lv,hisense.com,ieradio.org,ifminvestors.com,inforegister.ee,informatesalta.com.ar,inleed.se,instant.audio,internetradiouk.com,israelnationalnews.com,jamaicaradio.net,jpradio.jp,kidtoys.site,lagacetadegrancanaria.com,latvijasradio.com,letsgomartin.com,lmdiario.com.ar,logoplaste.com,lu17.com,mediaserve.com,meijikinenkan.gr.jp,merosch.nl,mightyapetravel.co.nz,mutualart.com,nationwidevehiclecontracts.co.uk,naturalworldsafaris.com,nederlandseradio.nl,nettiradiot.org,nettradionorge.com,newsroom.justeattakeaway.com,niaiu.pl,noor-book.com,onlineradio.pl,osa.cz,oviahealth.com,pastelink.net,peoplematters.in,plmxpert.nl,podcast.de,preciosa.com,pukkelpop.be,querobolsa.com.br,raadiod.com,radijas.org,radio-bd.com,radio.cd,radio.co.ci,radio.co.cm,radio.co.dk,radio.co.ma,radio.co.ug,radio.co.ve,radio.com.gh,radio.com.lk,radio.ht,radio.mg,radio.net.pk,radio.or.ke,radio.org.ng,radio.org.nz,radio.org.ph,radio.org.ro,radio.org.se,radio.pp.ru,radio.sn,radioalgerie.eu,radioarg.com,radioau.net,radiofona.com.gr,radiohallgatas.hu,radiolisten.de,radionp.com,radioonline.co.id,radioonline.com.pt,radioonline.kr,radioonline.my,radios.co.at,radios.co.cr,radios.co.ni,radios.com.bo,radios.com.co,radios.com.do,radios.com.ec,radios.com.pa,radios.com.pe,radios.com.sv,radios.com.uy,radios.hk,radios.hn,radios.hr,radios.lu,radios.org.il,radios.tw,radiosa.org,radiosaovivo.net,radiosdecuba.com,radiosdepuertorico.com,radiosingapore.org,radiosonline.be,radiosonline.ch,radiostanice.rs,radioth.net,radiotunisienne.org,radioua.net,regionoeste.com.ar,ricos.ltd,riverelmasgrande.com,route-inn.co.jp,runpulse.com,sinparty.com,siradio.si,snowworld.com,sodutch.nl,sohohouse.com,springaqua.com,sqlservercentral.com,surinaamseradio.com,teinvitoalcine.com,tether.io,toneelhuis.be,trafficstars.com,trinidadradiostations.net,truyenyy.xyz,twinsfun.com,uokik.gov.pl,upcomingvinyl.com,vietnamradio.org,vinkkoeltechniek.com,vitrosearch.ch,vmcardio.com,webhallen.com,werkenbijversluis.nl,zhibo.fm##.cookie-consent
+1ak-group.com,3dnews.ru,3dwarehouse.sketchup.com,560theanswer.com,abcdinamo.com,abconcerts.be,adbro.com,adrianlimani.com,ascoltareradio.com,authorized.by,bcc.nl,bg-radio.org,bioespecie.com,bitstamp.net,cecotec.es,ceskaradiaonline.cz,chacoonline.com.ar,comunicacionsmt.gob.ar,congeo.nl,crypto.news,diarioalfil.com.ar,diariosumario.com.ar,dnb.nl,doaj.org,duhuliye.com,ecouterradioenligne.com,egyptradio.net,eldiadehigueras.com.ar,embedany.com,emisora.cl,emisora.org.es,emisoras.com.gt,emisoras.com.mx,emisoras.com.py,faberlic.com,factyl.com,forcepoint.com,freepdfconvert.com,ftm.eu,ftm.nl,gamewith.net,gault-millau.nl,gaultmillau.be,gaultmillau.lu,geeksforgeeks.org,group.softbank,haltech.com,heinz.st,hesburger.fi,hesburger.lv,hisense.com,ieradio.org,ifminvestors.com,inforegister.ee,informatesalta.com.ar,inleed.se,instant.audio,internetradiouk.com,israelnationalnews.com,jamaicaradio.net,jpradio.jp,kidtoys.site,lagacetadegrancanaria.com,latvijasradio.com,letsgomartin.com,lmdiario.com.ar,logoplaste.com,lu17.com,mediaserve.com,meijikinenkan.gr.jp,merosch.nl,mightyapetravel.co.nz,mutualart.com,nationwidevehiclecontracts.co.uk,naturalworldsafaris.com,nederlandseradio.nl,nettiradiot.org,nettradionorge.com,newsroom.justeattakeaway.com,niaiu.pl,noor-book.com,onlineradio.pl,osa.cz,oviahealth.com,pastelink.net,peoplematters.in,plmxpert.nl,podcast.de,preciosa.com,pukkelpop.be,querobolsa.com.br,raadiod.com,radijas.org,radio-bd.com,radio.cd,radio.co.ci,radio.co.cm,radio.co.dk,radio.co.ma,radio.co.ug,radio.co.ve,radio.com.gh,radio.com.lk,radio.ht,radio.mg,radio.net.pk,radio.or.ke,radio.org.ng,radio.org.nz,radio.org.ph,radio.org.ro,radio.org.se,radio.pp.ru,radio.sn,radioalgerie.eu,radioarg.com,radioau.net,radiofona.com.gr,radiohallgatas.hu,radiolisten.de,radionp.com,radioonline.co.id,radioonline.com.pt,radioonline.kr,radioonline.my,radios.co.at,radios.co.cr,radios.co.ni,radios.com.bo,radios.com.co,radios.com.do,radios.com.ec,radios.com.pa,radios.com.pe,radios.com.sv,radios.com.uy,radios.hk,radios.hn,radios.hr,radios.lu,radios.org.il,radios.tw,radiosa.org,radiosaovivo.net,radiosdecuba.com,radiosdepuertorico.com,radiosingapore.org,radiosonline.be,radiosonline.ch,radiostanice.rs,radioth.net,radiotunisienne.org,radioua.net,regionoeste.com.ar,ricos.ltd,riverelmasgrande.com,route-inn.co.jp,runpulse.com,sinparty.com,siradio.si,snowworld.com,sodutch.nl,sohohouse.com,springaqua.com,sqlservercentral.com,surinaamseradio.com,teinvitoalcine.com,tether.io,toneelhuis.be,trafficstars.com,trinidadradiostations.net,truyenyy.xyz,twinsfun.com,uokik.gov.pl,upcomingvinyl.com,vietnamradio.org,vinkkoeltechniek.com,vitrosearch.ch,vmcardio.com,webhallen.com,werkenbijversluis.nl,zhibo.fm##.cookie-consent
 1avisum.de##.announcement
 1bazar.sk,300dollardatarecovery.com,42krunning.com,78rpm.club,aboutitgroup.co.za,adevinta.com,adimorahblog.com,admiralparkhotel.com,admvital.com,advister.it,aldrimer.no,ammirati.org,arcasting.it,arcturus.be,autexier.fr,author-it.com,autobusweb.com,beatotemilano.it,bestofjazz.org,biogaran.fr,blackview.es,bodymaja.fi,bookinglive.com,bookitit.com,boost.com.mt,briefyourmarket.com,carujeme.cz,carzine.gr,castgroup.com.br,castlebrook.fr,cats.com,ciociaria24.net,clevergirlfinance.com,codinaarchitectural.com,colisexpat.com,contact-telephone.com,copenhagenlightfestival.org,costcocouple.com,crimsontech.jp,cryptogyani.com,cuatroochenta.com,dcmais.com.br,designtagebuch.de,doogweb.es,dsgta.ch,dynamicauctioneers.co.za,ecole-steiner-verrieres.org,eetimes.com,eluxemagazine.com,energylandia.pl,enthralling.eu,entrepreneursdumonde.org,eteknix.com,ferienwohnungen-ignazhof.de,fitinteriors.com,florianwmueller.com,fromthemurkydepths.co.uk,gamalin.com,gazteberri.eus,gentjazz.com,gezond.info,gilsonazevedo.com.br,glutarama.com,grupafachowiec.eu,gs1es.org,guildford-dragon.com,gulf.de,hotel-engiadina.ch,howwegettonext.com,ibmix.de,iempresa.net,ilpatronato.it,implantate.org,ina.hr,infusioncentre.co.za,innoplexus.com,jalkapallon-mm.fi,jtag.com,kegsofftap.com.au,kleinjagtlust.nl,kudowa.pl,kuluttaja.fi,kunstverein-friedrichshafen.de,kuribay.fr,larionews.com,lazertelecom.com,littletalks.at,louroe.com,lubiehrubie.pl,lzautomobile.de,majorleaguetrading.com,materom.ro,mbbuzz.com,mirusmed.com,misaij.fi,mizunogolf.com,myllarin.fi,newcare.agency,nokioteca.net,oley.com,pcs.com.mt,pierregignoux.fr,popcorncinemashow.com,power-sprays.com,power-type.com,praktijkreestenregge.nl,premiumsound.co.uk,prenota.humanitas.it,radiogalileo.it,radioitaliacina.com,radiologen-mansfelder-land.de,radioplayeritalia.it,regioneo.pl,reinventer-le-monde.fr,remadewithlove.nl,renasterea.ro,ridecake.com,rinconpsicologia.com,risecannabis.com,robertobeloki.com,router-kaufen.com,rubbella.nl,runspree.com,sannicandro.org,seapointleisure.ie,shellsoul.com,silverbt.com,sivamspa.it,smcexclusive.co.za,softsuggester.com,sora24.it,spaccioitalia.com,spinbreak.fr,ssarezzo.it,sub5.se,termometropolitico.it,thecatholictravelguide.com,thefetishistas.com,theghostinmymachine.com,thesushitimes.com,tilomotion.com,ttigroup.com,tuxera.com,uvetgbt.com,uw.edu.pl,vimentis.ch,webmanuals.aero,whatsup.es,windowsteca.net,woesteland.nl,wpweb.com,zampadigallina.com,zapolsky.fr###cookie-law-info-bar
 1c-victory.ru##.cookies-block
@@ -18168,7 +18168,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 1news.co.nz##.test-notificationPopup
 1parola.it,1word.ws,bestwordlist.com,listediparole.it,ortograf.ws,wikwik.org###cd
 1password.com##[aria-label="Cookie Consent"]
-1password.com,70mai.com,aberrant.io,aci.dev,actievandedag.nl,adspower.com,adspower.net,aksam.com.tr,androidide.com,animalpolitico.com,anjunadeep.com,aplikuj.pl,app.daily.dev,archive.ics.uci.edu,auf1.info,auf1.tv,auroracloud.dev,ausbildung-in-der-it.de,autodiiler.ee,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,bbcrewind.co.uk,bcfc.com,bellevue-hamburg.de,bestsellers.hu,betway.com.gh,bigcommerce.com,biggerthanallofus.com,biljardihuolto.fi,blickers.com,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canal1.com.co,canaries.co.uk,chipcitycookies.com,clickz.com,cline.bot,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeanlabs.com,codeclimate.com,combokit.net,confi.com.vc,count.co,cryptomaan.eu,curator.io,curiositystream.com,czepeku.com,delio.com.pl,dhakapost.com,discords.com,ditjesendatjes.nl,divvydiary.com,drank.nl,drweb.com,drweb.ru,eluniverso.com,elvah.de,emergency.wa.gov.au,emiratespost.ae,epic.com,epochtimes.se,espres.so,everifin.com,eversafe.id.telus.com,evolutionary-insights.com,fakings.com,fanzo.com,femometer.com,fetch.ai,financestrategists.com,findaport.com,first-law.com,flakehub.com,fluxaiimagegenerator.com,focus-entmt.com,food52.com,form3.tech,fvd.nl,garbanzo.io,gauss.hr,glideapps.com,goafricaonline.com,goflink.com,greenmatch.co.uk,ground.news,haproxy.com,hendy.co.uk,hrt.hr,icecat.biz,ideo.com,idprotect.trendmicro.com,inewi.pl,institute.global,institutoaocp.org.br,interdiscount.ch,invezz.com,iotworldtoday.com,ipon.hu,issf-sports.org,jdoodle.com,jimejinak.cz,jobicon.pracuj.pl,jobyaviation.com,keeb-finder.com,kyero.com,licenseglobal.com,liverpool.com.mx,lorde.co.nz,lounges.tv,madlifes.com,majorfood.com,matkakeisari.fi,mclarenstore.com,medimagazin.com.tr,mein-apothekenmanager.de,mintegral.com,mitec.net,moises.ai,nanobananas.ai,nationalprivacytest.org,nbg.gov.ge,nedicom.ru,newschecker.in,nigged.com,nitronationworldtour.com,npistanbul.com,oberlo.com,oko.press,oldspitalfieldsmarket.com,onsk.no,opening-hours.today,parqet.com,penger.no,pepeporn.com,peppagame.com,perille.fi,podsqueeze.com,pornermates.com,prettylittlething.com,procrosshairs.com,productpine.com,prographers.com,propello.bike,publicsquare.com,puma.com,pump.fun,qogita.com,qr.nspk.ru,qwertee.com,ranzijn.nl,raport.pse.pl,redcross.ee,regiojet.at,regiojet.com,regiojet.de,regiojet.hu,regiojet.pl,regiojet.sk,regiojet.ua,regiojethotels.at,regiojethotels.com,remarkable.com,runmercury.com,selfstock.com,shakuro.com,shopflavcity.com,sitecore.com,skyfi.com,skynet.ru,sleep.me,slimsaas.com,smartthingsfind.samsung.com,snoop.app,soniox.com,splav.ru,spotlighttheatres.com,ssrchat.com,standwithcrypto.org,streamawards.de,stylesandpartners.com,surnamedb.com,synapse.patsnap.com,tekninen.fi,teltonika-gps.com,teltonika-networks.com,temporal.io,thehappytoolbox.com,tierschutzverein-muenchen.de,tina.io,tinybird.co,truthsocial.com,tweetyai.com,twitchcon.com,uc.pt,unox.com,vantilburgonline.nl,vegetology.com,veryfront.com,wizzair.com,wyylde.com,yunexpress.com,zubi.swiss##.bottom-0.fixed
+1password.com,70mai.com,aberrant.io,aci.dev,actievandedag.nl,adspower.com,adspower.net,aksam.com.tr,androidide.com,animalpolitico.com,anjunadeep.com,aplikuj.pl,app.daily.dev,archive.ics.uci.edu,auf1.info,auf1.tv,auroracloud.dev,ausbildung-in-der-it.de,autodiiler.ee,avislease.sk,back4app.com,ballonvaartcentrumvanmanen.nl,bbcrewind.co.uk,bcfc.com,bellevue-hamburg.de,bestsellers.hu,betway.com.gh,bigcommerce.com,biggerthanallofus.com,biljardihuolto.fi,blickers.com,blog.appsignal.com,blomus.com,bookiply.com,boords.com,britishrenewables.com,bsbfashion.com,bulldogjob.com,bulldogjob.pl,canal1.com.co,canaries.co.uk,chipcitycookies.com,clickz.com,cline.bot,clubmed.co.nz,clubmed.co.uk,clubmed.com.ar,clubmed.com.mx,clubmed.ru,clubmed.se,clubmed.us,codeanlabs.com,codeclimate.com,combokit.net,confi.com.vc,count.co,crosshairhub.com,cryptomaan.eu,curator.io,curiositystream.com,czepeku.com,delio.com.pl,dhakapost.com,discords.com,ditjesendatjes.nl,divvydiary.com,doctorweb.id,drank.nl,drweb-av.de,drweb-av.es,drweb-av.it,drweb-av.pl,drweb.by,drweb.cn,drweb.co.jp,drweb.com,drweb.fr,drweb.kz,drweb.ru,drweb.uz,elo7.com.br,eluniverso.com,elvah.de,emergency.wa.gov.au,emiratespost.ae,epic.com,epochtimes.se,espres.so,everifin.com,eversafe.id.telus.com,evolutionary-insights.com,fakings.com,fanzo.com,femometer.com,fetch.ai,financestrategists.com,findaport.com,first-law.com,flakehub.com,fluxaiimagegenerator.com,focus-entmt.com,food52.com,form3.tech,fvd.nl,garbanzo.io,gauss.hr,glideapps.com,goafricaonline.com,goflink.com,greenmatch.co.uk,ground.news,haproxy.com,hendy.co.uk,hrt.hr,icecat.biz,ideo.com,idprotect.trendmicro.com,inewi.pl,institute.global,institutoaocp.org.br,interdiscount.ch,invezz.com,iotworldtoday.com,ipon.hu,issf-sports.org,jdoodle.com,jimejinak.cz,jobicon.pracuj.pl,jobyaviation.com,keeb-finder.com,kyero.com,licenseglobal.com,liverpool.com.mx,lorde.co.nz,lounges.tv,madlifes.com,majorfood.com,matkakeisari.fi,mclarenstore.com,medimagazin.com.tr,mein-apothekenmanager.de,mintegral.com,mitec.net,moises.ai,nanobananas.ai,nationalprivacytest.org,nbg.gov.ge,nedicom.ru,newschecker.in,nigged.com,nitronationworldtour.com,npistanbul.com,oberlo.com,oko.press,oldspitalfieldsmarket.com,onsk.no,opening-hours.today,parqet.com,penger.no,pepeporn.com,peppagame.com,perille.fi,podsqueeze.com,pornermates.com,prettylittlething.com,pricempire.com,procrosshairs.com,productpine.com,prographers.com,propello.bike,publicsquare.com,puma.com,pump.fun,qogita.com,qr.nspk.ru,qwertee.com,ranzijn.nl,raport.pse.pl,redcross.ee,regiojet.at,regiojet.com,regiojet.de,regiojet.hu,regiojet.pl,regiojet.sk,regiojet.ua,regiojethotels.at,regiojethotels.com,remarkable.com,runmercury.com,selfstock.com,shakuro.com,shopflavcity.com,sitecore.com,skinsrestorer.net,skyfi.com,skynet.ru,sleep.me,slimsaas.com,smartthingsfind.samsung.com,snoop.app,soniox.com,splav.ru,spotlighttheatres.com,ssrchat.com,standwithcrypto.org,streamawards.de,stylesandpartners.com,surnamedb.com,synapse.patsnap.com,tekninen.fi,teltonika-gps.com,teltonika-networks.com,temporal.io,thehappytoolbox.com,tierschutzverein-muenchen.de,tina.io,tinybird.co,truthsocial.com,tweetyai.com,twitchcon.com,uc.pt,unox.com,vantilburgonline.nl,vegetology.com,veryfront.com,wizzair.com,wyylde.com,yunexpress.com,zubi.swiss##.bottom-0.fixed
 1ps.ru,albaparty.org,aldeparty.eu,amundi.pl,animesdigital.org,animesgames.net,biodiv.be,bitmoji.com,clementoni.com,decisiondeskhq.com,future.mcmaster.ca,gloss.ua,greybox.com,icanw.org,liveradio.ie,snp.org,volksbuehne.berlin###disclaimer
 1rnd.ru,go31.ru##.pop-out__container
 1win.br.com,2020da.com,2jewels.it,accon.com,adlbg.com,adventures-kompakt.de,aflite.co.uk,airotel.gr,alepia.pl,alternative-zu.de,andrewsandbrown.co.uk,antologien.dk,aon.com,aphaccountants.co.uk,aqform.com,archimagazine.com,artifolk.co.uk,assm.ch,atramentowka.com,autonoleggioilgirasole.it,autozine.de,autozine.nl,babanet.hu,balans.nu,bee.com.mt,belushis.com,best-faucets.com,betradar.com,bimibroccoli.ch,bimibroccoli.co.uk,bimibroccoli.dk,bimibroccoli.it,bimibroccoli.nl,bimibroccoli.se,bimibrocoli.fr,bimibrocolis.pt,bimibrokkoli.de,bimibrokkoli.no,bimiparsakaali.fi,bokono.pl,bookingsouthtyrol.com,bulles-de-bonheur.com,bulpittcrocker.com,bunkeroil.no,burg-lindenfels.de,butterworthsaccountants.co.uk,buty-mustang.pl,camionsupermarket.it,cateno.no,christianbook.com,citroen-club.it,clouders.co.uk,codedwebmaster.com,comlab.ch,comune.montecchio-maggiore.vi.it,confidisystema.com,constructionguarantee.ie,coolweb.gr,cretetv.gr,crossleyanddavis.net,dartshopper.de,debex-potsdam.de,decolove.com,delitosinformaticos.com,diakron.net,disclose.ngo,docmicro.com,doctorberlin.de,domwroc24.pl,dufa.com.tr,e-dewocjonalia.eu,e-doggy.com,easttothesun.com,ecoemi.lv,econsteel.de,ekosklad.si,eleader.biz,elektro-met.pl,ellathebee.de,emiter.net.pl,ericom.com,esselunga.it,esve.cz,europa-vrachtwagens.nl,europe-mountains.com,extramagazine.eu,ezzocard.com,familycity.com,fft.co.uk,fiberatlantic.com,fino.hr,fitout.de,fixeta.com,flexrun-software.de,flipspot.de,flowfitonline.com,foodplus.eu,freedayshop.es,fremantlemedia.com,g-o-hannover.de,garageequipment.co.uk,garycansick.co.uk,gencboya.com.tr,geoweb.it,giornaledicalabria.it,goldankauf123.de,gopractice.ru,grace96.com,grilloagrigarden.ru,grillofrance.fr,gulfstream.com,hannoversche-kassen.de,hartleyfowler.com,haushalts-robotic.de,hdmecze.com,hearingdogs.org.uk,hemp.pl,hiqonline.co.uk,hivatas.com,hodinky-365.com,holystone.com.tw,homanit.org,horlogerie4you.fr,hotelplzen.cz,hug-baustoffe.ch,hupx.hu,iadvize.com,iglazura24.pl,imu.nl,inf.org,inscience.news,invalsi.it,it-shop24.pl,italiarecensioni.com,jag.pl,jsol.co.jp,kaffeeverband.de,kalinowo.pl,kb.se,keyboardco.com,kicc.org.uk,klockor4you.nu,kmcchain.de,kmcchain.eu,koloknet.hu,konzerthaus-dortmund.de,koupelny-sen.cz,kube.no,kud.pl,la-tour.ch,lawebdelprogramador.com,legebatterijen.nl,lexiq.hu,life.by,lifescience.net,lightexpert.nl,lonewolfonline.net,lubricantesruescas.com,ludusa.com,lutecium.org,lvr.de,mailion.ru,makspower.no,mallorca.de,man4car.com,maxwelland.co.uk,meblemagnat.pl,megastore.com.mt,merlinscamp.com,messinaline.it,mirka.com,mobileroadie.com,modryzub.eu,monitoruljuridic.ro,mustang-chaussures.fr,mustang-cipo.hu,mustang-scarpe.it,mustang-shoes.pl,mustang-sko.dk,mustang-skor.se,mutualhelp.eu,myoffice.ru,myofficehub.ru,naszezoo.pl,naukawpolsce.pl,neurologe-freiburg.de,nik-technik.de,nik.bg,notebookspecialista.hu,novema-nova.hr,nspcc.org.uk,obuv-mustang.ru,oil-land.pl,oilplusltd.com,okuciakrakow.pl,onenessscotland.org,onlanta.ru,oprogramowanie-przychodnia.pl,orologi4you.it,osnews.pl,parkerpartnership.co.uk,pcforce.pl,pcinplzen.cz,peakbusinesssolutions.com,persoonlijkegezondheidscheck.nl,peterjarman.com,photogirl.cz,phpipam.net,pilarohy.cz,pilot-frixion.be,pilot-frixion.ch,pilot-frixion.it,pilot-frixion.uk,pisoscentro.com,pizzacasa.hu,pma.com.au,politikon.es,portaley.com,positronx.io,pracuj.pl,prestashop.com,pretix.eu,priorygroup.com,proglib.io,proklima-hannover.de,przegladarka-ekw.ms.gov.pl,przyjaznarekrutacja.pl,pszs.eu,publishwhatyoufund.org,qtravel.pl,raaccountants.com,radcom.ro,raising-ducks.com,relojes4you.es,revistablogurilor.ro,rimini.com,ritmo.it,rodacciai.fr,saa.co.uk,sach-mat.cz,sail-lastminute.com,sainsburysenergy.com,samw.ch,sandisonlang.com,sanfrancescopatronoditalia.it,sassari.tv,schoenen-mustang.nl,schoms.ac.uk,schulze-architektur.com,scienceinpoland.pl,searchlightmagazine.com,sedecal.com,shelties-vom-uhleneck.de,siamfoods.com,simmons-simmons.com,sinko-soko.jp,skanetrafiken.se,sklep-art-meb.pl,sklep-wadima.pl,sklep.3mk.pl,sklep.cyfronika.com.pl,sklep.wodbud.com.pl,skovdyrkerne.dk,spesati.it,squash4you.pl,stadt.no,stamfordstone.co.uk,starlane.com,stca.co.uk,stiripesurse.ro,stpaccounts.com,studiobio.cz,subarufanclub.cz,submitaplan.com,supernet.hr,svitol.it,svjedocanstva.com,swiat-sypialni.pl,swiatloistyl.pl,swissid.ch,swisssign.com,tadeevo.com,tanktrouble.com,tavasriepas.lv,tel.com,tenis.net,terredeshommes.org,thebmc.co.uk,timeshop4you.co.uk,toomeymotorgroup.co.uk,torp-fasteners.no,toyota-td.jp,triplan.dk,tutsandtips.com,tvcorner.com,uhren4you.de,uni-miskolc.hu,unsee.cc,unwire.hk,vag247.com,vandpieseauto.com,velanet.it,videokedvenc.hu,virtualeye.pl,virtuveslietas.lv,vzajemna.si,wacoaccountants.co.uk,webextension.org,wellcard.at,weller.com.pl,wertigo.ru,wheatley-group.com,windpress.info,wirtschaftsfoerderung-hannover.de,www.bayern.de,xfutbol.pl,youngminds.org.uk,zbmath.org###cookie
@@ -18200,6 +18200,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 360.cymru###negesCaniatad
 387878.ru,ankar70.ru,artfolio.bz,autocandy.ru,b-k.su,bibi-car.ru,centrmama.ru,dskcompany.ru,kmew-fasad.ru,kurch.ru,lpmotor.ru,medisclinic.ru,odaban.by,omnicomm-serov.ru,priles.ru,psy5.ru,retailbet.com,skin-health.ru,stroy-interer.ru,xn--80aap0ajpfdfz.xn--p1ai,xn--80apbahcjkbhv5aaif8e.xn--p1ai,xn--90ahveejsb4f.xn--p1ai##.m-wrapper-bg--glass
 3arena.ie,about.me,ad-maven.com,bethesda.net,blog.aujourdhui.com,brandalley.co.uk,cambridge.org,delfortgroup.com,dlink.com,doc.bz.it,drawabox.com,eveningtelegraph.co.uk,fastcompany.com,flowwow.com,gw2treasures.com,inc.com,istotne.pl,lidl-ni.co.uk,lidl.co.uk,lidl.com.mt,lidl.dk,lidl.ie,lidl.lt,lidl.ro,lidl.se,light-it.net,lojasrenner.com.br,lucasentertainment.com,megawrzuta.pl,ministrants.com,moviepilot.de,mvagusta.com,pelit.fi,podoplus.be,postimees.ee,proff.dk,provincieantwerpen.be,puregym.com,sciencex.com,spreds.com,stormgain.com,telia.fi,toluna.com,versus-omega.com.tr,vialibri.net,ybs.co.uk,yola.com,zaplo.dk##.notification
+3daistudio.com,lustery.com###cc-main
 3dexperience.3ds.com##.gdpr-modal
 3dg-textile.bg,auto-onderdelen.nu##.cookie_holder
 3dprinting.com##.mdl-js-bigsnackbar
@@ -18211,7 +18212,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 3suisses.fr,aastavebniny.cz,ace-hotel-poitiers.com,agronatur.com.br,agrpartners.com,airnewzealand.eu,akvarianamiru.cz,aldi-sued.de,antonellajoias.com.br,apollohospitals.com,aquateam-shop.de,atlasformen.co.uk,atlasformen.com,atlasformen.cz,atlasformen.de,atlasformen.hu,atlasformen.nl,atlasformen.pl,atlasformen.sk,audioprotesistas.org,bachmann-collectorsclub.co.uk,bachmann.co.uk,bijourama.com,bindergroesswang.at,bmeia.gv.at,bodensee-airport.eu,bospol.cz,busmap.fr,bydy.com.br,camping-app.info,carimboartes.com.br,cipherlab-shop.de,claudianum.sk,comptoirdelhomme.com,cyi.ac.cy,d-art-design.de,declikdeco.com,deutsches-ausschreibungsblatt.de,digitalbonus.bayern,digiwallet.com,direct-cuves.fr,doc-du-juriste.com,domvast.nl,dreammachines.com.ua,esjobogarden.se,eurodata.de,fabricadepremios.com,faifiltri.it,fiorestore.com.br,first-certificate.com,fischer-garten.de,fitnessraum.de,fly-go.it,fsacessorios.com.br,galaflorgmbh.de,galleria.com.pl,gezond.nl,gibson.com,golvprofilshop.se,greenpassgolf.com,gruenderland.bayern,guymy.com.br,hallofbrands.gr,haloursynow.pl,hliva-ustricna.cz,hofer.at,hollandandbarrett.com.cy,htb-wenzlow.de,icarojoias.com.br,ico.de,ilmonet.fi,insolve.hr,instalxpert.com,itineraire-metro.fr,junalo.com,kekelit.com,kiennast.at,kojenecke-obleceni.eu,kontaktlinsenking.de,kurse.eatsmarter.de,leadersummaries.com,lemoncurve.com,levnesporaky.cz,longchamp.com,loombard.pl,lydshop.no,mak.at,mapquest.co.uk,masjerez.com,massgeneralbrigham.org,mateco.ro,mcglonemtg.com,medika.ro,mencorner.com,mohrsiebeck.com,nabytok-aldo.sk,naradesign.com.br,naz-feldberg.de,nazoberedonau.de,ncts.ie,paposertanejo.com,perfumeriasavenida.com,picardiegazette.fr,placedescommerces.com,pngwebicons.com,policia.es,premiumrent.ro,primus-apotheken-stadecken.de,pristupy.com,qv.co.nz,regueira.com,rentacarmaramures.com,schaden.news,schoenbrunn.at,shop-datalogic.de,shop-honeywell.de,shop-motorola.de,shop-newland.de,shop-tsc.de,shop-zebra.de,sinalco.de,sinfonicadegalicia.com,sixt.com.tr,sokol-zidlochovice.cz,sorbas-frankfurt.de,soundbrothers-onlineshop.de,spartorama.gr,spectranet.com.ng,startfrei.at,tabletteslorraines.fr,tchibo.de,thechillidoctor.sk,thefoodmaker.com,theodorkoernerfonds.at,tonycar.cz,toshiba-tv.com,umm.nordpoolgroup.com,unidavi.edu.br,unioncamere.gov.it,vaillant-group.com,varomajoias.com.br,videostart.cz,vileda.com,vileda.nl,vinaralia.com,vor.at,vyskovskyfotbal.cz,webkamery.online,xhamsternft.com,zshercikova.cz,zt.hu##.modal
 404media.co##.fading::after
 407etr.com##.css-jf2s7w
-40gold.de,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,christ-sucht-christ.de,comet-cine-center.de,deskmodder.de,dnca-investments.com,druck-pirmasens.de,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,eden-seefeld.at,enercoop.fr,erzdioezese-wien.at,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,kathpress.at,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pohjanmaan.fi,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ujaen.es,upperaustria.at,valzner-weiher.de,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
+40gold.de,araba.eus,austrianwings.info,barmherzige-brueder.at,belfortinternational.be,berghotel-sudelfeld.de,book-n-drive.de,bsvs.at,buecher.de,cd-cc.si,christ-sucht-christ.de,comet-cine-center.de,deskmodder.de,dnca-investments.com,druck-pirmasens.de,duracell.co.uk,duracell.com.au,duracell.de,duracell.dk,duracell.es,duracell.fr,duracell.it,duracell.nl,duracell.pl,eden-seefeld.at,enercoop.fr,erzdioezese-wien.at,estudiografenno.com.br,eukanuba.eu,evemaps.dotlan.net,flooring.regupol.de,gipuzkoa.eus,handicap-love.de,hechingen.zollernalb-kinos.de,honest-rare.de,hotelaster.com,htgf.de,husqvarna-events.com,kathpress.at,kinopalast-neuburg.de,kirchenzeitung.at,klaro.org,klu.org,kth.se,kubi-online.de,kug.ac.at,lex24.at,lfvbz.it,linz.at,lumos-kino-nidda.de,mansuetoqueseria.com,martinus.at,mateco-chile.cl,mateco.de,mateco.eu,mateco.lu,mateco.mx,mateco.pa,mateco.pl,mewo-mm.de,mischgastauchen.de,muehlhausen.filmpalast.de,muesliswap.com,nunido.de,oelwechsel-muenchen.de,osteopathiepraxis-hamburg.de,palettecad.it,papier-mettler.com,pasts.lv,petermachtpause.de,phv.si,pohjanmaan.fi,publicidadconcursal.es,radldiscount.de,rebreather-ccr.de,redaktionsbuero-niemuth.de,reviderm.com,roman-graf.ch,saldus.lv,salesviewer.com,salk.at,schachermayer.at,schrack-seconet.com,sid.si,suedtirol.com,supplementa.com,tarif4you.de,tauchen-richtig-lernen.de,trendingtopics.eu,triaswestland.nl,trimix-tauchen.de,ujaen.es,unicef.org,upperaustria.at,valzner-weiher.de,volksmusik-notenshop.de,volksmusiknoten.de,westerhofcafe-im-stielerhaus.de,xunta.gal,youkando.it###klaro
 4game.com##[class^="fcw-wrap-"]
 4gtv.tv,ftv.com.tw,ftvnews.com.tw###Allow
 4ig.hu##.not01-notification-container
@@ -18241,7 +18242,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 988lifeline.org,cgchannel.com,cv.ee,cv.lv,cvonline.lt,underthehammer.com##.cookie-consent-container
 99percentinvisible.org,bestprice.gr,bookcabin.com,lexsynergy.com,matterport.com,meopta.com,rauch-ft.com,sabric.co.za,taximaxim.ru,tv8.com.tr,ucla.edu###cookie-policy
 9anime.*##+js(nosiif, (t))
-9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,fontawesome.com,garberhof.com,guffi.is,heictojpg.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kranj.si,lottostar.co.za,ma-hsh.de,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.video,moebel-berning.de,notadir.toyotakauptuni.is,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,zonneplan.nl###cookie-consent
+9minecraft.net,altman.co.il,anixe.pl,avantlink.com,avtovzglyad.ru,b-kassa.ru,biblesforamerica.org,bilaborg.is,bilas.is,bilasolur.is,boernestar.com,craig-russell.co.uk,druni.es,ecobee.com,erau.edu,flyscoot.com,fontawesome.com,garberhof.com,guffi.is,heictojpg.com,hofdahollin.is,hotel-avidea.com,ispot.tv,joomshaper.com,kranj.si,lottostar.co.za,ma-hsh.de,mk-amur.ru,mk-belgorod.ru,mk-chukotka.ru,mk-donbass.ru,mk-hakasia.ru,mk-kaliningrad.ru,mk-kamchatka.ru,mk-kirov.ru,mk-kolyma.ru,mk-kuzbass.ru,mk-kz.kz,mk-lenobl.ru,mk-lipetsk.ru,mk-mari.ru,mk-mosobl.ru,mk-nao.ru,mk-novgorod.ru,mk-orel.ru,mk-pskov.ru,mk-saransk.ru,mk-smolensk.ru,mk-tuva.ru,mk-yamal.ru,mk-zap.ru,mk.kg,mk.ru,mkbryansk.ru,mkisrael.co.il,mkivanovo.ru,mkkaluga.ru,mknews.de,mkpenza.ru,moe.video,moebel-berning.de,notadir.toyotakauptuni.is,ohotniki.ru,openeu.eu,pereirinha.com,perplexity.ai,portalderwirtschaft.de,seehotel.it,soundcore.com,stormware.cz,taseralm.com,touring-artists.info,toyotaselfossi.is,uhrzeit123.de,woman.ru,zonneplan.nl###cookie-consent
 ://ccm.*/app.js?
 ://confirm.*.top^$document,popup
 ://ipv6.google.com*/search^$removeparam=entrypoint
@@ -18894,7 +18895,7 @@ aa.com##adc-cookie-banner
 aa.org,alandsradio.ax,audirsclub.it,automobil.se,camperlife.it,caroftheyear.se,cgi.com,cnos-fap.it,ebc.com.br,eif.co.uk,endurobloggen.se,gasteiner.at,hellotaste.it,huf-group.com,integralmemory.com,juce.com,kantarsifo.se,lanutrition.fr,marinha.mil.br,middleeasteye.net,mopedgaraget.se,oxfam.org,parkinsons.org.uk,prinspetfoods.com,renner-fliesenzubehoer.at,rmg.co.uk,santander.es,servimedia.es,spainbs.com,svjt.se,thalesgroup.com,topuniversities.com,ucas.com,vocepinerolese.it,zdf-studios.com###sliding-popup
 aaannunci.it###dTcf
 aainflight.com##div[class*="_toastContainer_"]:has-text(We care about your privacy)
-aala-apo-shop.de,agenziavista.it,anamariareceitas.com.br,aschendorff-buchverlag.de,aventurasnahistoria.com.br,avm-verlag.de,azrieligroup.com,bahai-verlag.de,blog.oup.com,bonsfluidos.com.br,brasil.perfil.com,chortle.co.uk,dart.dev,dersportverlag.de,docs.flutter.dev,epoch.ai,foodbloggermania.it,gamenode.app,ib3.org,imqgroupblogzine.it,infofranchising.it,kaliscan.com,kaliscan.io,kaliscan.me,karlpichler.it,ketteler-verlag.de,kuehlen-verlag.de,laaber-verlag.de,laby.net,livelaw.in,maisnovela.com.br,manequim.com.br,mangabuddy.com,mangamirror.com,marciapiovesan.com.br,maroelamedia.co.za,measurementlab.net,mgjinx.com,mostlogin.com,news.climate.columbia.edu,novelbuddy.com,papinsport.com,peterzemmer.com,radio.menu,recoveritalia.com,removal.ai,sangean.com,sax-verlag.de,skatedeluxe.com,slot-mania.it,storyblok.com,trcs.or.tz,uptontea.com,viacarreira.com,vivasaudedigital.com.br,walfer.lu,wsupercars.com,xlab.si###cookie-notice
+aala-apo-shop.de,agenziavista.it,anamariareceitas.com.br,aschendorff-buchverlag.de,aventurasnahistoria.com.br,avm-verlag.de,azrieligroup.com,bahai-verlag.de,blog.oup.com,bonsfluidos.com.br,brasil.perfil.com,chortle.co.uk,dart.dev,dersportverlag.de,docs.flutter.dev,epoch.ai,foodbloggermania.it,gamenode.app,ib3.org,imqgroupblogzine.it,infofranchising.it,kaliscan.com,kaliscan.io,kaliscan.me,karlpichler.it,ketteler-verlag.de,kuehlen-verlag.de,laaber-verlag.de,laby.net,livelaw.in,maisnovela.com.br,manequim.com.br,mangabuddy.com,mangamirror.com,marciapiovesan.com.br,maroelamedia.co.za,measurementlab.net,mgjinx.com,mostlogin.com,news.climate.columbia.edu,novelbuddy.com,papinsport.com,peterzemmer.com,radio.menu,recoveritalia.com,removal.ai,sangean.com,sax-verlag.de,skatedeluxe.com,slot-mania.it,storyblok.com,tmbw.ru,trcs.or.tz,uptontea.com,viacarreira.com,vivasaudedigital.com.br,walfer.lu,wsupercars.com,xlab.si###cookie-notice
 aalberts.com,ajbell.co.uk,escortboard.de,eurowag.com,stat.fi,tu-darmstadt.de,unesdoc.unesco.org,vkf-renzel.nl###cookie-modal
 aalst.be##.footer-notification
 aam-us.org,rodavigo.net###cc-window
@@ -18921,7 +18922,7 @@ abkarlhedin.se,arsenalen.se,shawbrook.co.uk,tutkit.com###cookie-banner-wrapper
 ablebits.com,actu.epfl.ch,adsimple.at,anfarmag.org.br,augustiner-restaurant.com,aussenrollo.de,bier-universum.*,blenderartists.org,blisprobiotics.co.nz,bund-naturschutz.de,bws.co.at,camid.eu,cc-egov.de,cloud.thermoworks.com,creativehut.com.br,discussion.fedoraproject.org,e-infra.com,ecpe.org,eingutertag.org,eliebleu.com,flurry.com,gardinerbrothers.co.uk,getrawnutrition.com,gg.deals,gilli-food.it,goldammer.me,goldarts.co.uk,goruck.com,heissfenster.com,historicsouthtyrol.com,hotel-waldsee.com,huttersport.com,i2ocr.com,ionos-group.com,janestreet.com,justia.com,kattenberg.nl,khl.ru,krainz-loipersdorf.at,law.cornell.edu,lightningmaps.org,lpderecho.pe,malaysiaairlines.com,mingpao.com,monochrome-watches.com,na-bibb.de,naturefund.de,osasco.sp.gov.br,paulinwatches.com,pcpartpicker.com,perrotin.com,plus.diolinux.com.br,poernbacher.net,pokemmo.com,rebinstitute.com,republicbharat.com,republicworld.com,sarnerholz.com,sarnerstiftung.it,sbenny.com,sdxcentral.com,siebenfoercher.it,starmicronics.com,tann.it,technoalpin.com,tiom.pl,travelok.com,tuxedocomputers.com,webit.org,wham.physics.wisc.edu,wisc.edu,zesty.tech##.cc-window
 ablefy.io###ps-cookie-banner-wrapper
 abmulderbv.nl,igorski.nl##.cookie-wall
-abnamro.com,abnamro.nl,aktion-mensch.de,avis.fr,bahia-principe.com,bahiaprinciperesidences.com,centrimedicidyadea.it,chs.net,cinemark.com,dominos.com,greenmangaming.com,grupo-pinero.com,grupoiberostar.com,heathrow.com,hsbc.com.mt,iberostar.com,nh-collection.com,nh-hotels.com,oney.com,openbank.de,openbank.es,openbank.nl,openbank.pt,orange.es,sony.jp,t-systems.com,tenutedelcerro.it,totalenergies.com,toyota.com.np,tuclothing.sainsburys.co.uk,unaitalianhospitality.com,unicasacondominio.it,unimelb.edu.au,unipol.it,unipolhome.it,unipolmove.it###__tealiumGDPRecModal
+abnamro.com,abnamro.nl,aktion-mensch.de,avis.fr,bahia-principe.com,bahiaprinciperesidences.com,centrimedicidyadea.it,chs.net,cinemark.com,dominos.com,greenmangaming.com,grupo-pinero.com,grupoiberostar.com,heathrow.com,hsbc.com.mt,iberostar.com,nh-collection.com,nh-hotels.com,oney.com,openbank.de,openbank.es,openbank.nl,openbank.pt,orange.es,sony.co.in,sony.jp,t-systems.com,tenutedelcerro.it,totalenergies.com,toyota.com.np,tuclothing.sainsburys.co.uk,unaitalianhospitality.com,unicasacondominio.it,unimelb.edu.au,unipol.it,unipolhome.it,unipolmove.it###__tealiumGDPRecModal
 abnt.org.br,adressen.schober.de,andyguitar.co.uk,bimedis.ru,ichbindeinauto.de,order.fiveguys.fr,promotionbasis.de,rypsv.scot,trustpid.com##.v-overlay
 aboardtheworld.com##.popmake
 abok.ru###cookieNotice
@@ -18970,7 +18971,7 @@ accu.org,octoparse.com###snackbar
 accupass.com##.style-746d86c4-cookie-container
 ace-hotel.com,awwwards.com,blowtex.com.br,bmalaw.com.br,detoxy.cz,dicampus.es,femeval.es,flawless.pl,geografica.com.br,knott-anhaenger-shop.de,knott-remolque-tienda.es,knott-trailer-shop.com,normadet.com,normagrup.com,normalit.com,normalux.com,sa-luz.com,sourcefurniture.com,spirou.com,vanhumbeeckfreres.be,vivara.com.br,xn--90asehmeeq.xn--p1ai,zehnder.su##.modal-cookies
 acega.es###system-message
-acelen.com.br,advtraining.it,albengacorsara.it,alde.se,alper.cz,arbetsgivarverket.se,asbis.com,auxologico.it,bambulab.com,bigmotoringworld.co.uk,blackcomb-shop.eu,blog.fanfiktion.de,boardgamegeek.com,bokomo.co.za,carteantennesuisse.ch,cdw.com,cdwg.com,cnb.cz,coros.com,czechuniversities.com,danielroth.com,data.europa.eu,defector.com,delhivery.com,doctoranytime.be,eufymake.com,eujicha.cz,excellentmagazine.it,excellentmarketing.it,fangear.cz,fashionnetwork.com,feedoptimise.com,garfidi.it,gatehousebank.com,gls-group.com,hc-slavia.cz,hc-vsetin.cz,hcdukla.cz,hcdynamo.cz,hcf-m.cz,hcporuba.cz,hokejprerov.cz,holba.cz,hotelvillaastra.com,hstrebic.cz,idfnet.net,kroo.com,krusovice.cz,lajairadeana.com,lataco.com,levior.cz,libcat.csglasgow.org,linaro.org,login.mercedes-benz.com,luxardo.it,marken.cz,mcsystems.cz,mightybytes.com,mojecity.cz,msem.cz,myenlightencommunity.com,myjob.ch,nowpatient.com,olkraj.cz,omegasport.cz,packtpub.com,piratichomutov.cz,portalnovosti.com,psg.cz,reteimprese.it,returnsportal.online,royalbelgiancaviar.be,runnea.co.uk,sf.gazetteer.co,shmu.sk,soundcore.com,spielregeln-spielanleitungen.de,sprintesport.it,stocksy.com,streetsblog.org,suncalc.org,superspeedyplugins.com,teksavvy.com,theactive.thaipbs.or.th,toscana-notizie.it,ungeziefer-ratgeber.info,urbantufting.com,watchesbysjx.com,webtic.it,wifiwijs.nl,woche-bb.ch,woergl.at,wongnai.com,worldmarathonmajors.com,zlinskykraj.cz,zubr.cz###cc--main
+acelen.com.br,advtraining.it,albengacorsara.it,alde.se,alper.cz,arbetsgivarverket.se,asbis.com,auxologico.it,bambulab.com,bigmotoringworld.co.uk,blackcomb-shop.eu,blog.fanfiktion.de,boardgamegeek.com,bokomo.co.za,carteantennesuisse.ch,cdw.com,cdwg.com,cnb.cz,coros.com,czechuniversities.com,danielroth.com,data.europa.eu,defector.com,delhivery.com,doctoranytime.be,eufymake.com,eujicha.cz,excellentmagazine.it,excellentmarketing.it,fangear.cz,fashionnetwork.com,feedoptimise.com,garfidi.it,gatehousebank.com,gls-group.com,hc-slavia.cz,hc-vsetin.cz,hcdukla.cz,hcdynamo.cz,hcf-m.cz,hcporuba.cz,hokejprerov.cz,holba.cz,hotelvillaastra.com,hstrebic.cz,idfnet.net,kroo.com,krusovice.cz,lajairadeana.com,lataco.com,levior.cz,libcat.csglasgow.org,linaro.org,login.mercedes-benz.com,luxardo.it,marken.cz,mcsystems.cz,mightybytes.com,mojecity.cz,msem.cz,myenlightencommunity.com,myjob.ch,nowpatient.com,olkraj.cz,omegasport.cz,packtpub.com,piratichomutov.cz,portalnovosti.com,psg.cz,reteimprese.it,returnsportal.online,royalbelgiancaviar.be,runnea.co.uk,sf.gazetteer.co,shmu.sk,soundcore.com,spielregeln-spielanleitungen.de,sprintesport.it,stocksy.com,streetsblog.org,suncalc.org,superspeedyplugins.com,teksavvy.com,theactive.thaipbs.or.th,toscana-notizie.it,trackmania.com,ungeziefer-ratgeber.info,urbantufting.com,watchesbysjx.com,webtic.it,wifiwijs.nl,woche-bb.ch,woergl.at,wongnai.com,worldmarathonmajors.com,worldoftrucks.com,zlinskykraj.cz,zubr.cz###cc--main
 acerta.be,bioplanete.com,labofun.be,listech.com,mileroticos.com,millerotici.com,miltenyibiotec.com,oase.com,pressca.com.br,schnelltest-apotheke.de###modal-cookie
 acffiorentina.com,breastcancer.org,gieffektivt.no,latribet.ec,spline.design,svoi.ru,unitedconsumers.com,urbanarmorgear.com##div[class^="CookieBanner_"]
 achemosgrupe.lt,brockhoff.nl,cibit.nl,dbkeukens.nl,dutchweek.nl,hurenbijwooove.nl,kroftman.com,vinkvink.nl,woontank.nl##.cookiewall
@@ -18988,7 +18989,7 @@ acquistinretepa.it###cookie_directive_container
 acretrader.com##acre-cookie-consent
 acs.org##.alert-banner__cookie
 actie.degoedezaak.org,campax.org,controller.com,mrfdev.com,pelephone.co.il,voicemod.net##.cookies-consent
-action.pl,appartementamsterdam.nl,bestbuycyprus.com,cambridge.org,discountbank.co.il,dividendmax.com,faccsa.com,haber7.com,huurwoningamsterdam.nl,jobg8.com,kameramsterdam.nl,macpac.co.nz,mercantile.co.il,meups.com.br,nomos-glashuette.com,ostwest.tv,piadinalumbro.gr,rules.co.uk,safra.sg,studiosamsterdam.nl,woonbotenamsterdam.com##.cookie-message
+action.pl,appartementamsterdam.nl,bestbuycyprus.com,cambridge.org,dgpci.mai.gov.ro,discountbank.co.il,dividendmax.com,faccsa.com,haber7.com,huurwoningamsterdam.nl,imda.gov.sg,jobg8.com,kameramsterdam.nl,macpac.co.nz,mercantile.co.il,meups.com.br,nomos-glashuette.com,ostwest.tv,piadinalumbro.gr,rules.co.uk,safra.sg,studiosamsterdam.nl,woonbotenamsterdam.com##.cookie-message
 actionaid.fr,anime-store.fr,anrat.net,app.radiooooo.com,centre-tao.com,didilz.com,dimo.cat,ebox-auto.com,fantasticable.fr,ibzjobs.com,laceter.com,laurore-bourgogne.com,parisensuel.com,pierreberthe.com,ril-immo.fr,servichene.com,vwfinances.com##.rgpd
 actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)
 activ-shop.sk,ateashop.cz,bestlook.sk,biokrasa.sk,bohemiagoldcrystal.com,budkykrmitka.cz,caj-kava-cokolada.sk,canape.cz,canape.sk,collonil.sk,crystalshop.cz,cykloservis.sk,dianashop.cz,dubaiperfumes.sk,dumbylinek.cz,eva-s.eu,fenster-jetzt.at,fenster-jetzt.de,funtown.cz,goodlift.cz,hanashop.sk,jbsanitary.cz,klbkoshopa.eu,koeder.cz,kojeneckysvet.cz,kozmetikaprezdravie.sk,krmimmasem.cz,kuchyne-vybaveni.cz,lanatura.cz,limenclothing.cz,litvinoff.cz,lovomarket.cz,lymfy.sk,mikrovahy.cz,mikrovahy.sk,moda4u.cz,montana.sk,mpo-matrace.cz,nasemuzstvo.sk,norskysvetr.cz,okna-hned.cz,okna-hned.sk,papierove-sacky.sk,plavecke-pomucky.cz,profiscales.cz,reenactor.cz,reflexninazehlovacky.cz,saver.sk,shop.objednavka.com,silvini.de,stvarms.cz,tara.cz,teplochladno.sk,vyprodej-online.cz,westernobchod.sk,zanaromi.com,zbozik.cz,zijemesportem.cz###dm-cookie-popup-container
@@ -19039,7 +19040,7 @@ adultwork.com##.css-jfdn8c
 adultwork.com##.css-wyy78l
 advatus.com,advatus.pl##.myModal-box
 adventurecu.org###StickyFooter
-adventuregamestudio.co.uk,albertonrecord.co.za,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,modworkshop.net,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,printful.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,struer.dk,student.com,superbio.es,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
+adventuregamestudio.co.uk,albertonrecord.co.za,artfund.org,asia.nikkei.com,banco.bradesco,barkeepersfriend.com,bedfordviewedenvalenews.co.za,bemyeyes.com,bookwhen.com,brasscom.org.br,buildpaste.net,bullionbypost.co.uk,businesscomparison.com,capitoltrades.com,citybuzz.co.za,clarksolutions.com.br,codashop.com,coinpaprika.com,cumlaudeimmobilia.com,cursos.io,cwi.nl,dagmersellen.ch,davistate.com,deezer.com,deltaco.com,developer.chrome.com,dictum.com,droptime.de,echr.coe.int,edera.dev,erieinsurance.com,etix.com,eyethunews.co.za,fansly.com,fex.plus,forja.ma,gatlinburg.com,gaultmillau.at,germistoncitynews.co.za,gosquared.com,guinyc.com,hck.hr,herning.dk,holidayworld.com,hsbc.com.sg,isciii.es,jolyn.com,kathorusmail.co.za,kemptonexpress.co.za,kenmei.co,kormorant.co.za,lensculture.com,letabaherald.co.za,liemobil.li,lifehacker.ru,lokmat.com,massey.ac.nz,mcc-9.jp,medipolis.de,mega.io,mercadona.es,metroag.de,middelfart.dk,midrandreporter.co.za,modworkshop.net,northeasterntribune.co.za,oaic.gov.au,osthammar.se,overclock3d.net,overleaf.com,payroll.ca,printful.com,prodoctorov.ru,publicdomainreview.org,raceroster.com,randburgsun.co.za,randfonteinherald.co.za,reseau-sante-haut-leman.ch,reseau-sante-nord-broye.ch,reseau-sante-region-lausanne.ch,rivistacontrasti.it,roodepoortnorthsider.co.za,roodepoortrecord.co.za,sedibengster.com,semanticscholar.org,signalbloom.ai,silpo.ua,smashingmagazine.com,sowetourban.co.za,sp-ps.ch,spar.co.za,stake.com,stjohneyehospital.org,struer.dk,student.com,superbio.es,thefly.com,tiktok.com,tudogostoso.com.br,tus.ac.jp,vangemert.dev,vangoghmuseum.nl,weather2day.co.il,welcome.brixen.it,witbanknews.co.za,zabars.com,zenodo.org##.cookie-banner
 advertising.amazon.com##.a20m-cookie-consent-banner
 adverts.ie,boards.ie,dailyedge.ie,did.ie,the42.ie,thejournal.ie###notify-container
 advgazeta.ru,beiersdorf.com,czc.cz,digitfoto.de,engeo.ch,hypeauditor.com,kiswe.com,kolesnic.ru,mellerud.de,mindmatrix.net,renewal.ru,salesmanago.pl,swayhotels.com,topographic-map.com,yclients.com,zabkagroup.com##.popup
@@ -19177,7 +19178,7 @@ alfombrashamid.es,autovilardell.com,blancmarine.com,carmenvazquez.es,fadenkreuz-
 alfred.com,amino.dk,gigaom.com,gq.com.au,henrilloyd.com,hesapkurdu.com,hvylya.net,hyser.com.ua,mta.tv,paymaster.ru,politeka.net,tupras.com.tr,ukrainci.com.ua,ukrainianwall.com,vocativ.com,znaj.ua,zumba.com##.privacy-policy
 algolia.com##.bot-0.left-0
 alhambrafabrics.com##.preview-cookies-alert
-alibabagroup.com,buildsoftwaresystems.com,cloud.huawei.com,confuciusinstitute.ac.uk,construtoraelevacao.com.br,driver61.com,gamsgo.com,hostcay.com,wodify.com##.cookie-box
+alibabagroup.com,back.engineering,buildsoftwaresystems.com,cloud.huawei.com,confuciusinstitute.ac.uk,construtoraelevacao.com.br,driver61.com,gamsgo.com,hostcay.com,wodify.com##.cookie-box
 aliciagame.com###block-block-6
 aliexpress.com###voyager-gdpr-2025
 aliexpress.com##.aliexpress-notice
@@ -19308,7 +19309,7 @@ animeschedule.net###custom-consent-wrapper
 anisearch.com##.urgent-msg
 anisearch.es##.urgent-msg
 anisearch.it##.urgent-msg
-anjunabeats.com,asevalar.ru,evalarlab.com,hdsex.org,joy-fit.ru,movis.ch,shop.evalar.ru##.cookies-modal
+anjunabeats.com,asevalar.ru,belapb.by,evalarlab.com,hdsex.org,joy-fit.ru,movis.ch,shop.evalar.ru##.cookies-modal
 anker.com##.FeatureBar_root__gYqi1.transform.translate-y-0.opacity-100
 ankerwork.com,elginusa.com,manlymanco.com,recongearusa.com,seedbarn.com,techmarkit.co.za###shopify-section-fixed-message
 anmalarbetsskada.se###coockieinfo
@@ -19499,6 +19500,7 @@ assure.ameli.fr###idPopupWARecueilConsentement
 assurland.com###consentManagementPlatform
 astersrl.eu,hausbetreuer.eu,mercatino-software.it,timonesrl.com###epd
 astonmartinf1.com##.cookie-prompt
+astra-ai.co,ourworldindata.org,parliament.uk,theaterhaus.com##.cookie-manager
 astralinux.ru##.show-cookie
 at5.nl,nhnieuws.nl,oebb.at,prettynailshop24.de##[class^="consent-manager"]
 atalmedial.nl,bioneer.dk,designengineerconstruct.com,dgob.de,domuslaundry.com,geniessertouren.org,institutomarketing.es,karwendelhaus.com,response.gr,santeria.milano.it,sindastra.de,tisak.hr,turkishbank.co.uk##.avada-footer-scripts
@@ -19582,7 +19584,7 @@ autosolar.es##.cookie-configuration
 autotrader.co.za,speedtest.net##.notification-container
 autovandaag.nl##.bo-cb-bar
 avadas.de,sw-distribution.de###cookieManger
-avaloniaui.net,buildship.com,bunq.com,coworker.ai,enhanced.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,localculture.org,neon-free.ch,netcraft.com,podspace.com,site.trasti.pl,snoutcover.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
+avaloniaui.net,buildship.com,bunq.com,coworker.ai,enhanced.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,localculture.org,neon-free.ch,netcraft.com,podspace.com,site.trasti.pl,snoutcover.com,stirling.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
 avalonpark.hu##.c-widget
 avec.fr##.ctw-bottom-4
 avertisment.ro###consentModal
@@ -19754,6 +19756,7 @@ beinsports.com.tr##.cookie_cookieConsentWrapper__jDLdN
 beko.com,thetrainline.com#@##onetrust-banner-sdk
 beko.com,thetrainline.com#@##onetrust-consent-sdk
 belfastmet.ac.uk###div-alerts-wrapper
+belgazprombank.by###modal-cookies
 belgium.be,dxomark.com,gegevensbeschermingsautoriteit.be,senat.fr,ulb.be##.orejime-Notice
 belkin.com###pagebanner
 bellaffair.com,colop.com,computerwelt.at,cornelsen-experimenta.de,der-metronom.de,dtv.de,hardtwaldsiedlung-karlsruhe.de,herold.at,internorm.com,jacob.de,jhdversicherungen.de,laenderbahn.com,leuchtturm.ch,leuchtturm.com,leuchtturm.de,leuchtturm.es,leuchtturm.fr,leuchtturm1917.com,leuchtturm1917.de,libraries.merton.gov.uk,mylibrary.merton.gov.uk,rcodezero.at,semikolon.com,springernature.com,torquato.de,vinzenz-klinik.de##.cc-overlay
@@ -19798,6 +19801,7 @@ betuyab.com.tr,yenisafak.com##.policy
 betway.*,easyinsights.ai,hito.xyz,reklama5.com,visitseoul.net###cookiePopup
 bewellbykelly.com###shopify-section-cookies-banner
 bewere.net#@#.consent-pop-up
+bewildcard.com##.cookie-policy_cookiePolicy__iVL65
 bewustnieuwbouw.nl###c-bar
 bezirk-schwaben.de,dorfen.de,elkjop.no,fdm-travel.dk,georgjensen.com,landkreis-kelheim.de,power.no,skousen.dk,skousen.no,whiteaway.com,whiteaway.no,whiteaway.se#@##CookieConsent
 bezpiecznedane.gov.pl##.cookie-popup-modal
@@ -20293,7 +20297,7 @@ charmsoflight.com###SCAhldr
 chase.com,chasebonus.com,gameduell.de,iziwork.com,jpmorgan.com,jpmorganchase.com,jrc.cz,justwatch.com,kannettavatietokone.fi,loudwire.com,navicat.com,nowtv.com.tr,ring.com,runwaygirlnetwork.com,screencrush.com,smarty.cz,stromvergleich.de,twitch.tv##.consent-banner
 chatgpt.com##.md\:px-\[60px\]:has-text(By messaging ChatGPT)
 chatreplay.stream##.svelte-dx0l3i
-chatspin.com##.cookie-use-notice
+chatspin.com,flingster.com##.cookie-use-notice
 chaussures.fr,eapavi.lv,eavalyne.lt,ecipele.hr,eobutev.si,epantofi.ro,epapoutsia.gr,eschuhe.at,obuvki.bg,zapatos.es##.modal-consents
 chaynikam.info##div[style^="position: fixed; bottom: 0px;"]
 chcemelepsicesko.cz###cookie-cover
@@ -20315,6 +20319,7 @@ chillychiles.com,shop.animalbiome.com##.gdpr__holder
 chillys.com##.TheConsent
 china-airlines.com,flyscoot.com##.top-bar
 china-certification.com##.blueline-content-popup
+chitai-gorod.ru##.agreement-notice
 chitika.com##.sh-page-notice
 chlorophylle.com##.big-consent-modal
 chocolateminecraft.com###popup1
@@ -20386,8 +20391,8 @@ clever-zoeger.de,datakauppa.fi,ddz24.eu,fantasyfootballgeek.co.uk,management30.c
 cleveroad.com##.bK_mV
 cleveroad.com##.ch_jZ
 cliccasa.it###cookiemodal6547
-click2pharmacy.co.uk,johnryanbydesign.co.uk,oiq.qc.ca,voip.ms##.cky-consent-container
-click2pharmacy.co.uk,johnryanbydesign.co.uk,oiq.qc.ca,voip.ms##.cky-overlay
+click2pharmacy.co.uk,johnryanbydesign.co.uk,oiq.qc.ca,scuffers.com,voip.ms##.cky-consent-container
+click2pharmacy.co.uk,johnryanbydesign.co.uk,oiq.qc.ca,scuffers.com,voip.ms##.cky-overlay
 clickbus.com.br##.policy-container
 clideo.com##.app-modal-layout--variant-cookies
 cliffordchance.com###div_cc_cc
@@ -20527,7 +20532,7 @@ correos.es##.cmp-experiencefragment--cookies
 corrupt.wiki,developer.rocket.chat,docs.coreframework.com,docs.fluentbit.io,docs.flutterflow.io,docs.ibracorp.io,docs.jabref.org,electronforge.io,filebrowser.org,guides.cryptowat.ch,meshnet.nordvpn.com,support.saleae.com,wiki.valhelsia.net##div.r-1xcajam.css-175oi2r
 corsi.aiv01.it###age-verify
 corsi.aiv01.it###box-verify
-cos.com,hm.com##.cookie-consent-popup
+cos.com,expireddomains.com,hm.com##.cookie-consent-popup
 coscoshipping.com##.local-cookie-policy-container
 cosedicasa.com###blur-bg
 cosmoteinsurance.gr##cookies-concent
@@ -20544,7 +20549,7 @@ courtika.com,essor.ca,groupedpa.com,laturquoise.ca,rockebilly.com,tremblayassura
 cpac.ca###cookie-law-bar-holder
 crazy-factory.com#@#.cookie_banner
 creality3dofficial.com,creality3dofficial.eu##.pub-tip
-creamher.com,dorotheum.com,klops.ru,mrluckyraw.com,rospotrebnadzor.ru,spizoo.com###cookie-popup
+creamher.com,dorotheum.com,inform-ua.info,klops.ru,mrluckyraw.com,rospotrebnadzor.ru,spizoo.com###cookie-popup
 createdirect.ro,notebooksopron.hu,stereopalma.com##.cookie_footer
 creatiefschrijven.be##.modalwrapper
 creativecow.net###SCK
@@ -20649,6 +20654,7 @@ daigobang.cn###sp-cc
 dailyjigsawpuzzles.net###privacy_notification
 dailyjournal.com,islamicfinder.org###privacy-modal
 dailysabah.com##.veriAltBar
+dailysignal.com,heritage.org##.vwo-notification-bar
 dailyview.tw###PrivacyAlert
 dajar.pl##.css-jjd2se
 dallasinnovates.com,hawke.ai###acceptance
@@ -20898,6 +20904,7 @@ dreamworks.com##.notice-modal
 dreid.com###boxHolder
 dreieich.de,koenigstein.de##.cookie-consent-dialogue
 dreissigacker-wein.de##.global-background
+drive2.ru##.c-cookie-banner
 drivereasy.com,gatestoneinstitute.org,iobit.com##.float-bar
 drmcd.cz###cookies-bar-dialog
 drogeriedepot.de###light-box-bg
@@ -21255,7 +21262,7 @@ extremevpn.com##.ps-cookiebar
 exweb.exchange.uk.com###ibox
 eyeons.com##.alternis-cookie
 eyesandmore.be,eyesandmore.de,eyesandmore.nl,eyesandmore.se###cookie-dialog-wrapper
-eyescan.nl,happycoins.com,nfn.nl,socialbrothers.nl##.CookieDialog
+eyescan.nl,happycoins.com,nfn.nl,raiffeisen.ru,socialbrothers.nl##.CookieDialog
 eyetvforum.com##.cAnnouncementPageTop
 ezil.me##.ew776696
 ezviz.com,hikvision.com,ria.com##.gdpr-wrapper
@@ -21294,6 +21301,8 @@ faphouse.com,faphouse1.com,faphouse2.com###cookie-wall-short
 faradsrl.it##.svv-cookie-banner-container
 farfetch.com##.e1wbdw5z0
 farmaciasancarloroma.com,farmaciazelli.it##.fascia-avviso-coockie
+farmaciasdesimilares.com##.farmaciassimilaresmx-app-store-components-1-x-cookiesModal
+farmaciasdesimilares.com##.farmaciassimilaresmx-app-store-components-1-x-cookiesModal__container
 farmacja.pl#@#.rodo-modal
 farmgarages.co.uk##.global-consent-banner
 farmhopping.com##.AcceptCondition
@@ -21430,6 +21439,7 @@ flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
 flynas.com###footer-message
 flyone.eu##.fixed_btm_bg
 flysaa.com##.privacy-info-message
+flyscoot.com###gdpr-portal-root
 flyscoot.com##.privacy-bar
 fm.to###loginModal
 fm.to###popup_guest
@@ -21681,6 +21691,7 @@ ghost-hood.com###divNotificationSection
 ghx.com###cNotice
 giappo.com###normativa
 gibgas.de,mymuesli.com#@##cookies_consent
+gic.careers##.c-cookie-notice__container
 gic.nl##.bottom-0.overlay
 gigatrans.ua##.coook
 gijon.es##app-com-banner-cookies
@@ -21824,6 +21835,7 @@ grupoccr.com.br,motiva.com.br##.c-dOELgn
 gruporeds.es###modalContainer
 gruposalinas.pandape.computrabajo.com###AllowCookiesModal
 gruposalinas.pandape.computrabajo.com##.modal-backdrop
+gryphline.com##.PolicyPrompt_policyPrompt__0Fu5L
 grzejszczak.pl##.sook
 gstarcad.net##.cookies-ask
 guess.eu,visiontechusa.com###toast
@@ -21923,7 +21935,6 @@ hepsijet.com##.cookie-policy_cookiePolicy__9xbaz
 herbiesheadshop.com##.cookies-politic__section
 herbiesheadshop.com##.vue-disclaimer-popup
 here.com###wrapper
-heritage.org##.vwo-notification-bar
 herne.de##.herne_cookie_consent_container_pre_outerbox2
 hero-wars.com##.overlay--cookie_banner_without_icons
 hero-wars.com##.overlay-modals-wrapper
@@ -21965,6 +21976,7 @@ hkdecoman.com##.copyright-bottom-nav
 hm-news.co.il##[data-elementor-type="popup"]:has-text(Cookies)
 hmart.com##.hmartus-store-theme-1-x-cookiesModal__wrapper
 hmc.org.uk###modal-mask
+hockeycanada.ca##.cookieInfo
 hoeffner.de,moebel-kraft.de,sconto.de##.consentForm__container
 hoff.ru##.Toastify__toast-container
 hoimedia.com,rotaserve.com##.avg
@@ -22190,6 +22202,7 @@ indomus.it,karmandala.de##.cookiefox
 inelenco.com###hid
 ineoskoeln.de##.c-alert
 inet.se##.c1hsuii6
+inet.se##[aria-label="Cookies"]
 inetprint.cz###stickyFooter
 infineon.com##.mi-consent-layer
 infiniti-abudhabi.com,infiniti-azerbaijan.com,infiniti-bahrain.com,infiniti-dubai.com,infiniti-jordan.com,infiniti-kuwait.com,infiniti-lebanon.com,infiniti-oman.com,infiniti-qatar.com,infiniti.com,infiniti.com.my##.c_128
@@ -22539,6 +22552,7 @@ knfilters.com##._29gQfUz-bz_NyWhPRpjOSe
 knmoloko.ru##div[data-storage-item^="t887cookiename_"]
 knowunity.de##.jYccXc
 knubel.de##.floating
+kobo.com##.border-black-42.fixed
 kodinerds.net###adConsent
 koegel-touristik.de###dsgvo_bglayer
 koelner-philharmonie.de,konzerthaus.de##.modal-mask
@@ -22549,6 +22563,7 @@ koienvijvercentrum.nl,stelcomfortshop.nl##.header-notice
 koifootwear.com###shopify-section-popup
 komchadluek.net###accept-cookie-footer
 komediateatteri.fi###rehtiConsentMainWrapper
+kommersant.ru,sasa.co.id##.cookie_consent
 kommunarka.by##.cookies-start
 kommunisten.lu##.mdc-snackbar
 komornik.pl##.divModalDialog
@@ -22753,6 +22768,7 @@ lichtwelle-erkrath.de,neander-energie.de,stadtwerke-erkrath.de##.consent-wrap
 lido.fi##div[class^="CookiesTooltipStyle_"]
 liepaja.lv##.dHtkwr
 life-webmaster.ru##.div152
+life.by##div[class^="Cookie_modalRoot_"]
 life.wolt.com###modal-root
 lifebutiken.se##.cuGsyh
 lift.co.za###cookiesBanner
@@ -22860,7 +22876,6 @@ lumia.security##.cookies-wrapper-new
 luminskin.com##.css-1w0y2es
 luna.amazon.co.uk,luna.amazon.de###cookie_consent_dialog
 lunajets.com##.cookieLayer_root__2RmDg
-lustery.com###cc-main
 lvvwd.com,snwa.com###PolicyNotice
 lycoschat.com###nomnom
 lydiabenecke.de##.datapriv
@@ -23294,6 +23309,7 @@ mycan.ceramicartsnetwork.org###nuCookieConsentAlert
 mycar.com.au##.cookies-cards
 mycarly.com##.chakra-dialog__backdrop:style(backdrop-filter:0!important)
 mycarly.com##.chakra-dialog__positioner
+mychart.org##.floaters-privacy-banner
 mycrelan.crelan.be##myc-cookie-policy
 mydealz.de#@#.cookies-message
 mydealz.de,preisjaeger.at###softMessages-list
@@ -23722,7 +23738,6 @@ otto-office.com##.ooB-black-overlay-machmichweg
 otvfoco.com.br###modalCookie
 ou.nl##.ou-privacy-portlet
 ourpower.coop##.d-block
-ourworldindata.org,parliament.uk,theaterhaus.com##.cookie-manager
 outdooractive.com##.oax_cookie_consent_modal
 outdoorgb.com##.gb_cookie_info
 outl1.se##.o1f-a
@@ -23880,6 +23895,7 @@ photoblog.pl##.frontpage-teaser-photo-container > .register > #registration-form
 photonengine.com##.cookSetts
 picarto.tv##[class*="CookieCompliance_"]
 picdumps.com###pcdc
+piclumen.com##.pl-cookies-accept
 picnic-supermarkt.nl###switch2
 picoxr.com##.EjUUOLYo3tCrc6j7Mapv
 picrew.me##.st-Terms_Wrapper
@@ -24252,6 +24268,7 @@ reddit.com##shreddit-cookie-banner
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.m-slide-up.PreviewDrawer
 reddit.watch##.float-bottom
 rede-expressos.pt##.jss4
+redragon.es##.cookies-consent-dialog
 redring.co.uk#@#.cookie-pop-up
 redtube.com,redtube.com.br,tube8.com,you-porn.com,youporn.com###cookie_banner_overlay
 redtube.com,redtube.com.br,tube8.com,you-porn.com,youporn.com###cookie_consent_min_wrapper
@@ -24482,7 +24499,6 @@ sapsalis.gr##.termsnote
 sarajevo-airport.ba##.cp-area
 sard.ac##app-cookie-status
 sarralbe.fr###cc-bar
-sasa.co.id##.cookie_consent
 sausageandciderfestival.co.uk###CC_Bar
 savills.*##.sv-cookie-management
 sberbank.com,sberbank.ru##.cookies-nova
@@ -24874,6 +24890,7 @@ standards.internetofproduction.org##.legal-banner-component
 stapety.cz##.site-msg
 staples.pt###cookie-new-cconsent-bar
 starfall.com##.cookiePolicy-block
+starhub.com##.globalimportantmessage
 starlingbank.com##.pykGnVXQId7R0_iS8Y0R
 starlingbank.com##.zYsLEJxzmfBA2Jbfgv8V
 starmix.de###muffin
@@ -25392,6 +25409,7 @@ tumblr.com##div[class][style^="background: rgb(124, 92, 255); "]:only-of-type
 tumblr.com#@#div#cmp-app-container
 tumblr.com,~www.tumblr.com##div[style^="background-color: rgb(124, 92"]:has(> div > div > button[aria-label="Sign up"])
 tumi.com.mx##.glow-banner
+tunemymusic.com##.CookieConsent-module-scss-module__piaogq__CookieAlert
 tunemymusic.com##.HeaderMenu_CookieAlert__ipEfK
 tunetank.com##.cookie_container__w6Qh1
 tuni.fi##.ch2
@@ -25560,6 +25578,7 @@ varma.fi##.varma-footer-sticky
 varzesh3.com#@#.cm-message
 vas.com.pl##div[style^="top:0;left:0;right:0;"]
 vaschovatel.sk###cbar
+vatsim-radar.com##.app_consent
 vavabid.be##.css-uuqc7b
 vcita.com##.vc-gdpr-banner
 vcol.co.uk##.consentmaincontainer
@@ -25621,6 +25640,7 @@ vinylgourmet.com##.blockrollingtext
 vinylgourmet.com##.icon_rollingtext
 violity.com###floating_agreement
 viomi.com###c-home-tips
+vip-tv.online###bottomInfoBar
 vipcars.com###vc-cookie-policy
 viralnova.com##.cc-banner
 vireohealth.com##.footer_privacy_policy
@@ -25651,6 +25671,7 @@ vive.com###vive-cookie-notice
 vivid.money##.cookieSettings__contentContainer__iZXMG
 vivo.com##.common_prompt-privacy-bg
 vivt.ru##.dangen-lable
+vizard.ai##.dialog-cookie
 viziya.info###pop
 vjoon.us###gdprOverlay
 vk.com###page_bottom_banners_root
@@ -25712,6 +25733,7 @@ wallarm.com###gdpr_banner_container
 wallester.com#@#.js-alert-cookie
 wallet.kukai.app##app-agreement
 wallpapershome.com##.cc-dialog
+walmart.ca##.bottom-0.nav-clickable-padded:has-text(Your data)
 warbyparker.com##.bottomLeft__O0HMt
 warehousecinemas.com##.q-notifications
 warn.com##.page-loader
@@ -26035,8 +26057,6 @@ zylom.com###headerbar_privacy
 ||109.236.81.104^$all
 ||109.236.85.145^$all
 ||109.236.88.134^$all
-||10crack.com^$all
-||10dimensions.com^$all
 ||110.47.250.103^$document
 ||1105media.com^$3p
 ||116.202.5.101^$all
@@ -26131,9 +26151,6 @@ zylom.com###headerbar_privacy
 ||185.213.155.241^$document
 ||185.215.113.66^$all
 ||185.216.71.149^$all
-||185.220.33.3^$document
-||185.220.35.26^$document
-||185.230.140.210^$document
 ||185.234.247.238^$all
 ||185.246.188.124^$document
 ||185.246.188.125^$document
@@ -26143,9 +26160,6 @@ zylom.com###headerbar_privacy
 ||188.165.192.126^$all
 ||188.165.192.18^$all
 ||188.165.195.130^$all
-||188.225.75.54^$document
-||188.227.107.121^$document
-||188.227.107.92^$document
 ||18hot.pw^$document
 ||19.lands.ninja^$all
 ||190.2.135.77^$all
@@ -26203,7 +26217,6 @@ zylom.com###headerbar_privacy
 ||199.119.206.28^$document
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^$document
 ||1dljf140825u79.cfd^$document
-||1qw.us^$all
 ||2-spyware.com/download/ReimageRepair$all
 ||2-spyware.com/reimage/download$all
 ||2.56.59.215^$all
@@ -26237,7 +26250,6 @@ zylom.com###headerbar_privacy
 ||270278609-2020004278-462904544-440202503325--570202500372x-usps.com^$document
 ||2aбdcdvwhuqa83y31c.gtrewe.co.in^$all
 ||2d-plus.com^$all
-||2dod.ddns.net^$all
 ||2m5f.com^$all
 ||2mdn.net^$3p
 ||2mf6tl6ky1408255md.cfd^$document
@@ -26247,12 +26259,9 @@ zylom.com###headerbar_privacy
 ||30mercantil.com^$all
 ||31.44.6.123^$all
 ||34.117.171.15^$document
-||34.195.224.242^$all
 ||34.74.68.195^$all
 ||35.181.110.225^$all
 ||35.236.159.79^$all
-||365crack.com^$all
-||37.1.209.213^$all
 ||37.1.213.100^$document
 ||37.187.122.227^$all
 ||37.187.142.187^$all
@@ -26302,6 +26311,7 @@ zylom.com###headerbar_privacy
 ||45.9.74.166^$all
 ||45.9.74.36^$document
 ||45.9.74.99^$all
+||46.225.67.21^$all
 ||46.48.76.120^$all
 ||47n78xprrvp1.top^$all
 ||48095uqslydirvr761.fiheos.co.in^$all
@@ -26311,7 +26321,6 @@ zylom.com###headerbar_privacy
 ||4bd71.trknovi.com^$document
 ||4bind3.cfd^$document
 ||4hifi.pl/scripts/jquery.cookie.js
-||4howcrack.com^$all
 ||4hu59.com^$all
 ||4lgx4.bemobtrcks.com^$document
 ||5-fifth.com^$doc,removeparam=janet
@@ -26325,7 +26334,6 @@ zylom.com###headerbar_privacy
 ||51.68.87.229^$all
 ||52.24.156.12^$document
 ||52.25.6.134^$document
-||54.225.185.110^$all
 ||54.237.193.255^$document
 ||54.37.5.34^$document
 ||54trck.xyz^$all
@@ -26372,6 +26380,8 @@ zylom.com###headerbar_privacy
 ||79.137.248.136^$all
 ||7lyonline.com^$document
 ||7plus.com.au/js/CookieNotice
+||7zip.cloud^$all
+||7zip.com^$all
 ||8.acceptww.com^$all
 ||80000hours.org^$removeparam=int_campaign
 ||81.177.136.179^$all
@@ -26417,7 +26427,6 @@ zylom.com###headerbar_privacy
 ||91.203.193.162^$all
 ||91.215.85.223^$document
 ||91.215.85.23^$all
-||91.241.60.117^$all
 ||91.92.111.131^$all
 ||91.92.111.132^$all
 ||91.92.111.133^$all
@@ -26454,14 +26463,11 @@ zylom.com###headerbar_privacy
 ||a.therewardboost.com^$all
 ||a.totalav.com^$all
 ||a.wilycaptcha.live^$all
-||a23-trk.xyz^$all
 ||a2ics.eu^$all
 ||a2sky.com^$3p
-||a5jogo.club^$all
 ||aadvantageeshopping.com^$document
 ||ab-automobile.de^$all
 ||abazelfan.com^$all
-||abbaspc.org^$all
 ||abburmyer.com^$all
 ||abc13news.com^$all
 ||abcmueblesbogota.com^$all
@@ -26477,7 +26483,6 @@ zylom.com###headerbar_privacy
 ||academic.oup.com^$removeparam=redirectedFrom
 ||academicassociation.in^$all
 ||acadgas.ru^$document
-||acareewityjh.com^$all
 ||acceder-a-mon-free.hubside.fr^$all
 ||acceptww.com^$all
 ||access.pcspeedcat.com^$all
@@ -26486,7 +26491,6 @@ zylom.com###headerbar_privacy
 ||acconsento.click^$third-party
 ||account-cfe.mx^$document
 ||account.clevguard.com^$all
-||accountablitypartner.com^$all
 ||accountingservice.com^$all
 ||accountionline.com^$all
 ||accounts.google.com^$3p,domain=~youtube.com|~twitter.com|~x.com
@@ -26501,14 +26505,11 @@ zylom.com###headerbar_privacy
 ||act-7wbq8j3peso0qc1.pages.dev^$all
 ||action.miliated.xyz^$document
 ||actionclassicgames.com^$document
-||activationkey.org^$all
-||activationkeys.co^$all
-||activatorpros.com^$all
+||activate.seedlinkservice.com^$document
 ||activators4windows.com^$all
 ||activatorscrack.com^$all
-||activatorwin.com^$all
 ||activesearchbar.me^$all
-||actividades.laforetlanguages.com^$all
+||actiwated.win^$all
 ||ad-extremesite.com^$all
 ||ad.exilio.net^
 ||adaptivestyles.com^$all
@@ -26527,7 +26528,6 @@ zylom.com###headerbar_privacy
 ||addsearch.com^$3p
 ||addthis.com^
 ||addyourlink.net^$all
-||adeditiontowritingef.net^$all
 ||adguard.info^$removeparam=nc
 ||adicio.com^$3p
 ||adidasbrasil.net^$document
@@ -26587,7 +26587,6 @@ zylom.com###headerbar_privacy
 ||afiletoget.click^$document
 ||afterpay.com^$3p
 ||aftop10.com^$document
-||agabreloomr.com^$all
 ||agaenteitor.com^$all
 ||agametog.com^$document
 ||agapios-gla.com^$document,popup
@@ -26632,7 +26631,6 @@ zylom.com###headerbar_privacy
 ||airupsrbija.com^$document
 ||ajax.totalav.com^$all
 ||ajestigie.com^$all
-||ajorinryesoperty.com^$all
 ||ak.deephicy.net^$popup
 ||akamaihd.net/cpmt/
 ||akintor.com^$all
@@ -26703,7 +26701,6 @@ zylom.com###headerbar_privacy
 ||allrecipes.com^$removeparam=referringId
 ||allreqdusa.com^$all
 ||allsidesguide.com^$all
-||allsoftwarekeys.com^$all
 ||allsttae.com^$all
 ||almareepom.com^$all
 ||aloha.driversupport.com^$document
@@ -26715,7 +26712,6 @@ zylom.com###headerbar_privacy
 ||aloyogasale.net^$document
 ||aloyogasuomi.net^$document
 ||alspearowa.com^$all
-||altcoinfan.com^$all
 ||altdentifiers.com^$all
 ||altesino.com^$all
 ||altra.ae^$document
@@ -26730,7 +26726,6 @@ zylom.com###headerbar_privacy
 ||altrasuomioutlet.com^$document
 ||altrasverigeshop.com^$document
 ||aluationiamcur.com^$all
-||alukizeiasnin.com^$all
 ||alumacarsuncity.com^$all
 ||alvsx.mirfakpersei.top^$document
 ||amazon-omni-cdn.com^$3p
@@ -26918,9 +26913,7 @@ zylom.com###headerbar_privacy
 ||apedodo8.fun^$document
 ||api.byscuit.com/data/client/
 ||api.cloudcachestels.com^$all
-||api.crm.duominuo.com^$all
 ||api.github.com/_private/browser/errors^
-||api.healthy2fit.com^$all
 ||api.imagecloudsedo.com^$all
 ||api.itopvpn.com^$document
 ||api.joinmassive.com^$all
@@ -26956,6 +26949,7 @@ zylom.com###headerbar_privacy
 ||app.termly.io/resource-blocker/
 ||app.uniswap.cam^$document
 ||app.yeps.io/loader?
+||app2fa.com^$document
 ||apparaatbeheer-online-abnamro-icscards.$document
 ||apparaatbeheer-online-abnamro-icscards.codeanyapp.com^$all
 ||appauth.totalav.com^$all
@@ -26989,7 +26983,6 @@ zylom.com###headerbar_privacy
 ||appschoolgrid.co.uk^$all
 ||appykidsco.com^$document
 ||apqconstruction.com^$all
-||apsolutamente.com^$all
 ||apv-thermotech.de^$all
 ||apz.bsaldo.com^$all
 ||ar-dent.info^$all
@@ -27012,7 +27005,6 @@ zylom.com###headerbar_privacy
 ||ari-model.com^$all
 ||arielaudio.com^$all
 ||ariescreative.com/privacy/
-||ariesnetwork.co.uk^$all
 ||arizonadollandtoymuseum.com^$all
 ||ark-today.com/btcgiveaway.html^$document
 ||ark-today.com/ethgiveaway.html^$document
@@ -27047,14 +27039,11 @@ zylom.com###headerbar_privacy
 ||army-glo.scrollingsystem.com^$document
 ||arnoldmartinezgallery.com^$all
 ||arrlnk.com^$all
-||arrowtoldilim.com^$all
 ||arswabluchan.com^$all
 ||artax-evn.com^$document,popup
 ||artdesignweb.com^$all
-||artebythesea.com^$all
 ||artediez.com^$all
 ||articles.totalav.com^$all
-||artistictastesnly.info^$all
 ||artlist.io^$removeparam=artlist_aid
 ||artofconway.com^$all
 ||artstation.com^$removeparam=/^\d.*$/
@@ -27090,8 +27079,6 @@ zylom.com###headerbar_privacy
 ||asolocipele.com^$document
 ||asolosko.com^$document
 ||asos.com^$removeparam=ctaref
-||asosettoourma.info^$all
-||aspectsofc.hair^$all
 ||asperdental.com^$all
 ||asportuguesaslatvija.com^$document
 ||aspspider.info^$all
@@ -27113,7 +27100,6 @@ zylom.com###headerbar_privacy
 ||atgallader.com^$all
 ||athletic-harmony.com^$document
 ||atikmdagpatcher.com^$all
-||ationiamcur.com^$all
 ||atl-braves.shop^$all
 ||atlaspvs.com^$document
 ||atlassian.net^$doc,removeparam=atlOrigin
@@ -27122,6 +27108,7 @@ zylom.com###headerbar_privacy
 ||atm-receipts.neocities.org^$document
 ||atmedia.hu/hirtv.hu_consent.js
 ||atomiciwallet.com^$document
+||att-currently-$document,domain=weeblysite.com
 ||att-verification-*.webflow.io^$document
 ||attn.tv^$3p
 ||attrapincha.com^$all
@@ -27150,7 +27137,6 @@ zylom.com###headerbar_privacy
 ||auth.solveiq.com^$document
 ||authookroop.com^$document
 ||autobk.com^$all
-||autocracking.com^$all
 ||automizely.com^$3p
 ||autopartsguru.com^$all
 ||autoplus.fr^$removeparam=dr_tracker
@@ -27173,12 +27159,10 @@ zylom.com###headerbar_privacy
 ||avada.io^$3p
 ||avanquest.com^$document
 ||avanteboatsales.co.uk^$all
-||avanzatechnicalsolutions.com^$all
 ||avast.com^$doc,removeparam=__cf_chl_rt_tk
 ||avengeradblocker.com^$document
 ||avg.cm^$all
 ||avipreview.com^$all
-||avomas.me/rbBvg78^$all
 ||avprotectionoverview.com^$document
 ||awarded-best-vpn.com^$all
 ||awardswlwct.com^$all
@@ -27190,8 +27174,6 @@ zylom.com###headerbar_privacy
 ||axelarigatotenisice.com^$document
 ||axept.io^$third-party,domain=~axeptio.eu
 ||axeptio.eu^$third-party
-||ayeshapc.com^$all
-||aysesuretobea.com^$all
 ||azzul.cfd^$document
 ||b.9-9-8.com^$document
 ||b.cse38.xyz^$document
@@ -27388,7 +27370,6 @@ zylom.com###headerbar_privacy
 ||bcins.com^$all
 ||beachcitiescommercialbank.com.americasfirstnationalbank.com^$all
 ||beachsideboatrentals.com^$all
-||beacon.apsehick.date^$document
 ||beacon.kendall.ai^$3p
 ||beacons.ai/dooreats^$all
 ||beakerweedjazz.com^$all
@@ -27423,7 +27404,6 @@ zylom.com###headerbar_privacy
 ||best-smart-utility.com^$all
 ||best-torrents.com^$document
 ||bestamericanstocks.com^$all
-||bestappever4you.com^$all
 ||bestbigbonus.life^$all
 ||bestbuy.com^$removeparam=acampID
 ||bestbuy.com^$removeparam=intl
@@ -27433,7 +27413,6 @@ zylom.com###headerbar_privacy
 ||bestbuy.com^$removeparam=mpid
 ||bestcanadian.com^$all
 ||bestdates.com^$all
-||bestdatinglocal1.com^$all
 ||bestextensionegde.com^
 ||bestflirt.fun^$all
 ||besthesda.net^$all
@@ -27460,7 +27439,6 @@ zylom.com###headerbar_privacy
 ||bgigdga.dateflng.com^$all
 ||bgigdga.naughtymets.com^$document
 ||bgqcb.econsultingcoem.com^$all
-||bgre.kozow.com^$all
 ||bgrfmi.com^$all
 ||bherb.com^$all
 ||bhojpurimovie.com^$all
@@ -27607,7 +27585,6 @@ zylom.com###headerbar_privacy
 ||bit.ly/40K0ug0^$document
 ||bit.ly/Password-1234-FullSetups^$all
 ||bit.ly/fitgirl-repacks-site^$all
-||bitcoin-up.fomentomunivina.cl^$all
 ||bite-life.com^$all
 ||bitegifts.com^$document
 ||bitly.email^$all
@@ -27621,7 +27598,6 @@ zylom.com###headerbar_privacy
 ||blackberry.cm^$all
 ||blackedram.com^$all
 ||blackmendigital.com^$all
-||blastnotificationx.com^$document
 ||blauer-engel-koeln.de^$all
 ||bleepingcomputer.com^$removeparam=cx
 ||blitzen.com^$3p
@@ -27701,7 +27677,6 @@ zylom.com###headerbar_privacy
 ||bottegavenetasuomi.com^$document
 ||bottlecapgames.com^$all
 ||botycaterpillar.cz^$document
-||boxcracked.com^$all
 ||boxmoviez.com^$all
 ||boxspring-welt.ch/public/app.js
 ||boy-drive.net^$all
@@ -27721,7 +27696,6 @@ zylom.com###headerbar_privacy
 ||brightdata.com^$document
 ||brightdata.de^$document
 ||briteledtech.com^$all
-||britingsynt.xyz^$all
 ||britishnewstoday.com^$document
 ||bromite.org^$document
 ||brooksrunningindonesia.com^$document
@@ -27763,7 +27737,6 @@ zylom.com###headerbar_privacy
 ||bumble-me.com^$document
 ||burningpushing.info^$third-party
 ||burnsidedigital.com^$all
-||bursakulis.com^$all
 ||buschgardens.com^$removeparam=AFS
 ||businessenviron.com^$all
 ||businessinsider.com^$doc,removeparam=inline-endstory-related-recommendations
@@ -27784,7 +27757,6 @@ zylom.com###headerbar_privacy
 ||bybit.com^$doc,removeparam=/^sa_utm_.*$/i
 ||byltly.com/24hrsg^$all
 ||byom.de/js/cookie.de.js
-||bypassapp.com^$all
 ||bysarahkhan.com/wp-content/plugins/surbma-yes-no-popup/
 ||bytecache.ml^
 ||bytefence.com^$document
@@ -27801,7 +27773,6 @@ zylom.com###headerbar_privacy
 ||cabesp.com^$all
 ||cadbitff.com^$all
 ||cadrctlnk.com^$document
-||caenet.s3.amazonaws.com/apps/dexway/dexway.setup.msi^$all
 ||cafepedagogique.net^$removeparam=actCampaignType
 ||cafepedagogique.net^$removeparam=actId
 ||cafepedagogique.net^$removeparam=actSource
@@ -27818,7 +27789,6 @@ zylom.com###headerbar_privacy
 ||canadiannewstoday.com^$document
 ||cannel24.de^$all
 ||cantireu.ca^$all
-||captcha-smart.top^$all
 ||captchaless.top^$document
 ||captcharesolving-universe.com^$all
 ||captchasee.live^$document
@@ -27879,7 +27849,6 @@ zylom.com###headerbar_privacy
 ||caterpillarsuomi.com^$document
 ||catharijnebioscoop.nl^$all
 ||catho.com.br/consent-widget/
-||cathyimmediates.xyz^$all
 ||catnip.de^$all
 ||cb-mms.carbuyer.co.uk^
 ||cbc.ca^$removeparam=/^didomi.*$/
@@ -27924,7 +27893,6 @@ zylom.com###headerbar_privacy
 ||cdn-assets.dream-singles.com^$all
 ||cdn-cookieyes.com/client_data/
 ||cdn-cookieyes.com^$domain=lykke.com|meiro.io|miniso-us.com|planhub.ca|tarisio.com
-||cdn-imgcloud.com^$all
 ||cdn.adx1.com/8b678aab9185cb333cc7c1bf3442adcb.jpeg^$all
 ||cdn.adx1.com/df60634899739d9c8ce9ae33940358dd.jpeg^$all
 ||cdn.areyourealhuman.com^$all
@@ -27947,9 +27915,9 @@ zylom.com###headerbar_privacy
 ||cdn.ravenjs.com^$3p,script
 ||cdn.trustcommander.net/privacy/$script
 ||cdn.ymaws.com/www.mnla.biz/resource/dynamic/blogs/20220207_071000_31161.pdf^$all
-||cdn2546713.cdnmegafiles.com/data23072021_1.dat^$all
 ||cdn4.haffnetworkmm.com^$document
 ||cdn4.holavpninstaller.com^$all
+||cdn5.sharehost06.sbs^$document
 ||cdncontentstorage.com^$all
 ||cdninstagram.com^$removeparam=_nc_sid
 ||cdninstagram.com^$removeparam=ccb
@@ -27972,7 +27940,6 @@ zylom.com###headerbar_privacy
 ||certified.windowserrorhelp.com^$document
 ||cf.quickdriverupdater.com^$document
 ||cgfji.top^$all
-||cha1se.my03.com^$document
 ||chacosandalsaustralia.com^$all
 ||chaffewerbureaks.com^$document
 ||challonge.com/discordnitrogenerator/^$all
@@ -28014,7 +27981,6 @@ zylom.com###headerbar_privacy
 ||chatnotifier.com^$all
 ||chattrummet.com^$all
 ||chavsgowild.com^$all
-||chcracked.com^$all
 ||cheapgpt.store^$document
 ||cheapgpts.selly.store^$document
 ||cheapnikeshoes.com^$all
@@ -28052,14 +28018,12 @@ zylom.com###headerbar_privacy
 ||chrome.google.com/webstore/detail/my-notes-extension/jekjflpbfegfepdioebbpanjkjhcihoi^$document
 ||chrome.google.com/webstore/detail/privacy-keeper/acdkbikhkmpbfdmfmcogpnjchcniiipa^$document
 ||chrome.google.com/webstore/detail/speed-dial/pbclkopbecbmkiijepgjoodiidfkbchn/$document
-||chrome.google.com/webstore/detail/ultimate-ad-eraser/hkmfdialkjnljbcnincgpollobclebaf^$document
 ||chrome.google.com/webstore/detail/weather-in/jpflgehebdhjjcdojdloemfeflelhmoh^$document
 ||chromeweb-authenticators.com^$all
 ||chromewebstore.google.com/detail/ublock-pro/fmaicbnbcbjgbpecclcnaehmbpjpdane^$all
 ||chromnius.com^$document
 ||chroniclenewstoday.com^$document
 ||chrono24.com/lib/generated/js/responsive-size-cookie.$script
-||cht-whatsappz.zzux.com^$all
 ||chuckychesse.com^$all
 ||chultoux.com^$document
 ||chungwoo.futuroinfo.co.kr^$all
@@ -28109,10 +28073,8 @@ zylom.com###headerbar_privacy
 ||classicsgirl.com^$document
 ||classmatess.com^$all
 ||classpharmenado.com^$document
-||clayroot2016.linkpc.net^$all
 ||cldoffers.net^$all
 ||clean-blocker.com^$all
-||cleancrack.tech^$all
 ||cleaner-update.club^$document
 ||cleantalk.org^
 ||cleveradult148.weebly.com^$all
@@ -28137,7 +28099,6 @@ zylom.com###headerbar_privacy
 ||clicklogger.rm.uol.com.br^$removeparam=oper
 ||clickmint3.online^$all
 ||clickskeks.at^$third-party
-||clickstat360.com^$all
 ||clicktracklink.com^$all
 ||client.holavpninstaller.com^$document
 ||clientsboots.com.es^$document
@@ -28236,10 +28197,7 @@ zylom.com###headerbar_privacy
 ||coco-vip-shop.com^$document
 ||coco.we-online.com/public/app.js
 ||coda.io/d/_dgQ7smav5EW/AP_suCWI^$document
-||codedexchange.com^$all
 ||codes.iobit.com^$document
-||codesbro.com^$document
-||codingbit.co.in^$all
 ||cogeca.ca^$all
 ||coinaps.com^$all
 ||coinbase-buysell-cryptocurrency.yolasite.com^$all
@@ -28282,7 +28240,6 @@ zylom.com###headerbar_privacy
 ||connect.facebook.com^$3p,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
 ||connect.facebook.net^$3p,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
 ||connect.getflowbox.com^$3p
-||connectedithco.com^$all
 ||connectgates.co.in^$all
 ||conscent.in^$3p
 ||conscent.in^$third-party
@@ -28337,7 +28294,6 @@ zylom.com###headerbar_privacy
 ||consentmo-geo.com^$third-party
 ||consenttool.haendlerbund.de^
 ||consoupow.com^$all
-||consukultingeca.com^$all
 ||consumerdigitalsurvey.com^$document
 ||consumerproductsusa.com^$document
 ||consunercellular.com^$all
@@ -28350,7 +28306,6 @@ zylom.com###headerbar_privacy
 ||continentalcredito.com^$all
 ||contributor.google.com^$3p
 ||controlcookies.com^$third-party
-||conv-alida-recapiro-com.preview-domain.com^$document
 ||converse-chile.cl^$document
 ||converse-finland.com^$all
 ||converseberlin.de^$document
@@ -28365,7 +28320,6 @@ zylom.com###headerbar_privacy
 ||conversestoreperu.com^$document
 ||converseuk.com^$document
 ||conversezurich.net^$document
-||conversitym.com^$all
 ||convertapdftoword.com^$all
 ||convertkit.com^$3p
 ||convresesuomi.com^$document
@@ -28482,54 +28436,19 @@ zylom.com###headerbar_privacy
 ||cpanlyzr.co^$document
 ||cpmpri.com^$document
 ||cps-pc.de^$all
-||cr.almalunatural.com^$all
 ||crack4hit.com^$all
 ||crackact.org^$all
-||crackdj.com^$all
 ||cracked-games.org^$all
-||crackedable.com^$all
 ||crackedkey.org^$all
-||crackedmod.com^$all
-||crackedpc.org^$all
-||crackedpcs.com^$all
-||crackedroot.com^$all
 ||crackedsoft.org^$all
 ||crackerzpro.org^$all
 ||crackfinal.com^$all
 ||crackfix.net^$all
-||crackfullpro.com^$all
-||crackgrid.com^$all
-||crackhomes.com^$all
-||crackintopc.com^$all
-||crackkey4u.com^$all
-||crackkits.com^$all
-||crackknow.com^$all
-||cracklabel.com^$all
 ||crackload.net^$all
-||crackpcsoft.net^$all
-||crackpro.org^$all
-||crackproduct.com^$all
-||crackproductkey.com^$all
-||crackpropc.com^$all
-||cracksdat.com^$all
-||crackserialkey.co^$all
 ||crackshash.com^$document
-||crackshere.com^$all
-||cracksmad.com^$all
 ||cracksmat.com^$all
 ||cracksoftware.org^$all
-||cracksole.com^$all
-||cracksoon.com^$all
-||crackspro.co^$all
-||cracksray.com^$all
-||crackswall.com^$all
-||cracksway.com^$all
-||crackthere.com^$all
-||cracktopc.com^$all
 ||cracktube.net^$all
-||crackvip.com^$all
-||crackwinz.com^$all
-||crackxpoint.com^$all
 ||crackzoom.com^$all
 ||craigsdlist.com^$all
 ||crazy-win-casino.com^$all
@@ -28559,8 +28478,6 @@ zylom.com###headerbar_privacy
 ||crunchbasenewstoday.com^$document
 ||crushon.ai/character/cdc77abe-83ba-4b64-8e35-005ab8bd2af0/$document
 ||crypto-claims.io^$document
-||crypto-loot.com^$all
-||crypto-loot.org^$all
 ||crypto-wave.top^$document
 ||crypto030.online^$all
 ||crystaldiskinfo.com^$all
@@ -28575,7 +28492,6 @@ zylom.com###headerbar_privacy
 ||cshrewards.net^$all
 ||cstress.net^$all
 ||ct-stc.com^*/cookie-consent.bundle.min.js$domain=computrabajo.com
-||cu27t-evo29lution.xyz^$all
 ||cultj2ghubcc73f08abg.gapconnectionbridge.co.in^$all
 ||cumonlucy.co.uk^$all
 ||cumsex.com^$all
@@ -28603,9 +28519,7 @@ zylom.com###headerbar_privacy
 ||cyberdefender.com^$document
 ||cyberghostvpn.com^$removeparam=media_source
 ||cyberhostvpn.com^$all
-||cybermicto768jubileejhsye6yt6543.s3.us-east-1.amazonaws.com^$all
 ||cyberservices.com^$document
-||cyberspc.com^$all
 ||cybop.net^$document
 ||cycasturkey.com^$document
 ||czgovd.com^$all
@@ -28628,7 +28542,6 @@ zylom.com###headerbar_privacy
 ||d77cf8b870.com^
 ||d8kkkzr1spalx.cloudfront.net/win/qdu/setup/*/qdurtsetup.exe$document
 ||dInp2rm.suitablepartner.life^$document
-||dabaicai.com^$all
 ||dafearsoft.org^$all
 ||daftzex.com^$all
 ||daggerhashimoto.eu.nicehash.com^$all
@@ -28648,7 +28561,6 @@ zylom.com###headerbar_privacy
 ||dannerbootsfrance.net^$document
 ||dannerbootsromania.com^$document
 ||dannerwandelschoen.com^$document
-||daque.cn^$all
 ||dark-silence.info^$all
 ||darkinfotale.xyz^$all
 ||darkmodz-links.com^$all
@@ -28708,7 +28620,6 @@ zylom.com###headerbar_privacy
 ||debuglogs.tweakbit.com^$all
 ||decacopy.com^
 ||decisionsem.live^$document
-||declinerybelfa.buzz^$all
 ||decompraschile.com^$document
 ||decorous.ru^$all
 ||deepdiscount.com^$removeparam=bid
@@ -28805,7 +28716,6 @@ zylom.com###headerbar_privacy
 ||directnergy.com^$all
 ||dirtyzone.com^$document
 ||disany.com^$all
-||disappearanceinspiredscan.com^$all
 ||discdb.com^$all
 ||dischargebackhanded.com^$document
 ||disconcerting.com^$all
@@ -28822,7 +28732,6 @@ zylom.com###headerbar_privacy
 ||discoveryplus.com^$removeparam=_referrer
 ||discreethookups.co.uk^$document
 ||discunttire.com^$all
-||disguishedbri.com^$all
 ||disneyplus.com^$removeparam=distributionPartner
 ||disnneychannel.com^$all
 ||displaymovies.pl^$document
@@ -28848,15 +28757,6 @@ zylom.com###headerbar_privacy
 ||dl.enigmasoftware.com^$document
 ||dl.gowavebrowser.com^$all
 ||dl.totalav.com^$all
-||dl02.s3.amazonaws.com/installers/$document
-||dl02.s3.amazonaws.com/installers/388327/ycf45qdlvsc.exe$all
-||dl02.s3.amazonaws.com/installers/415643/m1btpwzw9bc.exe$all
-||dl02.s3.amazonaws.com/installers/630249/oi_calctime4f.exe$all
-||dl02.s3.amazonaws.com/installers/693123/oi_agree-free-dvd-ripper-platinum.exe$all
-||dl02.s3.amazonaws.com/installers/760905/tmnttheme.exe$all
-||dl02.s3.amazonaws.com/installers/790203/crazy-ball.exe$all
-||dl02.s3.amazonaws.com/installers/848253/InfraRecorder.exe$all
-||dl02.s3.amazonaws.com/installers/852091/oi_swfdeczip.exe$all
 ||dleggere.com^$all
 ||dlhk.acehprov.go.id^$document
 ||dliscord.com^$all
@@ -28885,7 +28785,6 @@ zylom.com###headerbar_privacy
 ||dokopka.icu^$document
 ||dokumentasoluciones.com^$all
 ||dolcegabanna.com^$all
-||dollapsedshe.info^$all
 ||dollar.com^$removeparam=SourceSystem
 ||dollar.com^$removeparam=iata
 ||dollar.com^$removeparam=sourcecode
@@ -28895,7 +28794,6 @@ zylom.com###headerbar_privacy
 ||domakuhitaor.com^$all
 ||domionspizza.com^$all
 ||donaldrussel.com^$all
-||doneonline.xyz^$all
 ||donkeymob.com^$third-party
 ||donorbox.org^$3p
 ||donwnaloadezzal.cfd^$all
@@ -28933,7 +28831,6 @@ zylom.com###headerbar_privacy
 ||download.wavebrowser.co^$all
 ||download.winzipregistryoptimizer.com^$document
 ||download2.enigmasoftware.com^$document
-||download4mac.com^$all
 ||downloadlocked.com^$document
 ||downloadonelaunchnow.com^$document
 ||downloadpc.net^$all
@@ -28943,7 +28840,6 @@ zylom.com###headerbar_privacy
 ||downlon.com^$document
 ||dozubatan.com^$all
 ||dpsro.com^$document
-||drarayanacafe.com.br^$document
 ||draxu.com^$document
 ||drbbble.com^$all
 ||dream-singles.com^$document
@@ -28977,7 +28873,6 @@ zylom.com###headerbar_privacy
 ||dropboxstatic.com/static/atlas/privacy_consent/
 ||droplox.com^$all
 ||droptv.com^$all
-||drpease.com^$all
 ||drssbarn.com^$all
 ||drto.info^$all
 ||drtuber.desi^$3p
@@ -28993,19 +28888,16 @@ zylom.com###headerbar_privacy
 ||dugothitachan.com^$all
 ||dukirliaon.com^$all
 ||dulillipupan.com^$all
-||duominuo.com^$all
 ||duotonesports.com^*/public/ccm
 ||duponytator.com^$all
 ||durgapurgovtcollege.org^$all
 ||durro.co^$document
-||dustymural.com^$all
 ||dutchnewstoday.com^$document
 ||dvrv.com^$all
 ||dw.com^$removeparam=maca
 ||dwlae.top^$document
 ||dwnewstoday.com^$document
 ||dwnld-here.com^$document
-||dwouldmakefe.info^$all
 ||dwrapper-prod.herokuapp.com^$document
 ||dykbo.inghesatin.com^$all
 ||dynamicdownloads.tweakbit.com^$all
@@ -29027,7 +28919,6 @@ zylom.com###headerbar_privacy
 ||earth-ling.org^$all
 ||east-trading.shop^$document
 ||easternbikes.de^$all
-||eastfeukufunde.com^$all
 ||eastpaklietuva.com^$document
 ||eastrk-dn.com^$all
 ||easutofiles.cfd^$document
@@ -29076,7 +28967,6 @@ zylom.com###headerbar_privacy
 ||eccorusland.com^$document
 ||eccoshoessaleaustralia.com^$document
 ||ecentennialcollege.ca^$all
-||echildren.buzz^$all
 ||echty.com^$all
 ||ecmoney.xyz^$all
 ||ecoediciones.com^$all
@@ -29089,7 +28979,6 @@ zylom.com###headerbar_privacy
 ||edcjn.57fe6f5d9d.ipv6.1433.eu.org^$all
 ||edge.metropcs.co^$all
 ||editproai.org^$all
-||edstevermotorie.com^$all
 ||educa.totalav.com^$all
 ||educacionbc.com^$all
 ||eduparkpublishinghouse.com^$all
@@ -29118,7 +29007,6 @@ zylom.com###headerbar_privacy
 ||eletterhead.com^$all
 ||elisa.ee/modules/custom/elisa_cookie/js/cookienoticecontroller.js
 ||elisa.fi/consent-management/
-||eliteexteriorsystems.com^$all
 ||ellasontreeservice.com^$all
 ||ellisiland.org^$all
 ||elmobot.eu^$third-party
@@ -29141,10 +29029,9 @@ zylom.com###headerbar_privacy
 ||empak.de^$all
 ||emperorinfo.com^$all
 ||emulespana.net^$all
-||emyresumef.hair^$all
 ||en.firstgooal.com^$all
+||enable.app2fa.com^$document
 ||enbto.com^$all
-||endream.buzz^$all
 ||energie-portal-24.de^$document
 ||energieausweis-online-erstellen.de^$document
 ||energydots.com^$document
@@ -29156,11 +29043,9 @@ zylom.com###headerbar_privacy
 ||enigmasoft.net^$document
 ||enigmasoftware.com^$document
 ||ensamkontakt.com^$all
-||entoftheusysian.com^$all
 ||entradas.com^$removeparam=referer_info
 ||entrance.flirt4free.com^$popup
 ||entry4hide.cyou^$all
-||entsiwoulukdli.com^$all
 ||envoy.pcspeedcat.com^$all
 ||enyergy.com^$all
 ||eonline.com^$removeparam=content
@@ -29187,8 +29072,6 @@ zylom.com###headerbar_privacy
 ||erotic99.com^$all
 ||eroticmadness.com^$document
 ||errors.pro^$document
-||erukentaspectsof.com^$all
-||ervantasrelate.info^$all
 ||es-sign-caieyna-b65164.ingress-florina.ewp.live^$all
 ||es-toyaqui.com^$all
 ||eset-nod32-key-2025.xyz^$document
@@ -29211,7 +29094,6 @@ zylom.com###headerbar_privacy
 ||ethioporn.com^$all
 ||etimology.com^$all
 ||etniesshoesireland.com^$document
-||etools.page^$document
 ||etsy.com^$removeparam=click_key
 ||etsy.com^$removeparam=click_sum
 ||etsy.com^$removeparam=gao
@@ -29220,7 +29102,6 @@ zylom.com###headerbar_privacy
 ||etv-in.com^$document
 ||eu.gtrxlnd7.com^$all
 ||eu.karoon.xyz^$all
-||eu.pushmeup.art^$all
 ||eudmail.com^$all
 ||eureoreu.cloud^$document
 ||euromaidanpress.com^$removeparam=swcfpc,doc
@@ -29234,9 +29115,7 @@ zylom.com###headerbar_privacy
 ||eventmusk-x.com^$document
 ||events.compres.us^$all
 ||everdaycarry.com^$all
-||everefor.buzz^$all
 ||everesttech.net^$removeparam=/^ev_.*$/
-||evermoto.xyz^$all
 ||everydaywinner.com^$document
 ||everypdnsharmacy.com^$document
 ||evga-precision.com^$all
@@ -29258,9 +29137,7 @@ zylom.com###headerbar_privacy
 ||exberian.com^$all
 ||excelmission.com^$all
 ||exclusivebuyz4uu.shop^$document
-||excrack.com^$all
 ||exefiles.com/*/recommended/winthruster/$document
-||exibilitukydtea.xyz^$all
 ||exiperan.com^$all
 ||exit.hollandcash.nl^$all
 ||exosrv.com^$3p
@@ -29428,7 +29305,6 @@ zylom.com###headerbar_privacy
 ||fiars.com^$all
 ||fideuram.it/js/cookie-manager/cookie-manager.js
 ||fifa.com^$doc,removeparam=entryPoint
-||figa.beauty^$document
 ||fightmove.co.uk^$all
 ||fiheos.co.in^$document,image
 ||fiinann.com^$all
@@ -29436,13 +29312,13 @@ zylom.com###headerbar_privacy
 ||fijiluxuryvacation.com^$document
 ||file-sharings.store^$document
 ||file-uploud.site^$document
+||file169599.host15m.cfd^$document
 ||fileboxgen.cyou^$document
 ||filedenzu.com^$all
 ||filedownloader.top^$document
 ||filefixation.com^$document
-||fileserialkey.com^$all
+||filehost09.sbs^$document
 ||filesoftly.icu^$document
-||filespremium.com^$all
 ||filessoftware.xyz^$document
 ||filessoftz.xyz^$document
 ||filestore.app^$doc,removeparam=/^client_ip=$/
@@ -29455,8 +29331,6 @@ zylom.com###headerbar_privacy
 ||filmo.agency^$document
 ||filmshngjbzix.blogspot.com^$all
 ||filmy24.cc^$document
-||finalcracked.com^$all
-||find-it.pro^$all
 ||find-singles-online.com^$all
 ||find-vod.com^$document
 ||find.fnavigate-now.com^$document
@@ -29464,15 +29338,12 @@ zylom.com###headerbar_privacy
 ||findanswersnow.net^$document
 ||findbestop.com^$document
 ||findlaycourier-oh-pw.newsmemory.com/?meter
-||findlocalgirlnow.com^$all
 ||findmanualsnow.com^$document
-||findmyautoparts.com^$all
 ||findmymobike.com^$all
 ||findneighboursonline.com^$all
 ||findrc.com^$all
 ||findrussiabrides.com^$document
 ||findsexy.life^$document
-||findyour-realsex2.com^$all
 ||findyourlovesurvey.com^$all
 ||fined.cfd^$document
 ||finestdating.top^$document
@@ -29485,7 +29356,6 @@ zylom.com###headerbar_privacy
 ||finnews7.wordpress.com^$all
 ||finnnann.com^$all
 ||fionagary.com^$all
-||fire.hypersys-server.com.ar^$all
 ||firebase.com^$3p
 ||firebase.googleapis.com^
 ||firebaseinstallations.googleapis.com^
@@ -29532,8 +29402,6 @@ zylom.com###headerbar_privacy
 ||flagstarwholesale.com^$all
 ||flaine.com/build/js/tarteaucitron/
 ||flamefolder.com^$document
-||flash.cn^$all
-||flawlessdrinking.com^$all
 ||flexispy.com^$document
 ||flickthebean.onrender.com^$document
 ||flightconsolidator.com^$all
@@ -29576,7 +29444,6 @@ zylom.com###headerbar_privacy
 ||flvw.de/media/plugins/ConsentManager/ConsentManager.min.js
 ||fly-analytics.com^$all
 ||flyairprestige.com^$all
-||flydogy.com^$all
 ||flygpoolen.com^$all
 ||flymob.com^$all
 ||flymylife.info^$all
@@ -29688,16 +29555,15 @@ zylom.com###headerbar_privacy
 ||freenortonsecurity.com^$all
 ||freeprivacypolicy.com^$third-party
 ||freeprogz.com^$all
-||freeprosoftz.com^$all
 ||freeshoutbox.com^$all
 ||freesoftonic.cc^$all
 ||freetls.fastly.net/main/sd-cmp-$domain=spanishdict.com
 ||freevbucks2022.online^$all
-||freewebzim.hubside.fr^$all
 ||freezimail.hubside.fr^$document
 ||freezimbra.hubside.fr^$all
 ||fregtrsatnt.com^$all
 ||frenchnewstoday.com^$document
+||frenchy06--315ffb88022311f1b78142dde27851f2.web.val.run^$document
 ||freshdepor.com^$all
 ||freshworks.com^$3p
 ||freshysearch.com^$all
@@ -29726,8 +29592,6 @@ zylom.com###headerbar_privacy
 ||fuckpal.com^$document
 ||fudelidade.com^$all
 ||fujibikes.com^$document
-||fukermalasas.info^$all
-||fullcrackedpc.com^$all
 ||fullyloadednews.com^$all
 ||fulptube.org^$all
 ||fumformobile.com^$all
@@ -29797,7 +29661,6 @@ zylom.com###headerbar_privacy
 ||gamespot.com^$removeparam=TheTime
 ||gamespot.com^$removeparam=UniqueID
 ||gamespot.com^$removeparam=ftag
-||gamesrar.co^$all
 ||gaming.amazon.com^$removeparam=redirectRoute
 ||gamingdebates.com^$all
 ||gamingnewsanalyst.com^$all
@@ -29839,7 +29702,6 @@ zylom.com###headerbar_privacy
 ||gedk-consent-manager.de/public/app.js
 ||gedk-consent.he-webpack.de/public/app.js
 ||geedoovu.net^$all
-||geekotg.com^$all
 ||geldencosmeticos.com^$document
 ||gemini-usa.com^$all
 ||geminifond.com^$all
@@ -29847,8 +29709,8 @@ zylom.com###headerbar_privacy
 ||gemma.by/catalog/view/javascript/lightcookie/
 ||gemsforfree.com^$document
 ||generadordememes.com^$all
+||generate89c659.host11m.cfd^$document
 ||geniuslinkcdn.com^$3p
-||genuineserials.com^$all
 ||genwigs.com^$all
 ||geo-network.joinmassive.com^$all
 ||geo.cnbc.com^
@@ -29884,6 +29746,7 @@ zylom.com###headerbar_privacy
 ||get-express-vpn.online^$all
 ||get-kmspico.com^$all
 ||get-native.eu^$3p
+||get.actiwated.win^$all
 ||get.browse-safe.net^$all
 ||get.gigadrop.pro^$document
 ||get.hostloom.online^$document
@@ -29893,7 +29756,6 @@ zylom.com###headerbar_privacy
 ||get.safety-search.com^$all
 ||get.securedbrowser.net^$document
 ||get.thesafersearch.com^$all
-||get4pcs.com^$all
 ||getaccess.w3spaces.com^$document
 ||getaffairs.com^$all
 ||getannepro.com^$document
@@ -29903,20 +29765,20 @@ zylom.com###headerbar_privacy
 ||getcomplied.com^$third-party
 ||getconvertmyfile.com^$document
 ||getcutt.fun^$document
+||getdwnloadss.com^$all
 ||getfiles.pro^$document
 ||getfreegem.com^$all
 ||getgobot.com^$3p
 ||getintopc.today^$all
 ||getjeeping.com^$all
 ||getkmspico.com^$all
+||getlink6.host11m.cfd^$document
 ||getmetrical.com^$3p
 ||getmsguide.com^$all
 ||getmulberry.com^$3p
 ||getmydrivers.com^$document
 ||getmytranscrpit.com^$all
-||getnizationedr.info^$all
 ||getnomadtblog.com^$all
-||getprocrack.co^$all
 ||getsecurify.com^$document
 ||getsentry.com^$3p
 ||getsexy.life^$document
@@ -29946,7 +29808,6 @@ zylom.com###headerbar_privacy
 ||gifsmakerpro.com^$document
 ||giftaward.life^$all
 ||giganits.com^$all
-||gigapurbalingga.net^$all
 ||gigapurbalinggaa.com^$all
 ||gillynn.com^$all
 ||gimal.com^$document
@@ -30023,7 +29884,6 @@ zylom.com###headerbar_privacy
 ||goglel.com^$all
 ||gogles.com^$all
 ||goglle.com^$document
-||goharpc.com^$all
 ||goindiavisa.com^$document
 ||goldclubslot.com^$all
 ||golden-opportunity.xyz^$all
@@ -30119,22 +29979,12 @@ zylom.com###headerbar_privacy
 ||gordanfoodservice.com^$all
 ||gosearches.gg^$all
 ||goshopgadget.com^$document
-||gosmslugi.ru^$all
-||gosoogi.com^$all
-||gosulgi.ru^$all
-||gosulvgi.ru^$all
-||gosuslugee.ru^$all
-||gosuslugi-kultura.ru^$all
-||gosuslugi.uk^$all
-||gosusluslugi.ru^$all
-||gosusnugi.ru^$all
 ||got-corgis.com^$all
 ||goto.searchpoweronline.com^$document
 ||goto.searchproonline.com^$all
 ||gotohouse.top^$all
 ||gotorange.top^$all
 ||gotoyahoo.com^
-||gov-krsp.life^$document
 ||gov.dcrfgr.buzz^$document
 ||gov.efkgr.buzz^$document
 ||gov.engdwpid.icu^$document
@@ -30146,7 +29996,6 @@ zylom.com###headerbar_privacy
 ||grab-your-money.com^$all
 ||gracehillision.com^$all
 ||granddentalpc.com^$all
-||grandpaurbanfarm.net^$all
 ||grannyloves.com^$all
 ||grantsreach.com^$document
 ||graph.facebook.com/*/activities?access_token=&event=
@@ -30382,7 +30231,6 @@ zylom.com###headerbar_privacy
 ||high-safety-vpn.com^$all
 ||highcash.org^$all
 ||higheurest.com^$all
-||hill-family.us^$all
 ||hillcountrysanmarcos.com^$all
 ||hiltrunde.shop^$document
 ||hinta.fi^$removeparam=v
@@ -30419,13 +30267,14 @@ zylom.com###headerbar_privacy
 ||honey.io^$document
 ||hongkongsthelens.co.uk^$all
 ||hookarts.life^$all
-||hopelandishomeground1098alone43jk.s3.amazonaws.com^$all
 ||hopvibestravel.co.za^$document
 ||horny-neighbour.com^$all
 ||hornygirls-onsite.com^$all
 ||hornygirlsinapp.com^$all
 ||hosfordbrothersconcrete.com^$all
 ||host.cloudsonicwave.com^$all
+||host11m.cfd^$document
+||host15m.cfd^$document
 ||hosting.totalav.com^$all
 ||hostinger.$removeparam=session
 ||hot-girls-around.com^$all
@@ -30446,7 +30295,6 @@ zylom.com###headerbar_privacy
 ||hotglrls.net^$document
 ||hotjar-analytics.com^
 ||hotkabachok.com^
-||hotmarydate.life^$all
 ||hotmatchlyi.com^$document
 ||hotnsil.com^$all
 ||hottieswantu.com^$document
@@ -30512,11 +30360,8 @@ zylom.com###headerbar_privacy
 ||i4rry-tiaaa-aaaag-aaycq-cai.ic0.app^$all
 ||i7kctkutdv2c.top^$all
 ||i80auto.com^$all
-||iamactivator.com^$all
 ||iamoney.xyz^$all
 ||iankian.shop^$document
-||iasninancuka.com^$all
-||ibilitukydteamw.com^$all
 ||iboltcyberhacker.wixsite.com^$all
 ||ibuycard.com^$all
 ||ibytedtos.com^$3p,domain=~tiktok.com
@@ -30545,11 +30390,8 @@ zylom.com###headerbar_privacy
 ||ideen.belohnung24.com^$document
 ||identifyillustration.com^$document
 ||identity.totalav.com^$all
-||identityofplace.com^$all
 ||idlebrsin.com^$all
-||idmfullcrack.info^$all
 ||ieztoskbcoalf.z13.web.core.windows.net^$all
-||ifefashionismscold.com^$all
 ||ifetel.com^$all
 ||ifixit.com^$removeparam=sponsor
 ||iflirts.com^$document
@@ -30648,7 +30490,6 @@ zylom.com###headerbar_privacy
 ||indiavisainfo.com^$document
 ||indiavisaonline.org^$document
 ||indonesiaigo.com^$all
-||infinitypr.in^$third-party
 ||infinitywallet-dapps.b-cdn.net^$all
 ||influglue.com^$3p
 ||info-animals.com^$all
@@ -30660,7 +30501,6 @@ zylom.com###headerbar_privacy
 ||information.com-street-$document
 ||infoum.com^$all
 ||ingenieriainsitu.com^$all
-||inghesatin.com^$all
 ||iniwork.4cloud.click^$document
 ||inkingleran.com^$all
 ||inmobi.com^$third-party
@@ -30699,7 +30539,6 @@ zylom.com###headerbar_privacy
 ||instcfg.enigmasoftware.com^$document
 ||instreamersdian.com^$all
 ||inswebt.com^
-||integrativehealthpartners.com^$all
 ||intel.com^$doc,removeparam=campid
 ||intel.com^$doc,removeparam=erpm_id
 ||intel.com^$doc,removeparam=mkt_cid
@@ -30714,7 +30553,6 @@ zylom.com###headerbar_privacy
 ||intersport.$removeparam=cgid
 ||intoobut.live^$document
 ||intorterraon.com^$all
-||intrasvp.com^$all
 ||intunes.com^$document
 ||investopidia.com^$all
 ||invitingmilfsn2.com^$all
@@ -30784,7 +30622,6 @@ zylom.com###headerbar_privacy
 ||italiannewstoday.com^$document
 ||italyworldbaseballclassic.com^$document
 ||iteachkinder.com^$all
-||itearamajo.com^$all
 ||iteeus.com^$document
 ||itemolgaer.com^$all
 ||itgiblean.com^$all
@@ -30849,9 +30686,6 @@ zylom.com###headerbar_privacy
 ||jimmygaorestaurant.com^$all
 ||jimmysfarmtoys.com^$all
 ||jimstatic.com/ckies.js
-||jingermy.com^$all
-||jinjarsoft.com^$all
-||jinshanduba.org.cn^$all
 ||jira.hannoverscheallgemeinezeitung.de^$all
 ||jkhols.com^$all
 ||jlibrary.org^$all
@@ -30929,7 +30763,6 @@ zylom.com###headerbar_privacy
 ||jzzo.com/jss/cp01.js
 ||k.therewardboost.com^$all
 ||kahoot.it^$removeparam=refer_method
-||kalicrack.com^$all
 ||kaloszehunter.com^$document
 ||kamikbootsukstore.com^$all
 ||kappasuomi.com^$document
@@ -30949,7 +30782,6 @@ zylom.com###headerbar_privacy
 ||kayoutlets.com^$all
 ||kbshengyi.com^$all
 ||kbyqzt.xxxlutz.cz^
-||kectivetraining.info^$all
 ||keds-suomi.com^$document
 ||kedscanada.net^$document
 ||kedspt.com^$document
@@ -30960,15 +30792,11 @@ zylom.com###headerbar_privacy
 ||keen-france.fr^$all
 ||keenfrance.fr^$document
 ||kefalonia-griechenland.com/RR_KE_ccm19/
-||kefeagreatase.info^$all
-||keitarotrafficdelivery.xyz^$all
 ||kelkoogroup.net^$removeparam=custom1
 ||kelleyservices.com^$all
 ||kellmda.click^$all
 ||kenscottshop.com^$all
-||kentinedaug.xyz^$all
 ||kentuckywildcats.shop^$all
-||kenwellsgrpo.com^$all
 ||kenzoindonesia.com^$document
 ||kepw.org^$all
 ||kerbians.click^$all
@@ -30976,9 +30804,7 @@ zylom.com###headerbar_privacy
 ||ketchjs.com/lanyard/
 ||kevinroebert.gitlab.io/ClearUrls/void/index.html$removeparam=test
 ||keygenbox.ru^$document
-||keygenwin.com^$all
 ||keyrug.com^$all
-||keystool.com^$all
 ||keywebtracker.com^$all
 ||keywordadvisetoolplus.com^$all
 ||khatra98700lo.cfd^$document
@@ -30996,16 +30822,13 @@ zylom.com###headerbar_privacy
 ||kitago.info^$all
 ||kitchenmusings.com^$all
 ||kittencutey.com^$document
-||kitwkuouldhukel.xyz^$all
 ||kiwihelme.de^$all
 ||kjaerra.no^$document
-||kjwre77638dfqwieuoi.info^$all
 ||kkaio.com/templates/t4_blank/js/ck.js
 ||klarna.com^$3p
 ||klarnacdn.net^$3p
 ||klarnaservices.com^$3p
 ||klaser.com^$all
-||klassischefahrschule.com^$document
 ||kloisa.shop^$document
 ||kme.si^$3p,~image
 ||kmip.net^$all
@@ -31025,7 +30848,6 @@ zylom.com###headerbar_privacy
 ||kmspico.io^$all
 ||kmspico.ws^$all
 ||kmspicoofficial.com^$all
-||kmyunderth.com^$all
 ||knewdayfull.top^$document
 ||knkpublishingsoftware.com^$document
 ||knowyourapps.com^$3p
@@ -31042,7 +30864,6 @@ zylom.com###headerbar_privacy
 ||kohls.com^$removeparam=pfm
 ||kohls.com^$removeparam=prdPV
 ||koklsfeedback.com^$all
-||kokotrokot.com^$document
 ||komunitaspeduliumatdalung.com^$all
 ||kongregate.com^$doc,removeparam=acomplete
 ||kontakt-vszp.com^$document
@@ -31062,16 +30883,13 @@ zylom.com###headerbar_privacy
 ||kristinee.com^$all
 ||kronikaonline.ro/template/kronika/js/js_cookie.js
 ||krookmedia.fi/wp-content/plugins/cookie-law-info/$script,domain=krookmedia.fi
-||ksehinkitw.hair^$all
-||kuaizip.com^$all
-||kukutrustnet777.info^$all
 ||kuno-gae.com^$document,popup
 ||kusakabehifuka.com^$all
 ||kustomerapp.com^$3p
-||kuurza.com^$all
 ||kuyhaa-me.id^$all
 ||kuyhaa-mee.com^$all
 ||kvksis.com^$third-party
+||kygens.xyz^$all
 ||kylierosefetish.com^$all
 ||kyxc.com^$all
 ||kzdress.com^$all
@@ -31084,7 +30902,6 @@ zylom.com###headerbar_privacy
 ||la.quicksightnow.com^$document
 ||lacompagnie.com/Content/dist/templates/common/popupCookies/
 ||lacostcheapuk.com^$all
-||laforetlanguages.com^$document
 ||laguiadelocio.com^$all
 ||lakecumberlandfishingguide.com^$all
 ||lakeserenespa.com^$all
@@ -31100,7 +30917,6 @@ zylom.com###headerbar_privacy
 ||lapels.org^$all
 ||larka.de^$all
 ||laro.co^$document
-||lartmana.com^$all
 ||lasercutjewelry.net^$document
 ||lasierratiresutah.com^$all
 ||lasport.shop^$all
@@ -31111,13 +30927,10 @@ zylom.com###headerbar_privacy
 ||lasportivawanderschuhe.de^$document
 ||lastpassrecovery.com^$all
 ||latamdate.com^$document
-||latestsoftz.com^$all
-||lattemptaqwe.club^$all
 ||laubergeduvieuxcrozet.com^$all
 ||lauhoosh.net^$all
 ||launchpotato.com^$3p
 ||lawh.com^$all
-||lawrencetravelco.com^$all
 ||lawwwing.com/widgets/$third-party
 ||laxthatpie.live^$document
 ||lazada.$removeparam=dsource
@@ -31146,7 +30959,6 @@ zylom.com###headerbar_privacy
 ||leapinginto5thgrade.com^$all
 ||learn.movibaz.us^$all
 ||learner.org^$removeparam=jwsource
-||learning-base.club^$all
 ||learnpack.co.uk^$all
 ||lecoqsportifparis.fr^$document
 ||ledgerlivewallets.com^$all
@@ -31185,8 +30997,6 @@ zylom.com###headerbar_privacy
 ||libretube.net^$all
 ||libretubeapk.$document
 ||licdn.com^$3p,domain=~linkedin.com|~lnkd.in
-||licensekeysfree.com^$all
-||licensekeyup.com^$all
 ||lidl.$removeparam=flyx
 ||liegeanddairy.com^$all
 ||life.judyfay.com^$all
@@ -31226,13 +31036,10 @@ zylom.com###headerbar_privacy
 ||linktr.ee/FreeDiscordNitroGift^$all
 ||linkvertise.download^$document
 ||linuxdeal.com^$all
-||liondolularhene.info^$all
 ||liquidweb.com/ajax/dataconsentcookies
 ||liscensecoach.com^$all
 ||list-manage.com^$3p
-||listincode.com^$all
 ||littlecdn.com/apps/contents/s/e1/43/b6/8d4db17f1838a03992a72e9dbf/01412844174435.png^$all
-||littleluxuriesshop.com^$all
 ||liujoukshop.com^$document
 ||liutjytfds.top^$document
 ||liutyjytf.top^$document
@@ -31300,7 +31107,6 @@ zylom.com###headerbar_privacy
 ||longchampoutletsydney.com^$all
 ||longchampparissoldes.net^$all
 ||longchampuaedubai.com^$all
-||longmansuchcesu.com^$all
 ||lookmovie211.xyz^$removeparam=sec
 ||lookmovie211.xyz^$removeparam=sid
 ||lootprime.com^$all
@@ -31363,9 +31169,7 @@ zylom.com###headerbar_privacy
 ||lr-in.com^$3p
 ||lsmnz.perfordpetre.xyz^$all
 ||lstmoney.xyz^$all
-||ltingecauyuksehi.com^$all
 ||lubuskie.pl/themes/src/cookie.js
-||lucdream.com^$all
 ||luckyfling.com^$all
 ||lucymods.com^$all
 ||luizeva.com^$document
@@ -31402,7 +31206,6 @@ zylom.com###headerbar_privacy
 ||m.wyy158.fun^$document
 ||m2e6.com^$all
 ||macaron-cookie-data.decms.eu^
-||machinesalaver.net^$all
 ||mackagedenmark.com^$document
 ||mackagefemmeparis.com^$document
 ||mackageireland.com^$document
@@ -31437,7 +31240,6 @@ zylom.com###headerbar_privacy
 ||magistv.video^$all
 ||magoosfurniture.com^$all
 ||mahabaliexpress.com^$all
-||mahcrack.com^$all
 ||mail-cytanet.pages.dev^$document
 ||mail.213-5-71-141.cprapid.com^$all
 ||mail.qq.com/cgi-bin/frame_html?$removeparam=r
@@ -31447,14 +31249,10 @@ zylom.com###headerbar_privacy
 ||mailtknnews.com^$document
 ||main.smile-keeper.com^$document
 ||mainredirect.top^$document
-||majorinryes.com^$all
-||majorinryesopert.com^$all
 ||make.com^$removeparam=fromImt
-||makemoneywith.us^$all
 ||makingfreinds.com^$all
 ||makisushi.net^$all
 ||malgorzataschlegel.click^$document
-||maliksofts.com^$all
 ||malrboro.com^$all
 ||maltanewstime.com^$document
 ||maluch.com^$all
@@ -31470,7 +31268,6 @@ zylom.com###headerbar_privacy
 ||mandourpharmacy.com^$all
 ||maneige.ca^$all
 ||manheimauto.com^$all
-||manisation.org^$all
 ||manitoba.totalav.com^$all
 ||manitobaparks.ca^$all
 ||manizx.com^$document
@@ -31495,7 +31292,6 @@ zylom.com###headerbar_privacy
 ||marga2retta7ge6rlach.cfd^$document
 ||marinhoassessoria.com^$document
 ||maritimeway.com^$all
-||markbrey.com^$all
 ||marker.io^$3p
 ||market.yandex.ru^$removeparam=cpc
 ||marketing.mafell.de/consent/public/app.js
@@ -31530,7 +31326,6 @@ zylom.com###headerbar_privacy
 ||mastadon-verify.id-$document,domain=~mastodon.social
 ||mastadon-verify.id-83636.world^$all
 ||matamasxtensiion.$document
-||matchgoalsam.com^$all
 ||math.totalav.com^$all
 ||mathrubhmi.com^$all
 ||matichon.co.th^*/pdpa.js
@@ -31544,7 +31339,6 @@ zylom.com###headerbar_privacy
 ||maxstream.video/*.php$document
 ||may8forstudents.org/free-discord-nitro-codes-list-no-human-verification/^$all
 ||maze.co^$3p
-||mb38.com^$all
 ||mbenzusa.com^$all
 ||mbwjk.de^$all
 ||mcafee.com^$removeparam=ccstype
@@ -31563,7 +31357,6 @@ zylom.com###headerbar_privacy
 ||me9ddf.moebelix.cz^
 ||meaganslaw.com^$all
 ||meagplin.com^$all
-||mecaglobal.com^$all
 ||mechanicalkeyboards.com^$removeparam=creator
 ||mechat.info^$all
 ||medherb.de^$all
@@ -31618,7 +31411,6 @@ zylom.com###headerbar_privacy
 ||mediasama.com^$document
 ||mediasector.es/comunes/pdcc.min.js
 ||mediasenso.com^$all
-||mediatesupervis.com^$all
 ||mediationcenter.com^$all
 ||medicalnewstoday.com/api/ccpa
 ||medicinelodgepom.com^$all
@@ -31643,10 +31435,7 @@ zylom.com###headerbar_privacy
 ||meloxicamsideeffects.org^$all
 ||memberful.com^$3p
 ||members.tonightshookup.com^$all
-||mementrandingsw.com^$all
 ||memesfunny.org^$document
-||mentbradshed.com^$all
-||mentrandingswon.com^$all
 ||mercadolibre.com.ar^$removeparam=pdp_filters
 ||mercadolibre.com.mx^$removeparam=/^matt_.*$/
 ||mercadolibre.com.mx^$removeparam=/^reco_.*$/
@@ -31696,7 +31485,6 @@ zylom.com###headerbar_privacy
 ||microcenter.com^$removeparam=rf
 ||microgull.com^$document
 ||microngroup.pro^$all
-||micropcsupport.com^$all
 ||microsoft-notifcation.com^$all
 ||microsoft-outlook-*.webflow.io^$document
 ||microsoft.com/*/download/details$removeparam=lc
@@ -31714,7 +31502,6 @@ zylom.com###headerbar_privacy
 ||microsoftedge.microsoft.com/addons/detail/secured-browse/gfbbhkcipmfiidllnalpchabihdgklnl^$document
 ||microsofthk.com^$all
 ||microsoftkernel.com^$all
-||microsoftpods.com^$all
 ||midiuser.net^$all
 ||midjourney.co^$all
 ||midnightblue-lapwing-207108.hostingersite.com^$all
@@ -31739,7 +31526,6 @@ zylom.com###headerbar_privacy
 ||minnesotagoldendoodles.com^$all
 ||minutewinner.com^$document
 ||miracrookshanks.ru.com^$document
-||miredindeed.net^$all
 ||mirfakpersei.top^$document
 ||mirrornewstoday.com^$document
 ||mitkindernwachsen.de^$all
@@ -31771,7 +31557,6 @@ zylom.com###headerbar_privacy
 ||mobilesecuremail.com^$document
 ||mobilisearch.com^$all
 ||mobility-search.com^$all
-||moch.forweb.pl^$document
 ||moddetail.com^$document
 ||modesoft.me^$document
 ||modestogold.com^$all
@@ -31783,7 +31568,6 @@ zylom.com###headerbar_privacy
 ||mojsng.com^$all
 ||moksoxos.com^$all
 ||mollinsburncarsales.co.uk^$all
-||mollybootmexico.com^$document
 ||momentsoflife.com^$all
 ||monasteriodepoio.com^$all
 ||monesupermarket.com^$all
@@ -31798,6 +31582,7 @@ zylom.com###headerbar_privacy
 ||montiapm.com^$3p
 ||montlusa.top^$all
 ||monyorder.com^$all
+||moodabvrockcon.com^$document
 ||moonboot-suomi.com^$document
 ||moonbootssuomi.com^$document
 ||moonpay.io^$all
@@ -31878,7 +31663,6 @@ zylom.com###headerbar_privacy
 ||musleblaze.com^$all
 ||mutedvods.com^$all
 ||mwgtf.hintonjour.com^$all
-||mwoukrkskills.xyz^$all
 ||mx2.hookarts.life^$all
 ||my-acount-free.hubside.fr^$all
 ||my-casino-now.com^$all
@@ -31903,7 +31687,6 @@ zylom.com###headerbar_privacy
 ||mycarrer.com^$all
 ||mycleanid.com^$document
 ||mycleanpc.com^$document
-||mycrackfree.com^$all
 ||mycreditonecard.com^$all
 ||mydicksportinggoods.com^$all
 ||mydigitalgadgets.com^$document
@@ -31932,7 +31715,6 @@ zylom.com###headerbar_privacy
 ||myliferouch.com^$all
 ||mylocaldates1s.com^$all
 ||mymercy.click^$document
-||mymicrogreen.mightcode.com^$all
 ||mymorri.click^$document
 ||mynait.ca^$all
 ||mynemesis.live^$all
@@ -31978,9 +31760,7 @@ zylom.com###headerbar_privacy
 ||napkimcuong.com^$all
 ||napublic.com^$document
 ||nartube.com^$all
-||nashvillegems.com^$all
 ||nastydollz.wiki^$all
-||natallcolumnsto.info^$all
 ||nathanaeldan.pro^$document
 ||nationalconsumerscenter.co.uk^$document
 ||nationalposttoday.com^$document
@@ -31999,23 +31779,19 @@ zylom.com###headerbar_privacy
 ||nbaallstarfan.store^$all
 ||nbgpapartmani.com^$document
 ||nbkonline.com^$all
-||nbryb.com^$all
 ||ncaafanshop.com^$all
 ||ncaajersey.com^$all
 ||ncaajersey.pro^$all
 ||ncaajersey.sale^$all
 ||ncaajerseysstore.com^$all
 ||ncaashopjerseys.com^$all
-||ncelewasgildeda.net^$all
 ||ncscu.com^$all
 ||ndandinter.hair^$all
-||ndencesch.xyz^$all
 ||nearbyme.io^$document
 ||neatherlandnewstoday.com^$document
 ||neckheavy.com^$all
 ||nederlandseloterij.nl/statics/nlportal-cookie-consent.$script
 ||nedspipeandsteel.com^$all
-||nedtolethimbevx.com^$all
 ||needyscarcasserole.com^
 ||neeglashsurvey.top^$all
 ||neeva.com^$removeparam=nva
@@ -32025,8 +31801,6 @@ zylom.com###headerbar_privacy
 ||nepremicnine.net^$3p
 ||neptunclicks.com^$all
 ||nerdrooted.com^$removeparam=sfw
-||nergyflexibilit.pics^$all
-||nerybelfaste.xyz^$all
 ||nesteggtrailers.com^$all
 ||net-parade.it^$removeparam=pl
 ||netbuilding.com.ar^$document
@@ -32057,9 +31831,7 @@ zylom.com###headerbar_privacy
 ||newincomingmessage.com^$document
 ||newkindofmotherhood.com^$all
 ||newpipe.app^$document
-||newproductkey.com^$all
 ||newprofitcontrol.com^$all
-||newrrb.bid^$all
 ||news-back.org^$document
 ||news-pelivo.com^$all
 ||news-pewuce.com^$all
@@ -32094,13 +31866,11 @@ zylom.com###headerbar_privacy
 ||nflstorefan.com^$all
 ||nflsts.com^$all
 ||ngfiles.com^$removeparam=/^f\d{4,}=$/
-||ngswonden.xyz^$all
 ||nhdata.s3-us-west-2.amazonaws.com^$all
 ||nhlallstar.pro^$all
 ||nhljersey.sale^$all
 ||nhlshopfan.com^$all
 ||nhlshopjersey.com^$all
-||nholinolout.tk/0d94969df6099021ed5f897a4144a946wOXvweYgLQgLx-WSJE8uNrZlSB0R8yPrpXhu/-Download-E33Hwwp-QbvNGlXIoS^$all
 ||niagaragazette.com^$all
 ||nice-babes-nearby.com^$all
 ||nichewines.com^$all
@@ -32114,7 +31884,6 @@ zylom.com###headerbar_privacy
 ||nikeinsuomi.com^$document
 ||nikene.com^$all
 ||nikeoutletsuomi.com^$document
-||nikesouthafricasale.co.za^$document
 ||nikesuomi-fi.com^$document
 ||nikkei.com^$removeparam=adid
 ||nikkei.com^$removeparam=i_cid
@@ -32129,7 +31898,6 @@ zylom.com###headerbar_privacy
 ||niuqiu.com^$all
 ||njtutoriales.net^$all
 ||nkingwitheaam.com^$all
-||nkitwkuouldhu.com^$all
 ||nmaib9.com^$3p
 ||nnsnnqn.shop^$all
 ||no^$removeparam=/^source=core-carousel$/
@@ -32167,7 +31935,6 @@ zylom.com###headerbar_privacy
 ||nor-pw7.com^$all
 ||nor-pw8.com^$all
 ||nor-pw9.com^$all
-||normaticalaccu.com^$all
 ||norml.org^$removeparam=can_id
 ||norml.org^$removeparam=email_referrer
 ||norml.org^$removeparam=email_subject
@@ -32203,7 +31970,6 @@ zylom.com###headerbar_privacy
 ||notion.so^$removeparam=gspk
 ||notion.so^$removeparam=gsxid
 ||notion.so^$removeparam=pscd
-||notquiteso.buzz^$all
 ||notyfrom.info^$document
 ||nova.cz^$removeparam=dop_ab_variant
 ||nova.cz^$removeparam=dop_id
@@ -32221,7 +31987,6 @@ zylom.com###headerbar_privacy
 ||novorojencek.com^$all
 ||now.okaynotification.com^$all
 ||nowehoryzonty.pl/js/cookies.js
-||npracticalwhic.buzz^$all
 ||npttech.com^$3p
 ||nscotra.com^$all
 ||nsimg.net
@@ -32231,7 +31996,6 @@ zylom.com###headerbar_privacy
 ||nursingsa.com^$all
 ||nutricroq.com^$all
 ||nutriksystem.com^$all
-||nuwealthmedia.com^$all
 ||nvcrcf.com^$all
 ||nvidia.com^$removeparam=jso
 ||nvidiainspector.ru^$all
@@ -32272,7 +32036,6 @@ zylom.com###headerbar_privacy
 ||odvanced-ip-scanner.com^$document
 ||oe24.co^$document
 ||oeaw.ac.at^*/js.cookie.min.js
-||oefanyorbesttn.info^$all
 ||oerproject.com^$removeparam=RegistrationSource
 ||offer-select.com^$document
 ||offers.usabangpalace.com^$all
@@ -32308,7 +32071,6 @@ zylom.com###headerbar_privacy
 ||omanala.com^$all
 ||omasatra.com^$all
 ||omchimcharchan.com^$all
-||omefukmendat.xyz^$all
 ||omelette.bonjour-ratp.fr/gtm.js
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js
 ||ommentsere.biz^$document
@@ -32354,10 +32116,7 @@ zylom.com###headerbar_privacy
 ||onlymatchcity.com^$all
 ||onlyshagplace.com^$all
 ||onmarshtompor.com^$all
-||onopolicycr.xyz^$all
-||onopolicycreat.com^$all
 ||onpharmvermen.com^$all
-||onsukultingecauy.com^$all
 ||onwasrv.com^$all
 ||onxatutor.com^$all
 ||oo-o.co^$all
@@ -32390,11 +32149,8 @@ zylom.com###headerbar_privacy
 ||orange.pl/ocp-http/map/js/cookies.js
 ||orangeclickmedia.com^$third-party
 ||orangepix.it/cookie/
-||oratefinaukn.xyz^$all
-||oratefinauknceiwo.com^$all
 ||order-safely.com^$document
 ||orderdeadline.com^$3p
-||organiccrack.com^$all
 ||orige-duo.com^$document,popup
 ||origin.com^$3p,domain=origin.com
 ||originalspartner.life^$document
@@ -32402,7 +32158,6 @@ zylom.com###headerbar_privacy
 ||ormedion.com^$all
 ||ormoredeta.xyz^$all
 ||ortb.montlusa.top^$all
-||os.telechargercdn.com^$all
 ||oshad24.biz.ua^$document
 ||osirisfootwearmexico.com^$document
 ||osirissuomi.com^$document
@@ -32419,7 +32174,6 @@ zylom.com###headerbar_privacy
 ||ourcommonwords.com^$all
 ||ourcoolposts.com^$all
 ||ourcoolstories.com^$all
-||ourhotposts.com^$all
 ||ousd-vault.com^$document
 ||outaipoma.com^$all
 ||outbrain.com^$3p
@@ -32443,7 +32197,6 @@ zylom.com###headerbar_privacy
 ||overzoruaon.com^$all
 ||overzubatan.com^$all
 ||ovhoq.nkingwitheaam.com^$all
-||ovz1.j19544519.pr46m.vps.myjino.ru^$all
 ||oxfordnewstoday.com^$document
 ||ozon.ru^$removeparam=advert
 ||ozon.ru^$removeparam=partner
@@ -32484,7 +32237,6 @@ zylom.com###headerbar_privacy
 ||parallels.com^$removeparam=x-source
 ||parik24.win^$document
 ||parliamentlive.tv/cookie/
-||parmsplace.com^$all
 ||parrable.com^$all
 ||partycityfeedback.bond^$document
 ||parumal.com^$all
@@ -32492,7 +32244,6 @@ zylom.com###headerbar_privacy
 ||pastebin.com/K5YfahnC^$all
 ||pastebin.com/qwUbwYbq^$all
 ||patagoniapolskasklep.pl^$document
-||patchcracks.com^$all
 ||patreon.com/posts/$doc,removeparam=token
 ||pay.google.com^$3p,domain=~amtrak.com
 ||payapl.com^$all
@@ -32511,11 +32262,9 @@ zylom.com###headerbar_privacy
 ||pb.sogou.com^$removeparam=uigs_cookie
 ||pb.sogou.com^$removeparam=uigs_t
 ||pbtech.$removeparam=qr
-||pc-my-protection.xyz^$all
 ||pcapp.store^$document
 ||pccdirect.site^$all
 ||pccleaner.com^$document
-||pccrackbox.com^$all
 ||pccrackworld.com^$all
 ||pcfullcrack.org^$all
 ||pchelperwizard.com^$document
@@ -32530,7 +32279,6 @@ zylom.com###headerbar_privacy
 ||pcspeedcat.com^$all
 ||pcspeedup.en.softonic.com^$document
 ||pcsystemfix.com^$document
-||pcwarezbox.com^$all
 ||pda.totalav.com^$all
 ||pdf-library.org^$document
 ||pdfconverterpower.net^$document
@@ -32542,11 +32290,9 @@ zylom.com###headerbar_privacy
 ||pdftab.com^$document
 ||pdfviewer.app^$document
 ||pdtrax.g2afse.com^$document
-||pegaz-paragliding.com^$all
 ||pei.totalav.com^$all
 ||pejik.com^$all
 ||pekanbaru.one^$document
-||peninsularbottling.com^$all
 ||pepper.com/assets/js/CookiesMessage_
 ||percumannue.com^$all
 ||perfectbabe4you.com^$all
@@ -32563,7 +32309,6 @@ zylom.com###headerbar_privacy
 ||phonetracking.net^$all
 ||phonsee.com^$all
 ||photojobz.com^$removeparam=hop
-||phpstat.cntcm.com.cn/phpstat/count/abceffgh/abceffgh.js^$all
 ||phtgnx.top^$all
 ||piano.io$3p
 ||piazza.cc/public/app.js
@@ -32575,9 +32320,7 @@ zylom.com###headerbar_privacy
 ||pinterest.com^$3p
 ||pipeschannels.com^$all
 ||pipopi.com^$document
-||pirate4.life^$all
 ||piratesfile.com^$all
-||piratpc.com^$all
 ||pirkkalainen.fi/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js
 ||pisism.com^$document
 ||pittsburghsteelersshop.com^$all
@@ -32592,7 +32335,6 @@ zylom.com###headerbar_privacy
 ||platform.twitter.com^$3p,domain=~x.com|~tweetdeck.com|~twitter.com|~twitter.jp
 ||play.google.com^$3p,domain=~graysky.app
 ||play.sweepstakesalerts.com^$document
-||playeranydwould.info^$all
 ||pleaserchaussure.com^$document
 ||pleaserchaussures.com^$document
 ||pleaserheelscanada.com^$document
@@ -32601,15 +32343,11 @@ zylom.com###headerbar_privacy
 ||pleasetrack.com^$all
 ||plug.it^*/cmp.min.js
 ||plugin.management^
-||plus-x.xsrv.jp^$all
-||plusclick.biz^$all
 ||pmcatalyst-ae.com^$3p
-||pmetorealiukze.xyz^$all
 ||pmf.sc.gov.br/arquivos/br.php^$all
 ||pnsys.info^$all
 ||pnt.info.pl^$all
 ||pogothere.xyz^$document
-||pohsoneche.info^$all
 ||poistenie-sk.com^$document
 ||polaris-bios-editor.ru^$all
 ||polaris.truevault.com^$third-party
@@ -32626,14 +32364,11 @@ zylom.com###headerbar_privacy
 ||popupmaker.com^$3p
 ||popupsblocker.org^$document
 ||por.pdfpilotapp.com^$document
-||portabledownloads.com^$all
 ||portal.totalav.com^$all
 ||portalproveedores.com.mx^$all
 ||portugalnewstoday.com^$document
 ||posiberchon.com^$all
 ||positive-daters.com^$all
-||possessedcrackinghart.com^$all
-||post4at.live^$document
 ||posta.sk/cookies-consents/v1/cookies-consents.js
 ||postgazettenewstoday.com^$document
 ||postleitzahl.org/images/consent.php
@@ -32645,7 +32380,6 @@ zylom.com###headerbar_privacy
 ||poundrynloweq.com^$all
 ||poweradblocker.com^$document
 ||powerboostup.com^$all
-||powerhousetoys.com^$all
 ||pp.45-61-158-129.cprapid.com^$document
 ||pq.hosting^$all
 ||pr-ue-ba-de-lsa-bermu-ne-cp5iah7zlw.vercel.app^$document
@@ -32664,7 +32398,6 @@ zylom.com###headerbar_privacy
 ||prideandglory.pl/polityka_cookies.js
 ||primakovreadings.info^$all
 ||primeleech.com^$all
-||pringed.space^$all
 ||prispresseren.dk^$doc,removeparam=/^amp;/
 ||pristopmedia.network^
 ||privacidade.integra.global^$third-party
@@ -32706,24 +32439,14 @@ zylom.com###headerbar_privacy
 ||prizehub.top^$all
 ||prizesenses.life^$all
 ||prksism.com^$all
-||proappcrack.com^$all
-||proasdf.com^$document
 ||procrackerz.com^$all
-||procrackerz.org^$all
-||procrackkey.co^$all
-||procrackpc.com^$all
-||procracks.net^$all
 ||procuradoresnavas.com^$document
 ||prodfliying.com^$all
-||productkeyforfree.com^$all
-||productkeyfree.org^$all
 ||produktretter.com^$document
 ||produkttest-anmeldung.com^$document
 ||produkttester-werden.org^$document
 ||profesia.cz/assets/js/cookie_consent_
 ||profesia.sk/assets/js/cookie_consent_
-||profreefiles.com^$all
-||profullversion.com^$all
 ||progriu.top^$all
 ||promo.info-extremechat.com^$all
 ||promo.info-mymilfs.com^$all
@@ -32736,7 +32459,6 @@ zylom.com###headerbar_privacy
 ||propolixte.com^$all
 ||propvideo.net^$all
 ||prorify.de^$document
-||prosoftlink.com^$all
 ||prostargift.com^$document
 ||protect-your-phone.com^$all
 ||protected-net.breezy.hr^$document
@@ -32765,7 +32487,7 @@ zylom.com###headerbar_privacy
 ||protocol.thetruthspy.com^$all
 ||proton.me^$removeparam=phfp
 ||proton.me^$removeparam=url_id
-||protoolscrack.net^$all
+||protonwalletdesktop.com^$all
 ||pruebasbonsai.com.ar^$all
 ||prvnizpravy.cz^$removeparam=xid
 ||psaudous.com^$all
@@ -32784,7 +32506,6 @@ zylom.com###headerbar_privacy
 ||publy.net^$third-party
 ||pubtech.ai^$third-party
 ||pufgilsofp.sbs^$all
-||puldhukelpmet.com^$all
 ||pulseway.com^$removeparam=rfid
 ||puma-fi.com^$document
 ||puma-suomi.com^$document
@@ -32805,7 +32526,6 @@ zylom.com###headerbar_privacy
 ||push-gabjbib-9138.boustahe.com^$all
 ||push.trk-deserunt.com^$all
 ||pushance.com^$3p
-||pushmeup.art^$all
 ||pushub.net^$all
 ||pw-content.com^$all
 ||pw-download.com^$all
@@ -32905,7 +32625,6 @@ zylom.com###headerbar_privacy
 ||rapidownload.online^$all
 ||ratefinaukncei.info^$all
 ||rathbunlakeassoc.com^$document
-||ratiotyuknsye.pics^$all
 ||ratp.fr/modules/custom/ratp_tarteaucitron/
 ||rawfares.com^$document
 ||rawgit.net^$all
@@ -32930,8 +32649,6 @@ zylom.com###headerbar_privacy
 ||realdefen.se^$document
 ||realestate.com.au^$removeparam=rsf
 ||realgift.life^$all
-||reallcrack.com^$all
-||realnetnews.com^$all
 ||realtor.com^$removeparam=MID
 ||realtor.com^$removeparam=RID
 ||realtor.com^$removeparam=ex
@@ -32940,7 +32657,6 @@ zylom.com###headerbar_privacy
 ||rebrand.ly/30p0zqg^$all
 ||rebrand.ly/McAfeeSecurity2022ActivateDownload^$all
 ||rebuyengine.com^$3p
-||reckedmane.xyz^$all
 ||recodetime.com^$all
 ||recogerconsentimiento.com^$third-party
 ||recommendation-hybrid.wpdigital.net^$all
@@ -32987,7 +32703,6 @@ zylom.com###headerbar_privacy
 ||reebokaustralia.com^$document
 ||reebokfactoryoutlet.com^$all
 ||refer.bose.com^
-||refinedwebs.com^$all
 ||regarder.seriedfilm.com^$document
 ||regionbang.com^$all
 ||register.akamaized.ca^$all
@@ -33000,7 +32715,6 @@ zylom.com###headerbar_privacy
 ||remixshop.com/bg/site/ajaxCheckCookiePolicy
 ||renhadmasandbab.info^$document
 ||rentio.jp^$doc,removeparam=click_from
-||rentlysearchin.com^$all
 ||republicofchinatoday.com^$document
 ||researchgate.net^$doc,removeparam=_tp
 ||reshtryjd.top^$document
@@ -33011,9 +32725,6 @@ zylom.com###headerbar_privacy
 ||respekt.cz^$removeparam=dop_source_zone_name
 ||respekt.cz^$removeparam=sznclid
 ||ressource.gdpr-banner.awsmpsa.com^
-||rest.healthy2fit.com^$all
-||rest.mcghealthcare.org^$all
-||rest.neckbackpainrelief.org^$all
 ||restockssuomi.com^$document
 ||restorex360.com^$document
 ||restoro.com^$all
@@ -33047,16 +32758,13 @@ zylom.com###headerbar_privacy
 ||rewardzoneusa.com^$all
 ||reykijnoac.com^$document
 ||rfsjh070725nwj.cfd^$document
-||rgentssep.xyz^$all
 ||rh.downloads.enigmasoft.net^$document
 ||rheinenergie.com/libs/cookiebanner/
 ||rhendam.com^$all
-||ricewaterhou.xyz^$all
+||ricardo.zahlung-date.cfd^$document
 ||rich-people-club.com^$all
 ||richinfo.co^$all
-||rick63.publicvm.com^$all
 ||rightmove.co.uk^$removeparam=csg
-||ritingsynther.com^$all
 ||riva-tuner.com^$all
 ||riverisland.com^$removeparam=sem
 ||rivita3106felibgcom.hubside.fr^$all
@@ -33080,11 +32788,9 @@ zylom.com###headerbar_privacy
 ||rockportzapatos.com^$document
 ||rodo.agora.pl^
 ||roduster.com^$all
-||rogueleader.org^$all
 ||romancestarter.com^$all
 ||romanticboo.com^$document
 ||romatotti520.oicp.io^$all
-||rootcracks.org^$all
 ||rootscrack.com^$all
 ||rotf.lol/2p9fmd8k^$all
 ||rotf.lol/BDFG-KZTP-QAYW^$all
@@ -33096,13 +32802,11 @@ zylom.com###headerbar_privacy
 ||royb2.fastsearch.me^$all
 ||rozaholshouser.cfd^$all
 ||rp.pl/cmp/
-||rpc.1qw.us^$all
 ||rplnd10.com^$all
 ||rplnd60.com^$all
 ||rrmuumm.shop^$all
 ||rsmerchantservices.com^$all
 ||rt54erdfgh.pro^$all
-||rtb-8.novitrk1.com^$all
 ||rtmark.net^$all
 ||rtrcr52.com^$document
 ||rtrgt2.com^$all
@@ -33113,7 +32817,6 @@ zylom.com###headerbar_privacy
 ||ru.totalav.com^$all
 ||ruecksendungen-gratis.com^$document
 ||runoj.click^$all
-||rurelanderpurgan.com^$all
 ||russellandbromleynorge.net^$document
 ||russellnbromleycanada.com^$document
 ||russiagirlsonline.com^$document
@@ -33129,6 +32832,7 @@ zylom.com###headerbar_privacy
 ||rx-qualityshop.com^$all
 ||ryderwearjapan.com^$document
 ||ryderwearjapann.com^$document
+||ryosweb.com^$all
 ||ryzen-master.com^$all
 ||s.aolcdn.com/ads/$3p,script
 ||s.eick.it/js/consentUi.js
@@ -33137,9 +32841,9 @@ zylom.com###headerbar_privacy
 ||s.viiqvmfb.com^$document
 ||s.yimg.com/oa/consent.js
 ||s1xgjbq4.pro^$document
+||s2.filehost09.sbs^$document
 ||s2cp.xyz^$all
 ||s3.amazonaws.com/extpro/speed4.html$all
-||s4.cleancrack.tech^$all
 ||s8bet.com^$document
 ||sadeempc.com^$all
 ||sadostic.pl^$document
@@ -33163,7 +32867,6 @@ zylom.com###headerbar_privacy
 ||sale-friday.store^$all
 ||sale24-pills.com^$document
 ||salesforceliveagent.com^$3p
-||salesrepreswse.info^$all
 ||salimusic.com^$document
 ||salming.com^$removeparam=trackID
 ||salmingchile.com^$document
@@ -33218,7 +32921,6 @@ zylom.com###headerbar_privacy
 ||sciencedirect.com/*?via%3D$removeparam=/^via%3D.*$/,doc
 ||scorereward.life^$all
 ||scotlandnewstoday.com^$document
-||scracked.com^$all
 ||scribdbook.top^$all
 ||scroll.com^$3p
 ||scrookie.nl^$third-party
@@ -33296,7 +32998,6 @@ zylom.com###headerbar_privacy
 ||securedbrowser.net^$document
 ||secureexpressrequest.com^$document
 ||securefilesdogs.info^$document
-||secureleadsforever.com^$all
 ||securemetrics.apple.com^$3p
 ||securevault.top^$document
 ||securifyguard.com^$all
@@ -33307,7 +33008,7 @@ zylom.com###headerbar_privacy
 ||securysearchapp.com^$document
 ||sedationdentistrycenter.com^$document
 ||seduction-magazin.de/wp-content/plugins/borlabs-cookie/
-||seemyresumefo.com^$all
+||seedlinkservice.com^$document
 ||seeyourdata.de^$third-party
 ||segment.com^
 ||segoonow.com^$document
@@ -33316,15 +33017,10 @@ zylom.com###headerbar_privacy
 ||seller-verification.com^$document
 ||sellfox.com^$document
 ||sendrasuomi.net^$document
-||senior.tims.se^$all
 ||sensorstechforum.com^$document
-||seoopersedu.xyz^$all
 ||serasearchtop.com^$all
 ||serconmp.com^$all
-||serena-west.com^$all
 ||serenespring.info^$all
-||serialkeypatch.org^$all
-||serialsofts.com^$all
 ||seriedfilm.com^$document
 ||servebom.com^$3p
 ||servegame.com^$document
@@ -33360,10 +33056,10 @@ zylom.com###headerbar_privacy
 ||shag2night.com^$document
 ||shagsexts.com^$all
 ||shagslags.com^$all
-||shahzifpc.com^$all
 ||share.getcloudapp.com/nOuXRll9^$all
 ||share.qvcemail.com^
 ||sharefast572.tumblr.com^$all
+||sharehost06.sbs^$document
 ||sheinsz.ltwebstatic.com/she_dist/assets/backup-onetrust.$script,domain=shein.co.uk
 ||shield.totalav.com^$all
 ||shoomotairt.net^$all
@@ -33399,7 +33095,6 @@ zylom.com###headerbar_privacy
 ||shoubsee.net^$all
 ||show-review.com^$all
 ||showplax.com^$document
-||shpwmy.com^$all
 ||shrunken.com^$doc,removeparam=shortUrlDomain
 ||shutterstock.com^$3p
 ||shutterstock.com^$removeparam=src
@@ -33438,9 +33133,6 @@ zylom.com###headerbar_privacy
 ||singlewomenmeet.com^$document
 ||sitebot.ai^$3p
 ||sitepoint.com^$removeparam=fromBlog
-||sites.google.com/mytv/maintenance^$all
-||sites.google.com/view/groundworkssolutions/^$all
-||sites.google.com/view/groundworkssolutions/contact-us^$all
 ||sites.uft.edu.br/topama/news.php$document
 ||sitescdn.net^$3p
 ||sitetraffic.site^$all
@@ -33503,6 +33195,7 @@ zylom.com###headerbar_privacy
 ||snapchat.com^$removeparam=share_id
 ||snapkit.com^$3p
 ||sni.star.24ur.com.c.footprint.net^$media
+||snowvan.xyz^$all
 ||soap2day.to^$3p
 ||soapps.net^$3p
 ||socialsearchconverter.com^$all
@@ -33510,7 +33203,6 @@ zylom.com###headerbar_privacy
 ||sofortdates69.com^$document
 ||softicoapps.com^$document
 ||softronline.click^$all
-||softwar2crack.com^$all
 ||softwarebaze.top^$document
 ||softwared.click^$document
 ||softwaredlfast.top^$all
@@ -33574,7 +33266,6 @@ zylom.com###headerbar_privacy
 ||spacecom.site^$all
 ||spacex-invest.org^$all
 ||spacex-starship.org^$all
-||spacexgive.org^$all
 ||spanenewstoday.com^$document
 ||spartoo.$removeparam=sx
 ||spartoo.$removeparam=track_id
@@ -33587,7 +33278,6 @@ zylom.com###headerbar_privacy
 ||spiegel.de^$removeparam=b
 ||spinfortune.vip^$document
 ||splendidus.net^$document
-||spoilnet.com^$all
 ||sportevents.news^$all
 ||sportloto-1.co^$document
 ||sportnotizie.it/cookies-policy/
@@ -33626,11 +33316,9 @@ zylom.com###headerbar_privacy
 ||stage3x.site^$all
 ||stage3x.store^$all
 ||staging.zendrop.com^$document
-||starcrack.net^$all
 ||start.gifsearchutils.com^$document
 ||start.searchlightpro.com^$all
 ||start.searchmagiconline.com^$document
-||startcrack.co^$all
 ||startd0wnload22x.com^$all
 ||startex3download.com^$all
 ||startpage.$removeparam=segment
@@ -33638,7 +33326,6 @@ zylom.com###headerbar_privacy
 ||startpage.com/english/$image
 ||startpage.com/tst2/$image
 ||startup.iobit.com^$document
-||statclick.net^$all
 ||static.bbcrossworld.com^$all
 ||static.cdnativepush.com/contents/s/04/d8/68/c0dd305c8a79b01ae4f24672ac/01477976446043.png^$all
 ||static.cdnativepush.com/contents/s/69/55/b8/8c4f4e3359518f986fc7970194/0201779526711.png^$all
@@ -33646,7 +33333,6 @@ zylom.com###headerbar_privacy
 ||static.cdnativepush.com/contents/s/7f/95/8c/2488823c2d95d7162ff723c840/01192333514141.png^$all
 ||static.cdnativepush.com/contents/s/b8/4e/1d/153294973f0fff7258e8f43d7c/0647024544646.jpeg^$all
 ||static.cdnativepush.com/contents/s/d2/3f/93/7fe562c37a9a7a6af5df460ee7/0490618650236.png^$all
-||static.duominuo.com^$all
 ||static.imghst-de.com/*.png^$image
 ||static.imghst-de.com/eb01eaf3-369a-423f-a31e-c4221a2ca42d.png^$all
 ||static.rechargecdn.com^$3p
@@ -33655,7 +33341,6 @@ zylom.com###headerbar_privacy
 ||static.tweakbit.com^$all
 ||staticfile.net^$all
 ||staticfile.org^$all
-||staticvisit.net^$all
 ||stats.iobit.com^$document
 ||stats.itopupdate.com^$document
 ||stats.itopvpn.com^$document
@@ -33676,7 +33361,6 @@ zylom.com###headerbar_privacy
 ||steampowered.com^$removeparam=snr
 ||steelseries.com/static/css/eu-osano.
 ||stellara.de^$document
-||stellihandles.hair^$all
 ||stemboastfulrattle.com^$all
 ||stevamaddenpl.com^$document
 ||stkbl.app^$3p
@@ -33705,7 +33389,6 @@ zylom.com###headerbar_privacy
 ||stormlordpublishing.com^$document
 ||strato.de^*/consent.js
 ||stratum-eu.rplant.xyz^$all
-||strawberry6532210.brizy.site^$all
 ||stream-all.com^$all
 ||stream-dna.com^$document
 ||streamable.com^$doc,removeparam=src_internal
@@ -33736,7 +33419,6 @@ zylom.com###headerbar_privacy
 ||substack.com^$removeparam=triedRedirect
 ||suc.directaffair.com^$document
 ||successglossary.com^$all
-||suggestive.com^$document
 ||sukudoanalytica.com^$all
 ||sulkvulnerableexpecting.com^$all
 ||summersale.online^$all
@@ -33745,6 +33427,7 @@ zylom.com###headerbar_privacy
 ||sunbasket.com^$removeparam=msb3
 ||sunbasket.com^$removeparam=muts
 ||sundaydiscounts.lat^$document
+||suomi-uutiskirjeita.fi^$document
 ||supapush.net^$document
 ||super-protection-app.com^$all
 ||superagentconcierge.com^$document
@@ -33799,10 +33482,8 @@ zylom.com###headerbar_privacy
 ||synology.com/js/syno/syno_cookie_element.js
 ||sys.donecperficiam.net^$document
 ||sysdriverupdater.com^$document
-||sysianedukera.com^$all
 ||system-notify.app^$third-party
 ||system-security-scan.net^$all
-||systemini-com.tk^$all
 ||systemoon.co.in^$all
 ||szekelyhon.ro/template/szekelyhon_new/js/js_cookie.js
 ||t-post.com^$all
@@ -33877,7 +33558,6 @@ zylom.com###headerbar_privacy
 ||target.com^$removeparam=lnk
 ||target.com^$removeparam=lnm
 ||tarteaucitron.io/load.js
-||tasesetitoefany.info^$all
 ||taskrabbit.com^$removeparam=creative_id
 ||tauschticket.de/js/cnst.js
 ||tauvoojo.net^$all
@@ -33895,7 +33575,6 @@ zylom.com###headerbar_privacy
 ||tdsintegrations11.online^$all
 ||teams.microsoft.com^$3p,domain=~microsoft.com|~office.com|~live.com
 ||teamsimmer.com/wp-content/uploads/klaro/klaro.js
-||tebilaterde.xyz^$all
 ||techadsology.com^$all
 ||techbytemedia.com^$all
 ||techcrunch.com^$removeparam=guccounter
@@ -33919,17 +33598,11 @@ zylom.com###headerbar_privacy
 ||teenymi.tistory.com^$all
 ||teevpower.com^$document
 ||tegprokess.pro^$all
-||tegraokulary.pl^$all
 ||tei.ai^$document
 ||teknosa.com^$doc,removeparam=adp_cid
 ||teknosa.com^$doc,removeparam=adp_oid
 ||tele-latino.com^$all
-||telebrzm.vip^$document
-||telegbrm.club^$document
-||telegcmn.cc^$document
-||telegcrenn.club^$document
 ||telegcrmz.$document,domain=telegcrmz.*
-||telegcrmz.club^$document
 ||telegr.am/user_mgt/login$all
 ||telegra.ph/Best-tutorial-04-30^$all
 ||telegra.ph/Clip-Studio-Crack-Latest-Version-08-15^$all
@@ -33946,18 +33619,9 @@ zylom.com###headerbar_privacy
 ||telegramweb.vercel.app^$all
 ||telegrnm.org^$all
 ||telejracm.$document,domain=telejracm.*
-||telejracm.work^$document
-||telejrzmn.cc^$document
-||telejrzmn.club^$document
-||telejrzmn.work^$document
 ||telelatino.app^$all
 ||telemechanism.cyou^$all
 ||telemetry.mozilla.org^$badfilter
-||teleptrm.work^$document
-||teleqpcn.club^$document
-||teleqpcn.work^$document
-||teleqrinm.cn^$document
-||teleqrinm.com.cn^$document
 ||teletarget.ru^
 ||teletrader.com^$removeparam=internal
 ||templatesearch.org^$all
@@ -33987,23 +33651,17 @@ zylom.com###headerbar_privacy
 ||tevahelsinki.com^$document
 ||tevassuomi.com^$document
 ||tevasuomi.com^$document
-||texcepededo.info^$all
 ||texonnero.co.in^$all
 ||textorsext.com^$all
-||tgandmotivat.com^$all
 ||tgram.ru^$all
-||thaitingshos.xyz^$all
 ||thale-ete.com^$document
 ||thanhhd.com^$3p
 ||thaudray.com^$all
 ||thbstvd.com^$all
-||the-crypto-genius.net^$all
 ||the-north-face.gr^$document
 ||thebeneclinic.com^$document
 ||theconsumerhq.com^$document
 ||thecoolgirl.no^$document
-||thecrackbox.com^$all
-||thecrs.club^$all
 ||thedailymailnewstoday.com^$document
 ||thedailytelegraphnewstoday.com^$document
 ||thedrivingtutors.com^$document
@@ -34013,7 +33671,6 @@ zylom.com###headerbar_privacy
 ||thegadgetguru.club^$all
 ||theguardian.com^$removeparam=CMP
 ||thehackernews.com^$removeparam=_m
-||theharityhild.buzz^$all
 ||theheraldnewstoday.com^$document
 ||thehill.com^$removeparam=email
 ||thehill.com^$removeparam=emaila
@@ -34044,10 +33701,8 @@ zylom.com###headerbar_privacy
 ||thewindowsactivator.com^$all
 ||thewinjackpot.life^$all
 ||thimatic-apps.com^$3p
-||thiscrack.com^$all
 ||thisisdone.com/gdpr/$third-party
 ||thisismoney.co.uk^$removeparam=molReferrerUrl
-||thoughtplus.in^$all
 ||threads.com^$removeparam=slof
 ||threads.com^$removeparam=xmt
 ||threatdetect.org^$all
@@ -34063,7 +33718,6 @@ zylom.com###headerbar_privacy
 ||ti3fsaa.cloud^$document
 ||tiamo.life^$all
 ||tiborola.info^$all
-||ticaframeofm.xyz^$all
 ||tidy-mark.com^$all
 ||tiendacolumbiachile.com^$all
 ||tiendasairjordanmexico.com^$document
@@ -34096,7 +33750,6 @@ zylom.com###headerbar_privacy
 ||timberlandhelsinki.com^$document
 ||timberlandmontreal.net^$document
 ||timberlandsuomi.net^$document
-||time4news.net^$all
 ||timecrom.com^$all
 ||timesofeuropnews.com^$document
 ||timesofnetherland.com^$document
@@ -34108,10 +33761,8 @@ zylom.com###headerbar_privacy
 ||tinymce.com^$3p
 ||tinypass.com^
 ||tinyurl.com/45tkeyep^$all
-||tinyurl.com/gp84uz2^$document
 ||titsx.com^$3p
 ||tiurll.com^$all
-||tivatingotheremplo.com^$all
 ||tjrksciow.pro^$all
 ||tkqlhce.com^$removeparam=sdate
 ||tlgrph.gotorange.top^$all
@@ -34196,7 +33847,6 @@ zylom.com###headerbar_privacy
 ||top-video-content.com^$all
 ||top-wealth-secrets.com^$all
 ||top-web-secure.com^$all
-||topcracked.com^$all
 ||topeuropenews.com^$document
 ||topfiles.cfd^$document
 ||topkeygen.com^$all
@@ -34287,7 +33937,6 @@ zylom.com###headerbar_privacy
 ||trk-magnam.com^$all
 ||trk.weather-in.xyz^$document
 ||trk6.kokamedia.com^$all
-||trkk4.com^$all
 ||trkmyclk.xyz^$all
 ||trkrspace.com^$all
 ||tronite.xyz^$all
@@ -34305,22 +33954,19 @@ zylom.com###headerbar_privacy
 ||truyoproductionuscdn.truyo.com^
 ||try.ekommmedia.com^$document
 ||try.equiwarmpro.co^$document
-||trycracksoftware.com^$all
 ||tryimv3srvsts.com^$all
-||ts-group.com^$all
 ||ts.totalav.com^$all
-||tsapphires.buzz^$all
 ||tsmedia.si^$3p
 ||tsn.ca^$doc,removeparam=tsn-amp
 ||tsyndicate.com^$3p
 ||tt.web.enigmasoftware.com^$document
 ||ttincoming.traveltraffic.cc^$all
-||tuallyenitwasbr.com^$all
 ||tubebuddy.com^$removeparam=a
 ||tui.$removeparam=agent
 ||tumblr.com^$removeparam=is_related_post
 ||tumblr.gotohouse.top^$document
 ||tumicheapuk.com^$all
+||tunnis-tautuminen-fi.gt.tc^$document
 ||turapport-strience.icu^$document
 ||turkeynewstoday.com^$document
 ||turnto.com^$3p
@@ -34329,7 +33975,6 @@ zylom.com###headerbar_privacy
 ||tv2a.dk/consent/
 ||tv2a.dk/oil.
 ||tvpworld.com/files/portale-v4/polityka-prywatnosci/js/tvp-tcfapi.js
-||tw-goldenwinner-57.com^$all
 ||tweakbit.com^$all
 ||tweakers.net^$removeparam=nb
 ||tweakers.net^$removeparam=u
@@ -34351,7 +33996,6 @@ zylom.com###headerbar_privacy
 ||two.findanswersnow.net^$document
 ||typeform.com^$removeparam=typeform-source
 ||typekit.net^
-||typiccor.com^$all
 ||typography.com^$3p,~stylesheet,~xhr
 ||tyrdddsa.top^$document
 ||u.therewardboost.com^$all
@@ -34376,28 +34020,22 @@ zylom.com###headerbar_privacy
 ||ufadeal.info^$document
 ||ufile.io/p4nduixt^$all
 ||ufox.info^$all
-||ughtsustacheds.com^$all
 ||ugroocuw.net^$all
 ||uhe.fitflirts.com^$all
 ||uidhealth.com^$all
-||uinground.com^$all
 ||uiz.io^$document
 ||uk-news.pro^$document
 ||uk.earnyourswag.com^$document
 ||uk.findneighboursonline.com^$all
 ||ukflirtzone.com^$all
-||ukindwouldm.xyz^$all
 ||ukrainelady.net^$all
 ||ukrainianbride.net^$document
-||ukseseemyres.xyz^$all
-||uktureukworekto.com^$all
 ||ul.com^$removeparam=redirected
 ||ultimate-eraser.com^$document
 ||ultracomb.com.ar^$all
 ||ultrafastultra.blogspot.com^$all
 ||ultrasonica.info^$all
 ||umbrellacorporation.id^$all
-||umeformorede.xyz^$all
 ||umich.edu/apis/umcookieconsent/
 ||umobix.com^$all
 ||un-titled.co/remain/DNS/index.php$document
@@ -34450,7 +34088,6 @@ zylom.com###headerbar_privacy
 ||updateinfoacademy.com^$all
 ||updates.adobe-soft.$document
 ||updates.onesafesoftware.com^$all
-||upervisofosev.xyz^$all
 ||upf.xdpapmz.shop^$all
 ||upgrade-phone.club^$all
 ||uplevelreward.com^$all
@@ -34460,7 +34097,6 @@ zylom.com###headerbar_privacy
 ||upload.ee/files/14795098/Installer.rar.html^$all
 ||uploaddeimagens.com.br^$all
 ||uploader-rars.com^$document
-||uploadev.org/hkoarfyqyne8^$all
 ||uplucarioon.com^$all
 ||upnews.me^$document
 ||uponarticunoer.com^$all
@@ -34486,19 +34122,16 @@ zylom.com###headerbar_privacy
 ||urmavite.com^$all
 ||us-trendingtoday.com^$document,popup
 ||us.usaday.biz^$all
-||us1.trkk4.com^$all
 ||us11.org^$document
 ||us5.co^$document
 ||usabangpalace.com^$all
 ||usaday.biz^$all
-||usegetmarketings.com^$all
 ||user0.subscribe-notifications.com^$document
 ||user1.subscribe-notifications.com^$document
 ||usercentrics.eu^$third-party
 ||users-choice-app.com^$all
 ||uslecce.it^$removeparam=et
 ||usonkd.com^$document
-||usps-delivery-a.com^$all
 ||usps.com-expresf.top^$all
 ||usps.com-expresh.top^$all
 ||usps.com-expresj.top^$all
@@ -34518,7 +34151,6 @@ zylom.com###headerbar_privacy
 ||utm-adrooz.com^$all
 ||utpwk.com^$all
 ||uuksehinkitwkuo.com^$all
-||uytdwhitdoe.info^$all
 ||v.therewardboost.com^$all
 ||v2-o-p-e-n-s-e-a.com^$document
 ||v3-dappradar.com^$document
@@ -34543,10 +34175,7 @@ zylom.com###headerbar_privacy
 ||vast-conexxion.com^$all
 ||vbbv.store^$document
 ||vbmoney.xyz^$all
-||vbriverafter.xyz^$all
 ||vbucks-goo.com^$all
-||vcracks.com^$all
-||veilcurtin.world^$document
 ||veja.com.gr^$document
 ||vejaathensgreece.net^$document
 ||vejabelgium.com^$document
@@ -34582,7 +34211,6 @@ zylom.com###headerbar_privacy
 ||vessischoenen.com^$document
 ||vessisuomi.com^$document
 ||vg247-uk.vg247.com^
-||vgosuslugi.ru^$all
 ||vgrcxa.com^$all
 ||viafoura.co^$3p
 ||viafoura.net^$3p
@@ -34704,12 +34332,10 @@ zylom.com###headerbar_privacy
 ||walmart.com^$removeparam=u1
 ||walmart.com^$removeparam=veh
 ||warehousesale.shop^$document
-||wasanasset.buzz^$all
 ||washingtonpost.com/pwapiv2/$xhr,1p
 ||washingtonpost.com/subscribe/
 ||washingtonposttoday.com^$document
 ||washingtontimesnewstoday.com^$document
-||wastyuioytryiuoytryiuopuytryuioewr5t678i.s3.amazonaws.com^$all
 ||watchnowclick.com^$all
 ||wattfo.com^$document
 ||wavebrowser.co^$document
@@ -34720,15 +34346,12 @@ zylom.com###headerbar_privacy
 ||wcp8i2vke3a4lj4g3v90bm6m.date-corner.com^$all
 ||weafgre.top^$document
 ||weather-in.xyz^$document
-||web-free.hubside.fr^$all
 ||web-protected-app.com^$all
 ||web-telegram.net^$all
 ||web.locasualx.com^$document
 ||web.mycleanpc.com^$document
 ||web.webflows.net^$all
 ||web0mail.hubside.fr^$all
-||webcachespace.net^$all
-||webcachestorage.com^$all
 ||webcamstream.sbs^$document
 ||webcf.quickdriverupdater.com^$document
 ||webflows.net^$all
@@ -34745,7 +34368,6 @@ zylom.com###headerbar_privacy
 ||webtools.avanquest.com^$document
 ||webtools.pchelpsoft.com^$document
 ||weddstyle.de/bilder/banner/$image
-||wedonhisdhiltew.info^$all
 ||weibo-b5game.com^$all
 ||weibo.*^$removeparam=dt_dapp
 ||weibo.*^$removeparam=weibo_id
@@ -34758,7 +34380,6 @@ zylom.com###headerbar_privacy
 ||weiterbildung-biberach.de/ccm-wb/public/app.js
 ||weledying-jessed.com^$all
 ||weletmim.com/click?pid=*&offer_id=*&$document
-||wellhello.com^$document
 ||welt.de^$removeparam=wtrid
 ||wenku.baidu.com/search?$removeparam=cc
 ||wenku.baidu.com^$removeparam=_wkts_
@@ -34770,8 +34391,6 @@ zylom.com###headerbar_privacy
 ||whaujimisurvey.top^$all
 ||wheel-of-luck.com^$all
 ||wheeshoo.net^$document
-||wherewedev.com^$all
-||whitecracked.com^$all
 ||whitepages.com^$doc,removeparam=wp_content
 ||whitepages.com^$doc,removeparam=wp_medium
 ||whitepages.com^$doc,removeparam=wp_term
@@ -34811,11 +34430,9 @@ zylom.com###headerbar_privacy
 ||winzipsystemtools.com^$document
 ||winzipultimatepccare.com^$document
 ||wired.com^$removeparam=intcid
-||wisconsindot.gov-krsp.life^$all
 ||wisepops.net^$3p
 ||wishtoserve.com^$document
 ||wistfulether.info^$all
-||withmefeyauknaly.com^$all
 ||withsecurify.com^$all
 ||wkorea.com^$removeparam=ddw
 ||wkorea.com^$removeparam=ds_ch
@@ -34826,10 +34443,7 @@ zylom.com###headerbar_privacy
 ||wmail-endpoint.xyz^$all
 ||wmail-schnellvpn.com^$all
 ||wmail-schnellvpn.xyz^$all
-||wmail-service.com^$all
-||wnl.duominuo.com^$all
 ||wnprt.club^$all
-||wokpy.com^$all
 ||wonderfuldating.top^$all
 ||wongnai.com/_api/consents/
 ||wooqi.win^$all
@@ -34844,16 +34458,14 @@ zylom.com###headerbar_privacy
 ||wsj.com^$removeparam=inttrackingcode
 ||wsj.com^$removeparam=trackingCode
 ||wtmbook.com^$document
-||wukbgater.buzz^$all
 ||wukongsch.com/kaamel.js
 ||wume2vk7f2313j4g3srbdr3u.positive-daters.com^$all
 ||ww.totalav.com^$all
 ||ww1.appple.com^$all
 ||ww1.pwnz.org^$document
-||ww16.albumzips.xyz^$all
 ||ww3.weweekly.us^$document
-||wwpcrisis.com^$all
 ||www-click-cf.pcspeedcat.com^$all
+||www.7zip.com^$all
 ||www.ad-extremesite.com^$all
 ||www.addonsearch.net^$document
 ||www.advancedsystemrepair.com^$all
@@ -34955,7 +34567,6 @@ zylom.com###headerbar_privacy
 ||www.humanverified.net^$document
 ||www.iflirts.com^$document
 ||www.illinoisfiberconnect.com^$document
-||www.intrasvp.com^$all
 ||www.iobit.com^$document
 ||www.iolo.com^$document
 ||www.iolostore.com^$popup
@@ -34964,7 +34575,6 @@ zylom.com###headerbar_privacy
 ||www.jpnbgn.com^$document
 ||www.kuyhaa-mee.com^$all
 ||www.lilxlotus.com^$document
-||www.listincode.com^$all
 ||www.liveappsearch.com^$document
 ||www.livemintnewstoday.com^$document
 ||www.livingyourbestlife.co^$document
@@ -34980,7 +34590,6 @@ zylom.com###headerbar_privacy
 ||www.nationalposttoday.com^$document
 ||www.neatherlandnewstoday.com^$document
 ||www.neweuropetoday.com^$document
-||www.njgummys.com^$all
 ||www.norwaynewstoday.com^$document
 ||www.onesafesoftware.com^$all
 ||www.onlinepromotionsusa.com^$all
@@ -34992,7 +34601,6 @@ zylom.com###headerbar_privacy
 ||www.pchelpsoft.net^$document
 ||www.pcprotect.com^$all
 ||www.pcspeedcat.com^$all
-||www.peninsularbottling.com^$all
 ||www.plantitmodern.com^$document
 ||www.portugalnewstoday.com^$document
 ||www.postgazettenewstoday.com^$document
@@ -35031,14 +34639,12 @@ zylom.com###headerbar_privacy
 ||www.scotlandnewstoday.com^$document
 ||www.searchpoweronline.com^$document
 ||www.securedbrowser.net^$document
-||www.serena-west.com^$all
 ||www.signupandturnyourscreenoffsafepowernow.date^$all
 ||www.simplestar.com^$document
 ||www.singlesrussian.com^$document
 ||www.solvusoft.com^$document
 ||www.spanenewstoday.com^$document
 ||www.speedupmypcfree.com^$all
-||www.spoilnet.com^$all
 ||www.spyhunter.com^$document
 ||www.spyrix.com^$all
 ||www.ssp.sp.gov.br/ead/auth/video/video_$document
@@ -35049,9 +34655,7 @@ zylom.com###headerbar_privacy
 ||www.switzerlandnewstoday.com^$document
 ||www.sysdriverupdater.com^$document
 ||www.taixiu.bet^$document
-||www.takiparkrb.site^$document
 ||www.tellegrom.xyz^$all
-||www.the-crypto-genius.net^$all
 ||www.the-north-face.gr^$document
 ||www.thedailymailnewstoday.com^$document
 ||www.thedailytelegraphnewstoday.com^$document
@@ -35083,7 +34687,6 @@ zylom.com###headerbar_privacy
 ||www.transportesevaristomadero.com/profilecontent/*.exe$document
 ||www.trovi.com^$document
 ||www.turkeynewstoday.com^$document
-||www.tw-goldenwinner-57.com^$all
 ||www.tweakbit.com^$all
 ||www.ukrainianbride.net^$document
 ||www.uplevelreward.com^$document
@@ -35096,7 +34699,6 @@ zylom.com###headerbar_privacy
 ||www.washingtontimesnewstoday.com^$document
 ||www.windowserrorfixer.com^$document
 ||www.winzipultimatepccare.com^$document
-||www.wokpy.com^$all
 ||www.youvetube.com^$all
 ||www.yrxtrk.com^$document
 ||www1.lowrihouston.pro^$document
@@ -35201,11 +34803,11 @@ zylom.com###headerbar_privacy
 ||xbox.com^$removeparam=xr
 ||xcorepips.com^$document
 ||xe5j8.inghesatin.com^$all
+||xenos.love^$all
 ||xerobarefoot.sk^$document
 ||xerofootwearuk.com^$document
 ||xeroshoesaustralia.com^$document
 ||xeroshoesnz.com^$document
-||xforce-cracks.com^$all
 ||xg4ken.com^$removeparam=criteriaid
 ||xg4ken.com^$removeparam=kchid
 ||xg4ken.com^$removeparam=kct
@@ -35214,7 +34816,6 @@ zylom.com###headerbar_privacy
 ||xg4ken.com^$removeparam=locphy
 ||xg4ken.com^$removeparam=prof
 ||xhsbpza.com^$all
-||xiaobaixitong.com^$all
 ||xiaohongshu.com^$removeparam=app_platform
 ||xiaohongshu.com^$removeparam=app_platform,doc
 ||xiaohongshu.com^$removeparam=app_version
@@ -35271,7 +34872,6 @@ zylom.com###headerbar_privacy
 ||xn--vansayakkab-9zb.com^$all
 ||xn--vejazrich-u9a.com^$document
 ||xolopbr.com^$document
-||xomosagency.com^$all
 ||xoomber.com^$document
 ||xosi.ru/shop-wallets/$document
 ||xpi.com.br/cookies-policy/
@@ -35350,8 +34950,6 @@ zylom.com###headerbar_privacy
 ||youtunbe.com^$document
 ||youutube.com^$all
 ||youvetube.com^$document
-||yremovementxv.com^$all
-||ysearchingfo.xyz^$all
 ||ythjhk.com^$all
 ||yttersiden.no^$document
 ||yuppdownload.com^$all
@@ -35361,6 +34959,7 @@ zylom.com###headerbar_privacy
 ||z.therewardboost.com^$all
 ||z83z9.com^$document
 ||zagtertda.com^$all
+||zahlung-date.cfd^$document
 ||zapatillasunderarmourchile.com^$document
 ||zat.io^$all
 ||zatte.co^$document
@@ -35370,15 +34969,12 @@ zylom.com###headerbar_privacy
 ||zdrytehy.cloud^$document
 ||zen-leakey.138-68-80-63.plesk.page^$all
 ||zephyrlabsora.com^$all
-||zeroredirect1.com^$all
 ||zexeq.com^$all
-||zgamespc.com^$all
 ||zgody.infor.pl^
 ||zhidao.baidu.com^$removeparam=qbl
 ||zhihu.com^$removeparam=hybrid_search_extra
 ||zhihu.com^$removeparam=hybrid_search_source
 ||zhihu.com^$removeparam=share_code
-||ziapc.org^$all
 ||zillow.com^$removeparam=rtoken
 ||zimbra-free-com.$document,domain=~translate.goog
 ||zimbra-free-com.hubside.fr^$all
@@ -35398,8 +34994,6 @@ zylom.com###headerbar_privacy
 ||zoominfo.com^$doc,removeparam=ch_source
 ||zosuc.sihighlyrecom.xyz^$all
 ||zougla.news^$document
-||zscracked.com^$all
-||zslicensekey.com^$all
 ||ztzguv.com^$all
 ||zubajuroo.com^$all
 ||zxbfm.ooumoughtcall.com^$all
